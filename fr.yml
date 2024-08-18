@@ -1,0 +1,193 @@
+fr:
+  name: Français
+  locales:
+    en: Anglais
+    fr: Français
+    it: Italien
+  pages:
+    home: Page d'Accueil
+    stories: Histoires
+    stories-at-level: Histoires au Niveau %{level}
+    contribute: Contribuer
+    reviews: Lire Les Avis
+  cefr:
+    a1: Débutant
+    a2: Essentiel
+    b1: Fonctionnel
+    b2: Confiant
+    c1: Courant
+    c2: Natif
+    a: 
+      one: Basique
+      other: Basiques
+    b:
+      one: Intermédiaire
+      other: Intermédiaires
+    c:
+      one: Avancé
+      other: Avancés
+  buttons:
+    show-l1: Afficher le Français
+    hide-l1: Cacher le Français
+    show-with-translation: Voir avec traduction en Français
+    allow: Autoriser
+    cancel: Annuler
+    save: Enregistrer
+    whats-this: "Qu'est-ce que c'est ?"
+    learn-more: En savoir plus
+    show: Afficher
+    hide: Masquer
+    close: Fermer
+    mark-read: Marquer comme lu
+    mark-unread: Marquer comme non lu
+  labels:
+    level: Niveau
+    language: Langue
+    story: Histoire
+    a-of-b: "%{a} de %{b}"
+    your-language: Je parle
+    learning: J'apprends
+  nav:
+    here: Nous sommes ici
+    skip: Aller au Contenu
+    back-to-top: Retour au Sommet
+    hide: Masquer le Menu
+    show: Afficher le Menu
+    menu:
+      main: Menu Principal
+      language: Langue
+  pagination:
+    next: Suivant
+    prev: Précédent
+    page: Page
+    back: Retour à la liste
+    levels:
+      all: Tous les Niveaux
+    stories:
+      next: Histoire suivant
+      prev: Histoire précédent
+      first: C'est la première histoire à ce niveau.
+      last: C'est la dernière histoire à ce niveau. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
+      all: Toutes les histoires
+      same: Lire plus au même niveau
+      harder: Essayez quelque chose de plus difficile
+      easier: Essayez quelque chose de plus facile
+  sections:
+    all:
+      tagline: Apprendre une langue en lisant des histoires
+      alpha: "Il s'agit de la version Alpha de Fabulang : le premier prototype fonctionnel. Vous faites partie de nos tout premiers utilisateurs (merci !). Le produit n'est pas fini, pas d'un mile. Nous l'avons rendu disponible à un stade précoce pour voir comment les gens l'aiment. Veuillez [donner votre avis ou signaler tout problème](https://fabulang.canny.io/feedback) !"
+      free: Fabulang est gratuit ! Pas de publicités, <span id="nocookies">pas de cookies, </span>pas de traceurs. Juste des histoires.
+      signup:
+        title: Rejoignez la communauté
+        subscribe: S'inscire
+        benefit: Inscrivez-vous pour être notifié lorsqu'il y a de nouvelles histoires à lire !
+        frequency: Un email maximum par semaine.
+        unsubscribe: Désabonnez-vous en un clic à tout moment.
+      feedback: Donner Votre Avis
+      copyright: Droits d'Auteur © %{year}
+      browser:
+        using: Vous utilisez un navigateur obsolète
+        therefore: Ce site peut donc ne pas s'afficher correctement. Veuillez mettre à niveau pour améliorer votre expérience.
+        upgrade: Mettez à niveau votre navigateur
+      donate:
+        cta: Achetez-moi un Café
+        note: Si vous voulez plus d'histoires et plus de fonctionnalités plus rapidement, envisagez une petite donation pour soutenir le projet. Comme nous n'affichons pas de publicités, nous ne gagnons pas d'argent. Nous comptons à 100 % sur des personnes comme vous. Merci !
+    languages:
+      pick: "Quelle langue apprenez-vous ?"
+    stories:
+      choose-story: Choisissez une histoire
+      none: Nous travaillons dur pour écrire des histoires pour les apprenants de %{l1}. Revenez bientôt !
+      the-end:
+        title: La Fin !
+        description: C'est toutes les histoires que nous avons pour le moment. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
+    story:
+      story-for:
+        fr: Une histoire pour les apprenants de Français
+        en: Une histoire pour les apprenants d'Anglais qui parlent Français
+        it: Une histoire pour les apprenants d'Italien qui parlent Français
+      rubric: |-
+        1. **Essayez de comprendre l'histoire.**
+        2. Regardez seulement la traduction si vous êtes bloqué.
+        3. Comparez les langues pour apprendre de nouveaux mots et expressions !
+      translation-missing: Désolé, cette traduction est manquante.
+      about-names: Les noms dans nos histoires sont changés, plutôt que traduits, entre les versions linguistiques.
+      after-panel:
+        title: Prochaines étapes
+        reviewers:
+          title: Relecteur Expert
+          intro: "Le texte de cette histoire a été vérifié et approuvé par :"
+          ads:
+            true: "Avec Pubs"
+            false: "Sans Pubs"
+          paid:
+            true: "Coûté"
+            false: "Gratuit"
+        share:
+          title: Partager
+        discuss:
+          title: Discuter
+          cta: Discutez de cette histoire
+          with: avec d'autres apprenants
+        error:
+          title: "Il y a une erreur ?"
+          fix: Corriger le texte Français
+      help:
+        title: Nous avons besoin de votre aide
+        intro: Fabulang vous a-t-il aidé ? Aidez maintenant quelqu'un d'autre à apprendre le français !
+        detail: Veuillez lire 1 histoire en français et faites-nous savoir s'il y a des erreurs.
+        buttons:
+          this: Lisez cette histoire à nouveau en français
+          other: Lisez une histoire différente
+    experts:
+      become: Devenez un Relecteur Expert
+      list: Choisissez une histoire à relire
+      reviews: Relectures
+      reviewed-count:
+        one: A relu 1 histoire
+        other: A relu %{count} histoires
+      your-logo: Votre Logo
+  seo:
+    description: Améliorez vos compétences linguistiques en lisant gratuitement des histoires courtes à votre niveau.
+    stories:
+      title:
+        fr: Textes Français %{level} Gratuits - Pratiquer la Lecture
+        en: Textes Anglais %{level} Gratuits - Pratiquer la Lecture
+        it: Textes Italiens %{level} Gratuits - Pratiquer la Lecture
+      description:
+        fr: Apprenez le Français en lisant des histoires. Matériel de lecture gratuit%{learners}.
+        en: Apprenez l'Anglais en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        it: Apprenez l'Italien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        learners: " pour les apprenants de niveau %{level}"
+  status:
+    status: Statut
+    other: Autre
+    missing: Manquant
+    read: Lu
+    unread: Non lu
+  share:
+    email:
+      email: Email
+      subject:
+        en: Anglais %{level} - Histoire de Pratique de la Lecture
+        fr: Français %{level} - Histoire de Pratique de la Lecture
+        it: Italien %{level} - Histoire de Pratique de la Lecture
+      body: Découvrez cette courte histoire de Fabulang, intitulée "%{title}"
+    twitter:
+      mention: de @Fabulang
+  cookies:
+    cookies: Cookies
+    permissions:
+      functionality_storage:
+        title: Préférences et progrès
+        description: Cookies de fonctionnalité qui sauvegardent vos préférences et vos progrès sur cet appareil.
+      analytics_storage:
+        title: Comptage des visiteurs
+        description: Cookies d'analyse pour des statistiques d'utilisation anonymes. Cela nous est très utile.
+    dialog:
+      title:
+        update: Mettez à jour vos préférences de cookies
+        request: En fait, nous avons besoin de cookies pour cela !
+      prompt: Veuillez sélectionner les cookies que nous pouvons utiliser.
+      required: Nécessaire pour la fonctionnalité que vous avez essayé d'utiliser.
+      change: Vous pouvez mettre à jour vos préférences à l'avenir en utilisant le lien en bas de chaque page.
+      legal: Nous utilisons le terme 'cookies' pour désigner toute fonctionnalité normale qui permet aux sites web de stocker des données sur votre appareil. Nous pouvons utiliser n'importe laquelle de ces fonctionnalités. Notre utilisation des cookies respecte strictement votre vie privée et le RGPD. Nous n'utiliserons jamais de cookies pour vous suivre.

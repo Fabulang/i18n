@@ -1,0 +1,193 @@
+it:
+  name: Italiano
+  locales:
+    en: Inglese
+    fr: Francese
+    it: Italiano
+  pages:
+    home: Pagina Iniziale
+    stories: Storie
+    stories-at-level: Storie a Livello %{level}
+    contribute: Contribuisci
+    reviews: Recensioni
+  cefr:
+    a1: Principiante
+    a2: Essenziali
+    b1: Funzionale
+    b2: Sicuro
+    c1: Fluido
+    c2: Madrelingua
+    a:
+      one: Base
+      other: Base
+    b:
+      one: Intermedio
+      other: Intermedi
+    c:
+      one: Avanzato
+      other: Avanzati
+  buttons:
+    show-l1: Mostra Italiano
+    hide-l1: Nascondi Italiano
+    show-with-translation: Vedi con traduzione in Italiano
+    allow: Consenti
+    cancel: Annulla
+    save: Salva
+    whats-this: Che cos'è?
+    learn-more: Scopri di più
+    show: Mostra
+    hide: Nascondi
+    close: Chiudi
+    mark-read: Segna come letto
+    mark-unread: Segna come non letto
+  labels:
+    level: Livello
+    language: Lingua
+    story: Storia
+    a-of-b: "%{a} di %{b}"
+    your-language: Parlo
+    learning: Sto imparando
+  nav:
+    here: Sei qui
+    skip: Vai al contenuto
+    top: Torna all'inizio
+    hide: Nascondi menu
+    show: Mostra menu
+    menu:
+      main: Menu principale
+      language: Lingua
+  pagination:
+    next: Avanti
+    prev: Indietro
+    page: Pagina
+    back: Torna alla lista
+    levels:
+      all: Tutti i Livelli
+    stories:
+      next: Prossima storia
+      prev: Storia precedente
+      first: Questa è la prima storia a questo livello.
+      last: Questa è l'ultima storia a questo livello. Se ne vuoi di più, per favore [facci sapere](https://fabulang.canny.io/feedback).
+      all: Tutte le storie
+      same: Leggi di più allo stesso livello
+      harder: Prova qualcosa di più difficile
+      easier: Prova qualcosa di più facile
+  sections:
+    all:
+      tagline: Impara la lingua leggendo storie
+      alpha: "Questa è la versione Alpha di Fabulang: il primo prototipo funzionante. Sei uno dei nostri primi utenti (grazie!). Il prodotto non è ancora finito, né lontanamente. L'abbiamo reso disponibile in una fase iniziale per vedere come piace alle persone. Per favore, [invia il tuo feedback o segnala eventuali problemi](https://fabulang.canny.io/feedback)!"
+      free: Fabulang è gratuito! Senza annunci pubblicitari, <span id="nocookies">senza cookie, </span>senza tracker. Solo storie.
+      signup:
+        title: Unisciti alla comunità
+        subscribe: Iscriviti
+        benefit: Iscriviti per essere notificato quando ci sono nuove storie da leggere!
+        frequency: Massimo una email a settimana.
+        unsubscribe: Disiscriviti in un clic in qualsiasi momento.
+      feedback: Lascia un Feedback
+      copyright: Diritto d'Autore © %{year}
+      browser:
+        using: Stai utilizzando un browser obsoleto
+        therefore: Questo sito potrebbe non essere visualizzato correttamente. Per migliorare la tua esperienza, effettua l'aggiornamento.
+        upgrade: Aggiorna il tuo browser
+      donate:
+        cta: Offrimi un Caffè
+        note: Se desideri più storie e più funzionalità più velocemente, considera una piccola donazione per supportare il progetto. Poiché non mostriamo pubblicità, non guadagniamo nulla. Facciamo affidamento al 100% su persone come te. Grazie!
+    languages:
+      pick: Quale lingua stai imparando?
+    stories:
+      choose-story: Scegli una storia
+      none: Stiamo lavorando duramente per scrivere storie per gli studenti di %{l1}. Torna presto!
+      the-end:
+        title: La Fine!
+        description: Queste sono tutte le storie che abbiamo al momento. Se ne vuoi di più, per favore [facci sapere](https://fabulang.canny.io/feedback).
+    story:
+      story-for:
+        it: Una storia per gli studenti di Italiano
+        en: Una storia per gli studenti di Inglese che parlano Italiano
+        fr: Una storia per gli studenti di Francese che parlano Italiano
+      rubric: |-
+        1. **Cerca di capire la storia.**
+        2. Guarda solo la traduzione se rimani bloccato.
+        3. Confronta le lingue per imparare nuove parole e frasi!
+      translation-missing: Spiacenti, questa traduzione manca.
+      about-names: I nomi nelle nostre storie vengono modificati, anziché tradotti, tra le versioni linguistiche.
+      after-panel:
+        title: Prossimi passi
+        reviewers:
+          title: Revisore Esperto
+          intro: "Il testo di questa storia è stato controllato e approvato da:"
+          ads:
+            true: "Con Pubb"
+            false: "Senza Pubb"
+          paid:
+            true: "Con Costo"
+            false: "Gratis"
+        share:
+          title: Condividi
+        discuss:
+          title: Discuti
+          cta: Discuti questa storia
+          with: con altri apprendisti
+        error:
+          title: Trovato un errore?
+          fix: Correggi il testo Italiano
+      help:
+        title: Abbiamo bisogno del tuo aiuto
+        intro: Fabulang ti ha aiutato? Ora aiuta qualcun altro a imparare l'italiano!
+        detail: Per favore leggi 1 storia in italiano e farci sapere se ci sono errori.
+        buttons:
+          this: Leggi questa storia di nuovo in italiano
+          other: Leggi una storia diversa
+    experts:
+      become: Diventa un Revisore Esperto
+      list: Scegli una storia da revisionare
+      reviews: Revisioni
+      reviewed-count:
+        one: Ha revisionato 1 storia
+        other: Ha revisionato %{count} storie
+      your-logo: Il Tuo Logo
+  seo:
+    description: Migliora le tue competenze linguistiche leggendo brevi storie al tuo livello, gratuitamente.
+    stories:
+      title:
+        it: Testi Italiani %{level} Gratuiti - Pratica di Lettura
+        en: Testi Inglesi %{level} Gratuiti - Pratica di Lettura
+        fr: Testi Francesi %{level} Gratuiti - Pratica di Lettura
+      description:
+        it: Impara l'Italiano leggendo storie. Materiale di lettura gratuito%{learners}.
+        en: Impara l'Inglese leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
+        fr: Impara il Francese leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
+        learners: " per studenti di livello %{level}"
+  status:
+    status: Stato
+    other: Altro
+    missing: Mancante
+    read: Letto
+    unread: Non letto
+  share:
+    email:
+      email: Email
+      subject:
+        en: Inglese %{level} - Storia per la Pratica di Lettura
+        fr: Francese %{level} - Storia per la Pratica di Lettura
+        it: Italiano %{level} - Storia per la Pratica di Lettura
+      body: Dai un'occhiata a questa breve storia di Fabulang, intitolata "%{title}"
+    twitter:
+      mention: da @Fabulang
+  cookies:
+    cookies: Cookie
+    permissions:
+      functionality_storage:
+        title: Preferenze e progressi
+        description: Cookie di funzionalità che salvano le tue preferenze e progressi su questo dispositivo.
+      analytics_storage:
+        title: Conteggio dei visitatori
+        description: Cookie di analisi per statistiche di utilizzo anonime. Questo è molto utile per noi.
+    dialog:
+      title:
+        update: Aggiorna le tue preferenze sui cookie
+        request: In realtà, abbiamo bisogno dei cookie per quello!
+      prompt: Seleziona quali cookie possiamo utilizzare.
+      required: Necessario per la funzione che hai provato a utilizzare.
+      change: Puoi aggiornare le tue preferenze in futuro utilizzando il link in fondo a ogni pagina.
+      legal: Utilizziamo il termine 'cookie' per indicare qualsiasi funzione normale che consenta ai siti web di memorizzare dati sul tuo dispositivo. Possiamo utilizzare qualsiasi di queste funzionalità. Il nostro uso dei cookie rispetta rigorosamente la tua privacy e il GDPR. Non useremo mai i cookie per tracciarti.
