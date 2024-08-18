@@ -221,3 +221,10 @@ en:
       required: Required for the feature you tried to use. # Displayed alongside a permissions that is required
       change: You can update your preferences in the future using the link at the bottom of every page.
       legal: We use the term 'cookies' to mean any normal feature that allows websites to store data on your device. We may use any of these features. Our use of cookies strictly respects your privacy and the GDPR. We will never use cookies to track you.
+  ebook:
+    title:
+      fr: French with Fabulang – Complete Story Collection
+      it: Italian with Fabulang – Complete Story Collection
+    cover: Cover # the cover page
+    toc: Table of Contents
+    start: Start # refers to the point in the book that is the start (first story)

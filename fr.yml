@@ -191,3 +191,10 @@ fr:
       required: Nécessaire pour la fonctionnalité que vous avez essayé d'utiliser.
       change: Vous pouvez mettre à jour vos préférences à l'avenir en utilisant le lien en bas de chaque page.
       legal: Nous utilisons le terme 'cookies' pour désigner toute fonctionnalité normale qui permet aux sites web de stocker des données sur votre appareil. Nous pouvons utiliser n'importe laquelle de ces fonctionnalités. Notre utilisation des cookies respecte strictement votre vie privée et le RGPD. Nous n'utiliserons jamais de cookies pour vous suivre.
+  ebook:
+    title:
+      en: Anglais avec Fabulang – Collection Complète d'Histoires
+      it: Italien avec Fabulang – Collection Complète d'Histoires
+    cover: Couverture # the cover page
+    toc: Table des Matières
+    start: Début # refers to the point in the book that is the start (first story)

@@ -191,3 +191,10 @@ it:
       required: Necessario per la funzione che hai provato a utilizzare.
       change: Puoi aggiornare le tue preferenze in futuro utilizzando il link in fondo a ogni pagina.
       legal: Utilizziamo il termine 'cookie' per indicare qualsiasi funzione normale che consenta ai siti web di memorizzare dati sul tuo dispositivo. Possiamo utilizzare qualsiasi di queste funzionalità. Il nostro uso dei cookie rispetta rigorosamente la tua privacy e il GDPR. Non useremo mai i cookie per tracciarti.
+  ebook:
+    title:
+      en: Inglese con Fabulang – Collezione Completa di Storie
+      fr: Francese con Fabulang – Collezione Completa di Storie
+    cover: Copertina
+    toc: Indice
+    start: Inizio
