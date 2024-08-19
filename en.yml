@@ -5,6 +5,8 @@ en:
     en: English
     fr: French
     it: Italian
+    pt: Portuguese
+    pt-BR: Brazilian Portuguese
   pages:
     # Main website pages
     home: Home # Home page
@@ -131,6 +133,7 @@ en:
         en: A story for learners of English
         fr: A story for learners of French who speak English
         it: A story for learners of Italian who speak English
+        pt-BR: A story for learners of Brazilian Portuguese who speak English
       rubric: |-
         1. **Try to understand the story.**
         2. Only look at the translation if you get stuck.
@@ -185,10 +188,12 @@ en:
         en: Free English %{level} Reading Practice Texts
         fr: Free French %{level} Reading Practice Texts
         it: Free Italian %{level} Reading Practice Texts
+        pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
       description:
         en: Learn English by reading stories. Free reading material%{learners}.
         fr: Learn French by reading stories. Free reading material%{learners} with English translations.
         it: Learn Italian by reading stories. Free reading material%{learners} with English translations.
+        pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material%{learners} with English translations.
         learners: " for learners at %{level} level"
   status:
     status: Status
@@ -204,6 +209,7 @@ en:
         en: English %{level} - Reading Practice Story
         fr: French %{level} - Reading Practice Story
         it: Italian %{level} - Reading Practice Story
+        pt-BR: Brazilian Portuguese %{level} - Reading Practice Story
       body: Check out this short story from Fabulang, called "%{title}"
     twitter:
       mention: from @Fabulang # appended to a tweet sharing a story
@@ -231,6 +237,7 @@ en:
     title:
       fr: French with Fabulang – Complete Story Collection
       it: Italian with Fabulang – Complete Story Collection
+      pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
     cover: Cover # the cover page
     toc: Table of Contents
     start: Start # refers to the point in the book that is the start (first story)

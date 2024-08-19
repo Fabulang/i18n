@@ -4,6 +4,8 @@ fr:
     en: Anglais
     fr: Français
     it: Italien
+    pt: Portugais
+    pt-BR: Portugais Brésilien
   pages:
     home: Page d'Accueil
     stories: Histoires
@@ -111,6 +113,7 @@ fr:
         fr: Une histoire pour les apprenants de Français
         en: Une histoire pour les apprenants d'Anglais qui parlent Français
         it: Une histoire pour les apprenants d'Italien qui parlent Français
+        pt-BR: Une histoire pour les apprenants de Portugais Brésilien qui parlent Français
       rubric: |-
         1. **Essayez de comprendre l'histoire.**
         2. Regardez seulement la traduction si vous êtes bloqué.
@@ -159,10 +162,12 @@ fr:
         fr: Textes Français %{level} Gratuits - Pratiquer la Lecture
         en: Textes Anglais %{level} Gratuits - Pratiquer la Lecture
         it: Textes Italiens %{level} Gratuits - Pratiquer la Lecture
+        pt-BR: Textes Portugais Brésiliens %{level} Gratuits - Pratiquer la Lecture
       description:
         fr: Apprenez le Français en lisant des histoires. Matériel de lecture gratuit%{learners}.
         en: Apprenez l'Anglais en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         it: Apprenez l'Italien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        pt-BR: Apprenez le Portugais Brésilien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         learners: " pour les apprenants de niveau %{level}"
   status:
     status: Statut
@@ -177,6 +182,7 @@ fr:
         en: Anglais %{level} - Histoire de Pratique de la Lecture
         fr: Français %{level} - Histoire de Pratique de la Lecture
         it: Italien %{level} - Histoire de Pratique de la Lecture
+        pt-BR: Portugais Brésilien %{level} - Histoire de Pratique de la Lecture
       body: Découvrez cette courte histoire de Fabulang, intitulée "%{title}"
     twitter:
       mention: de @Fabulang
@@ -201,6 +207,7 @@ fr:
     title:
       en: Anglais avec Fabulang – Collection Complète d'Histoires
       it: Italien avec Fabulang – Collection Complète d'Histoires
+      pt-BR: Portugais Brésilien avec Fabulang – Collection Complète d'Histoires
     cover: Couverture # the cover page
     toc: Table des Matières
     start: Début # refers to the point in the book that is the start (first story)

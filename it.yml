@@ -4,6 +4,8 @@ it:
     en: Inglese
     fr: Francese
     it: Italiano
+    pt: Portoghese
+    pt-BR: Portoghese Brasiliano
   pages:
     home: Pagina Iniziale
     stories: Storie
@@ -111,6 +113,7 @@ it:
         it: Una storia per gli studenti di Italiano
         en: Una storia per gli studenti di Inglese che parlano Italiano
         fr: Una storia per gli studenti di Francese che parlano Italiano
+        pt-BR: Una storia per gli studenti di Portoghese Brasiliano che parlano Italiano
       rubric: |-
         1. **Cerca di capire la storia.**
         2. Guarda solo la traduzione se rimani bloccato.
@@ -159,10 +162,12 @@ it:
         it: Testi Italiani %{level} Gratuiti - Pratica di Lettura
         en: Testi Inglesi %{level} Gratuiti - Pratica di Lettura
         fr: Testi Francesi %{level} Gratuiti - Pratica di Lettura
+        pt-BR: Testi Portoghesi Brasiliani %{level} Gratuiti - Pratica di Lettura
       description:
         it: Impara l'Italiano leggendo storie. Materiale di lettura gratuito%{learners}.
         en: Impara l'Inglese leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
         fr: Impara il Francese leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
+        pt-BR: Impara il Portoghese Brasiliano leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
         learners: " per studenti di livello %{level}"
   status:
     status: Stato
@@ -177,6 +182,7 @@ it:
         en: Inglese %{level} - Storia per la Pratica di Lettura
         fr: Francese %{level} - Storia per la Pratica di Lettura
         it: Italiano %{level} - Storia per la Pratica di Lettura
+        pt-BR: Portoghese Brasiliano %{level} - Storia per la Pratica di Lettura
       body: Dai un'occhiata a questa breve storia di Fabulang, intitolata "%{title}"
     twitter:
       mention: da @Fabulang
@@ -201,6 +207,7 @@ it:
     title:
       en: Inglese con Fabulang – Collezione Completa di Storie
       fr: Francese con Fabulang – Collezione Completa di Storie
+      pt-BR: Portoghese Brasiliano con Fabulang – Collezione Completa di Storie
     cover: Copertina
     toc: Indice
     start: Inizio
