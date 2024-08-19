@@ -79,6 +79,7 @@ it:
       free: Fabulang è gratuito! Senza annunci pubblicitari, <span id="nocookies">senza cookie, </span>senza tracker. Solo storie.
       signup:
         title: Unisciti alla comunità
+        email: Email
         subscribe: Iscriviti
         benefit: Iscriviti per essere notificato quando ci sono nuove storie da leggere!
         frequency: Massimo una email a settimana.
@@ -100,6 +101,11 @@ it:
       the-end:
         title: La Fine!
         description: Queste sono tutte le storie che abbiamo al momento. Se ne vuoi di più, per favore [facci sapere](https://fabulang.canny.io/feedback).
+      help:
+        title: Abbiamo bisogno di aiuto per tradurre più storie!
+        speaks-this: Abbiamo più storie scritte in italiano. Abbiamo bisogno di volontari esperti per tradurle. Se puoi aiutare, contattaci!
+        speaks-target: Abbiamo più storie scritte in altre lingue. Abbiamo bisogno di volontari esperti per tradurle in italiano. Se puoi aiutare, contattaci!
+        button: Posso aiutare
     story:
       story-for:
         it: Una storia per gli studenti di Italiano

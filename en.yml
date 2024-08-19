@@ -94,6 +94,7 @@ en:
       signup:
         # Sign up to the email newletter
         title: Join the community
+        email: Email
         subscribe: Subscribe # Subscribe to receive the newsletter
         benefit: Sign up to be notified when there are new stories to read!
         frequency: Maximum one email per week.
@@ -119,6 +120,11 @@ en:
         # Appears when there are no more stories to show
         title: The End! # Traditional ending phrase of a story
         description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
+      help:
+        title: We need help to translate more stories!
+        speaks-this: We have more stories written in English. We need expert volunteers to translate them. If you can help, please contact us!
+        speaks-target: We have more stories written in other languages. We need expert volunteers to translate them into English. If you can help, please contact us!
+        button: I can help
     story:
       # Single story page
       story-for:
@@ -218,7 +224,7 @@ en:
         update: Update your cookie preferences
         request: Actually, we need cookies for that!
       prompt: Please select which cookies we can use.
-      required: Required for the feature you tried to use. # Displayed alongside a list of permissions that are required
+      required: Required for the feature you tried to use. # Displayed alongside a permissions that is required
       change: You can update your preferences in the future using the link at the bottom of every page.
       legal: We use the term 'cookies' to mean any normal feature that allows websites to store data on your device. We may use any of these features. Our use of cookies strictly respects your privacy and the GDPR. We will never use cookies to track you.
   ebook:
