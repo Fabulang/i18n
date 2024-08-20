@@ -238,6 +238,19 @@ en:
       fr: French with Fabulang – Complete Story Collection
       it: Italian with Fabulang – Complete Story Collection
       pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
+    landmarks: Landmarks # Key points within an ebook (such as cover, title) that a user may wish to jump to
     cover: Cover # the cover page
+    title-page: Title Page # the inside page which shows just the book title
     toc: Table of Contents
-    start: Start # refers to the point in the book that is the start (first story)
+    start: Start # refers to the point in the book that is the start (first page of content)
+    foreword:
+      foreword: Foreword # An initial note from the author before a book begins
+      title: Thank you for your support!
+      text: |-
+        **We hope these stories help make learning languages even more fun.**
+
+        Sales of this ebook provide a small income that allows us to continue creating more stories and tools for language learners. You are free to share this ebook file with friends and family, but *please don't share it widely or publicly*.
+
+        **We will keep updating this ebook** with new and improved content. To get the latest version, go back to where you bought it and download it again. Where possible, we'll email to let you know when there's a new version available.
+
+        Thank you for reading!
