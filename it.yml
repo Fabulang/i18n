@@ -208,19 +208,36 @@ it:
       en: Inglese con Fabulang – Collezione Completa di Storie
       fr: Francese con Fabulang – Collezione Completa di Storie
       pt-BR: Portoghese Brasiliano con Fabulang – Collezione Completa di Storie
-    landmarks: Punti di riferimento
-    cover: Copertina
-    title-page: Pagina del Titolo
-    toc: Indice
-    start: Inizio
-    foreword:
-      foreword: Prefazione
-      title: Grazie per il vostro supporto!
-      text: |-
-        **Speriamo che queste storie rendano l'apprendimento delle lingue ancora più divertente.**
+    landmarks:
+      landmarks: Punti di riferimento
+      cover: Copertina
+      title-page: Pagina del Titolo
+      toc: Indice
+      start: Inizio
+    sections:
+      foreword:
+        foreword: Prefazione
+        title: Grazie per il vostro supporto!
+        text: |-
+          **Speriamo che queste storie rendano l'apprendimento delle lingue ancora più divertente.**
 
-        Le vendite di questo ebook forniscono un piccolo reddito che ci permette di continuare a creare più storie e strumenti per chi apprende le lingue. Sei libero di condividere questo file ebook con amici e familiari, ma *per favore non condividerlo ampiamente o pubblicamente*.
+          Le vendite di questo ebook forniscono un piccolo reddito che ci permette di continuare a creare più storie e strumenti per chi apprende le lingue. Sei libero di condividere questo file ebook con amici e familiari, ma *per favore non condividerlo ampiamente o pubblicamente*.
 
-        **Continueremo ad aggiornare questo ebook** con contenuti nuovi e migliorati. Per ottenere l'ultima versione, torna al luogo in cui l'hai acquistato e scaricalo di nuovo. Quando possibile, ti invieremo un'email per farti sapere quando è disponibile una nuova versione.
+          **Continueremo ad aggiornare questo ebook** con contenuti nuovi e migliorati. Per ottenere l'ultima versione, torna al luogo in cui l'hai acquistato e scaricalo di nuovo. Quando possibile, ti invieremo un'email per farti sapere quando è disponibile una nuova versione.
 
-        Grazie per la lettura!
+          Grazie per la lettura!
+      story:
+        options:
+          intro: Puoi leggere questa storia...
+          l2:
+            en: Solo in Inglese
+            fr: Solo in Francese
+            pt-BR: Solo in Portoghese Brasiliano
+          l1: Tradotto in Italiano
+          mixed:
+            title: Misto
+            en: Inglese seguito da Italiano, paragrafo per paragrafo
+            fr: Francese seguito da Italiano, paragrafo per paragrafo
+            pt-BR: Portoghese Brasiliano seguito da Italiano, paragrafo per paragrafo
+        rubric:
+          intro: "Per la migliore esperienza di apprendimento:"
