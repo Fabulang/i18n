@@ -77,7 +77,7 @@ it:
   sections:
     all:
       tagline: Impara la lingua leggendo storie
-      alpha: "Questa è la versione Alpha di Fabulang: il primo prototipo funzionante. Sei uno dei nostri primi utenti (grazie!). Il prodotto non è ancora finito, né lontanamente. L'abbiamo reso disponibile in una fase iniziale per vedere come piace alle persone. Per favore, [invia il tuo feedback o segnala eventuali problemi](https://fabulang.canny.io/feedback)!"
+      version: "Fabulang è in versione Beta: stiamo ancora lavorando duramente per aggiungere più contenuti e funzionalità. Si prega di [votare per ciò che dovremmo aggiungere successivamente](https://fabulang.canny.io/feedback){:target='_blank'} o di [segnalare eventuali problemi](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
       free: Fabulang è gratuito! Senza annunci pubblicitari, <span id="nocookies">senza cookie, </span>senza tracker. Solo storie.
       signup:
         title: Unisciti alla comunità
