@@ -91,7 +91,7 @@ pt-BR:
     all:
       # All pages
       tagline: Aprenda idiomas lendo histórias
-      alpha: "Esta é a versão Alpha da Fabulang: o protótipo em funcionamento. Você está entre nossos primeiros usuários (obrigado!). O produto não está finalizado, nem de longe. Disponibilizamos o site  em estágio inicial para ver como as pessoas gostam. Por favor, [dê seu feedback ou relate qualquer problema](https://fabulang.canny.io/feedback)!"
+      version: "Fabulang está em Beta: ainda estamos trabalhando duro para adicionar mais conteúdo e recursos. Por favor, [vote no que devemos adicionar em seguida](https://fabulang.canny.io/feedback){:target='_blank'} ou [relate qualquer problema](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
       free: Fabulang é grátis! Sem anúncios, <span id="nocookies">sem cookies, </span>sem rastreadores. Apenas histórias.
       signup:
         # Sign up to the email newletter
