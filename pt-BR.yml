@@ -230,7 +230,7 @@ pt-BR:
         update: Atualize suas preferências de cookies
         request: Na verdade, precisamos de cookies para isso!
       prompt: Por favor, selecione quais cookies podemos usar.
-      required: Necessário para o recurso que você tentou usar. # Displayed alongside a permissions that is required
+      required: Necessário para o recurso que você tentou usar.
       change: Você pode atualizar suas preferências no futuro usando o link na parte inferior de cada página.
       legal: Usamos o termo 'cookies' para significar qualquer recurso normal que permite que sites armazenem dados em seu dispositivo. Podemos usar qualquer um desses recursos. Nosso uso de cookies respeita estritamente sua privacidade e o GDPR. Nunca usaremos cookies para rastreá-lo.
   ebook:
@@ -238,6 +238,36 @@ pt-BR:
       en: Inglês com Fabulang – Coleção Completa de Histórias
       fr: Francês com Fabulang – Coleção Completa de Histórias
       it: Italiano com Fabulang – Coleção Completa de Histórias
-    cover: Capa # the cover page
-    toc: Sumário
-    start: Início  # refers to the point in the book that is the start (first story)
+    landmarks:
+      landmarks: Marcos
+      cover: Capa
+      title-page: Página de Título
+      toc: Sumário
+      start: Início
+    sections:
+      foreword:
+        foreword: Prefácio
+        title: Obrigado pelo seu apoio!
+        text: |-
+          **Esperamos que essas histórias tornem o aprendizado de línguas ainda mais divertido.**
+
+          As vendas deste ebook fornecem uma pequena renda que nos permite continuar criando mais histórias e ferramentas para os alunos de idiomas. Você é livre para compartilhar este arquivo de ebook com amigos e familiares, mas *por favor, não o compartilhe amplamente ou publicamente*.
+
+          **Continuaremos a atualizar este ebook** com conteúdo novo e melhorado. Para obter a versão mais recente, volte ao local onde você o comprou e baixe-o novamente. Quando possível, enviaremos um e-mail para avisá-lo quando uma nova versão estiver disponível.
+
+          Obrigado por ler!
+      story:
+        options:
+          intro: Você pode ler esta história...
+          l2:
+            en: Apenas em Inglês
+            fr: Apenas em Francês
+            it: Apenas em Italiano
+          l1: Traduzido para o português do Brasil
+          mixed:
+            title: Misto
+            en: Inglês seguido de português do Brasil, parágrafo por parágrafo
+            fr: Francês seguido de português do Brasil, parágrafo por parágrafo
+            it: Italiano seguido de português do Brasil, parágrafo por parágrafo
+        rubric:
+          intro: "Para a melhor experiência de aprendizado:"

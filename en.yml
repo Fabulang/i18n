@@ -238,6 +238,37 @@ en:
       fr: French with Fabulang – Complete Story Collection
       it: Italian with Fabulang – Complete Story Collection
       pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
-    cover: Cover # the cover page
-    toc: Table of Contents
-    start: Start # refers to the point in the book that is the start (first story)
+    landmarks:
+      landmarks: Landmarks # Key points within an ebook (such as cover, title) that a user may wish to jump to
+      cover: Cover # the cover page
+      title-page: Title Page # the inside page which shows just the book title
+      toc: Table of Contents
+      start: Start # refers to the point in the book that is the start (first page of content)
+    sections:
+      foreword:
+        foreword: Foreword # An initial note from the author before a book begins
+        title: Thank you for your support!
+        text: |-
+          **We hope these stories help make learning languages even more fun.**
+
+          Sales of this ebook provide a small income that allows us to continue creating more stories and tools for language learners. You are free to share this ebook file with friends and family, but *please don't share it widely or publicly*.
+
+          **We will keep updating this ebook** with new and improved content. To get the latest version, go back to where you bought it and download it again. Where possible, we'll email to let you know when there's a new version available.
+
+          Thank you for reading!
+      story:
+        options:
+          intro: You can read this story... # followed by "in French", "in Italian", etc.
+          l2:
+            fr: Just in French # Select this option to read a text in French only
+            it: Just in Italian
+            pt-BR: Just in Brazilian Portuguese
+          l1: Translated into English # Select this option to read the story in English
+          mixed:
+            title: Mixed # Select this option to read a mix of languages
+            en: English followed by English, paragraph by paragraph
+            fr: French followed by English, paragraph by paragraph
+            it: Italian followed by English, paragraph by paragraph
+            pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
+        rubric:
+          intro: "For the best learning experience:" # followed by instructions on how to use the book

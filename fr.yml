@@ -208,6 +208,36 @@ fr:
       en: Anglais avec Fabulang – Collection Complète d'Histoires
       it: Italien avec Fabulang – Collection Complète d'Histoires
       pt-BR: Portugais Brésilien avec Fabulang – Collection Complète d'Histoires
-    cover: Couverture # the cover page
-    toc: Table des Matières
-    start: Début # refers to the point in the book that is the start (first story)
+    landmarks:
+      landmarks: Points de repère
+      cover: Couverture
+      title-page: Page de Titre
+      toc: Table des Matières
+      start: Début
+    sections:
+      foreword:
+        foreword: Avant-propos
+        title: Merci pour votre soutien !
+        text: |-
+          **Nous espérons que ces histoires rendront l'apprentissage des langues encore plus amusant.**
+
+          Les ventes de cet ebook fournissent un petit revenu qui nous permet de continuer à créer davantage d'histoires et d'outils pour les apprenants en langues. Vous êtes libre de partager ce fichier ebook avec vos amis et votre famille, mais *veuillez ne pas le partager largement ou publiquement*.
+
+          **Nous continuerons à mettre à jour cet ebook** avec du contenu nouveau et amélioré. Pour obtenir la dernière version, retournez à l'endroit où vous l'avez acheté et téléchargez-le à nouveau. Lorsque cela est possible, nous vous enverrons un email pour vous informer lorsqu'une nouvelle version sera disponible.
+
+          Merci de votre lecture !
+      story:
+        options:
+          intro: Vous pouvez lire cette histoire...
+          l2:
+            en: Juste en anglais
+            it: Juste en italien
+            pt-BR: Juste en portugais brésilien
+          l1: Traduit en français
+          mixed:
+            title: Mixte
+            en: Anglais suivi du français, paragraphe par paragraphe
+            it: Italien suivi du français, paragraphe par paragraphe
+            pt-BR: Portugais brésilien suivi du français, paragraphe par paragraphe
+        rubric:
+          intro: "Pour une meilleure expérience d'apprentissage :"
