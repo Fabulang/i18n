@@ -47,6 +47,7 @@ pt-BR:
     close: Fechar
     mark-read: Marcar como Lido
     mark-unread: Marcar como Não Lido
+    buy: Compre Agora
   labels:
     # Text used in the user interface
     level: Nível # CEFR level
@@ -55,6 +56,7 @@ pt-BR:
     a-of-b: "%{a} de %{b}"
     your-language: Eu falo # Used in the menu, followed by the currently selected language
     learning: Estou aprendendo # Used in the menu, followed by the currently selected language
+    new: Novo
   nav:
     # Text used in the user interface related to navigating around the site
     here: Você está aqui # Used in a list of pages, e.g. Home, About (you are here), Team
@@ -234,6 +236,7 @@ pt-BR:
       change: Você pode atualizar suas preferências no futuro usando o link na parte inferior de cada página.
       legal: Usamos o termo 'cookies' para significar qualquer recurso normal que permite que sites armazenem dados em seu dispositivo. Podemos usar qualquer um desses recursos. Nosso uso de cookies respeita estritamente sua privacidade e o GDPR. Nunca usaremos cookies para rastreá-lo.
   ebook:
+    ebook: Ebook
     title:
       en: Inglês com Fabulang – Coleção Completa de Histórias
       fr: Francês com Fabulang – Coleção Completa de Histórias
@@ -271,3 +274,6 @@ pt-BR:
             it: Italiano seguido de português do Brasil, parágrafo por parágrafo
         rubric:
           intro: "Para a melhor experiência de aprendizado:"
+    promo:
+      cta: Obtenha o Ebook
+      price: 5 €

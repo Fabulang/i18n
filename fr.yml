@@ -42,6 +42,7 @@ fr:
     close: Fermer
     mark-read: Marquer comme lu
     mark-unread: Marquer comme non lu
+    buy: Acheter Maintenant
   labels:
     level: Niveau
     language: Langue
@@ -49,6 +50,7 @@ fr:
     a-of-b: "%{a} de %{b}"
     your-language: Je parle
     learning: J'apprends
+    new: Nouveau
   nav:
     here: Nous sommes ici
     skip: Aller au Contenu
@@ -204,6 +206,7 @@ fr:
       change: Vous pouvez mettre à jour vos préférences à l'avenir en utilisant le lien en bas de chaque page.
       legal: Nous utilisons le terme 'cookies' pour désigner toute fonctionnalité normale qui permet aux sites web de stocker des données sur votre appareil. Nous pouvons utiliser n'importe laquelle de ces fonctionnalités. Notre utilisation des cookies respecte strictement votre vie privée et le RGPD. Nous n'utiliserons jamais de cookies pour vous suivre.
   ebook:
+    ebook: eBook
     title:
       en: Anglais avec Fabulang – Collection Complète d'Histoires
       it: Italien avec Fabulang – Collection Complète d'Histoires
@@ -241,3 +244,6 @@ fr:
             pt-BR: Portugais brésilien suivi du français, paragraphe par paragraphe
         rubric:
           intro: "Pour une meilleure expérience d'apprentissage :"
+    promo:
+      cta: Obtenez l'Ebook
+      price: 5 €

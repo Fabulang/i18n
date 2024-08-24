@@ -42,6 +42,7 @@ it:
     close: Chiudi
     mark-read: Segna come letto
     mark-unread: Segna come non letto
+    buy: Acquista Ora
   labels:
     level: Livello
     language: Lingua
@@ -49,6 +50,7 @@ it:
     a-of-b: "%{a} di %{b}"
     your-language: Parlo
     learning: Sto imparando
+    new: Nuovo
   nav:
     here: Sei qui
     skip: Vai al contenuto
@@ -204,6 +206,7 @@ it:
       change: Puoi aggiornare le tue preferenze in futuro utilizzando il link in fondo a ogni pagina.
       legal: Utilizziamo il termine 'cookie' per indicare qualsiasi funzione normale che consenta ai siti web di memorizzare dati sul tuo dispositivo. Possiamo utilizzare qualsiasi di queste funzionalità. Il nostro uso dei cookie rispetta rigorosamente la tua privacy e il GDPR. Non useremo mai i cookie per tracciarti.
   ebook:
+    ebook: Ebook
     title:
       en: Inglese con Fabulang – Collezione Completa di Storie
       fr: Francese con Fabulang – Collezione Completa di Storie
@@ -241,3 +244,6 @@ it:
             pt-BR: Portoghese Brasiliano seguito da Italiano, paragrafo per paragrafo
         rubric:
           intro: "Per la migliore esperienza di apprendimento:"
+    promo:
+      cta: Ottieni l'Ebook
+      price: 5 €

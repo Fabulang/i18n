@@ -47,6 +47,7 @@ en:
     close: Close
     mark-read: Mark as Read
     mark-unread: Mark as Unread
+    buy: Buy Now
   labels:
     # Text used in the user interface
     level: Level # CEFR level
@@ -55,6 +56,7 @@ en:
     a-of-b: "%{a} of %{b}"
     your-language: I speak # Used in the menu, followed by the currently selected language
     learning: I'm learning # Used in the meny, followed by the currently selected language
+    new: New
   nav:
     # Text used in the user interface related to navigating around the site
     here: You are here # Used in a list of pages, e.g. Home, About (you are here), Team
@@ -234,6 +236,7 @@ en:
       change: You can update your preferences in the future using the link at the bottom of every page.
       legal: We use the term 'cookies' to mean any normal feature that allows websites to store data on your device. We may use any of these features. Our use of cookies strictly respects your privacy and the GDPR. We will never use cookies to track you.
   ebook:
+    ebook: Ebook
     title:
       fr: French with Fabulang – Complete Story Collection
       it: Italian with Fabulang – Complete Story Collection
@@ -272,3 +275,6 @@ en:
             pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
         rubric:
           intro: "For the best learning experience:" # followed by instructions on how to use the book
+    promo:
+      cta: Get the Ebook
+      price: €5
