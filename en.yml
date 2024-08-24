@@ -275,6 +275,7 @@ en:
             pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
         rubric:
           intro: "For the best learning experience:" # followed by instructions on how to use the book
+        next: Go to the next story
     promo:
       cta: Get the Ebook
       price: €5
