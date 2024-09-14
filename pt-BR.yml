@@ -122,7 +122,7 @@ pt-BR:
       none: Estamos trabalhando para escrever histórias para aprendizes de %{l1}. Volte em breve!
       the-end:
         # Appears when there are no more stories to show
-        title: Fim! # Traditional ending phrase of a story
+        title: Fim # Traditional ending phrase of a story
         description: Estas são todas as histórias que temos no momento. Se desejar mais, por favor [nos informe](https://fabulang.canny.io/feedback).
       help:
         title: Precisamos de ajuda para traduzir mais histórias!

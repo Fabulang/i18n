@@ -122,7 +122,7 @@ en:
       none: We are hard at work writing stories for %{l1} learners. Come back soon!
       the-end:
         # Appears when there are no more stories to show
-        title: The End! # Traditional ending phrase of a story
+        title: The End # Traditional ending phrase of a story
         description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
       help:
         title: We need help to translate more stories!

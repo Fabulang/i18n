@@ -103,7 +103,7 @@ it:
       choose-story: Scegli una storia
       none: Stiamo lavorando duramente per scrivere storie per gli studenti di %{l1}. Torna presto!
       the-end:
-        title: La Fine!
+        title: Fine
         description: Queste sono tutte le storie che abbiamo al momento. Se ne vuoi di più, per favore [facci sapere](https://fabulang.canny.io/feedback).
       help:
         title: Abbiamo bisogno di aiuto per tradurre più storie!
