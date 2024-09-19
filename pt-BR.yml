@@ -132,10 +132,10 @@ pt-BR:
     story:
       # Single story page
       story-for:
-        pt-BR: Uma história para aprendizes de português do Brasil
-        en: Uma história para aprendizes de Inglês que falam português do Brasil
-        fr: Uma história para aprendizes de Francês que falam português do Brasil
-        it: Uma história para aprendizes de Italiano que falam português do Brasil
+        pt-BR: Uma história para quem está aprendendo português do Brasil
+        en: Uma história para quem está aprendendo inglês e fala português do Brasil
+        fr: Uma história para quem está aprendendo francês e fala português do Brasil
+        it: Uma história para quem está aprendendo italiano e fala português do Brasil
       rubric: |-
         1. **Procure entender a história.**
         2. Olhe para a tradução apenas se tiver dificuldades.
