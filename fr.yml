@@ -120,6 +120,12 @@ fr:
         1. **Essayez de comprendre l'histoire.**
         2. Regardez seulement la traduction si vous êtes bloqué.
         3. Comparez les langues pour apprendre de nouveaux mots et expressions !
+      audio:
+        listen: Écouter
+        listen-on:
+          listen: Écouter
+          on-platform: sur %{platform}
+        read-by: Lu par
       translation-missing: Désolé, cette traduction est manquante.
       about-names: Les noms dans nos histoires sont changés, plutôt que traduits, entre les versions linguistiques.
       after-panel:

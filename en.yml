@@ -140,6 +140,12 @@ en:
         1. **Try to understand the story.**
         2. Only look at the translation if you get stuck.
         3. Compare the languages to learn new words and phrases!
+      audio:
+        listen: Listen # Button to listen to the audio
+        listen-on:
+          listen: Listen
+          on-platform: on %{platform}
+        read-by: Read by # followed by speaker name
       translation-missing: Sorry, this translation is missing.
       about-names: The names in our stories are changed, rather than translated, between language versions.
       after-panel:

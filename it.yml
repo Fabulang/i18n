@@ -120,6 +120,12 @@ it:
         1. **Cerca di capire la storia.**
         2. Guarda solo la traduzione se rimani bloccato.
         3. Confronta le lingue per imparare nuove parole e frasi!
+      audio:
+        listen: Ascolta
+        listen-on:
+          listen: Ascolta
+          on-platform: su %{platform}
+        read-by: Letto da
       translation-missing: Spiacenti, questa traduzione manca.
       about-names: I nomi nelle nostre storie vengono modificati, anziché tradotti, tra le versioni linguistiche.
       after-panel:
