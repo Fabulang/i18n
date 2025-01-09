@@ -12,8 +12,6 @@ pt-BR:
     home: Início # Home page
     stories: Histórias # List of stories
     stories-at-level: Histórias no Nível %{level} # List of stories at a level
-    contribute: Contribuir # How to contribute to Fabulang by helping us proofread stories
-    reviews: Resenhas # Lists external reviews of Fabulang and press coverage
   cefr:
     # Names for each CEFR level
     a1: Iniciante
@@ -103,6 +101,7 @@ pt-BR:
         benefit: Inscreva-se para ser notificado quando houver novas histórias para ler!
         frequency: Será enviado no máximo um e-mail por semana.
         unsubscribe: Cancele a inscrição com um clique a qualquer momento.
+      help-us: Ajude-Nos
       feedback: Dê um Feedback # Link for user to give feedback on the site (e.g. feature requests, bug reports)
       copyright: Direitos autorais © %{year}
       browser:

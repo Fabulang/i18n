@@ -10,8 +10,6 @@ it:
     home: Pagina Iniziale
     stories: Storie
     stories-at-level: Storie a Livello %{level}
-    contribute: Contribuisci
-    reviews: Recensioni
   cefr:
     a1: Principiante
     a2: Essenziali
@@ -88,6 +86,7 @@ it:
         benefit: Iscriviti per essere notificato quando ci sono nuove storie da leggere!
         frequency: Massimo una email a settimana.
         unsubscribe: Disiscriviti in un clic in qualsiasi momento.
+      help-us: Aiutaci
       feedback: Lascia un Feedback
       copyright: Diritto d'Autore © %{year}
       browser:

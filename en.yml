@@ -12,8 +12,6 @@ en:
     home: Home # Home page
     stories: Stories # List of stories
     stories-at-level: Stories at %{level} Level # List of stories at a level
-    contribute: Contribute # How to contribute to Fabulang by helping us proofread stories
-    reviews: Reviews # Lists external reviews of Fabulang and press coverage
   cefr:
     # Names for each CEFR level
     a1: Beginner
@@ -103,6 +101,7 @@ en:
         benefit: Sign up to be notified when there are new stories to read!
         frequency: Maximum one email per week.
         unsubscribe: Unsubscribe in one click at any time.
+      help-us: Help Us
       feedback: Give Feedback # Link for user to give feedback on the site (e.g. feature requests, bug reports)
       copyright: Copyright © %{year}
       browser:

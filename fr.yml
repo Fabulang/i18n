@@ -10,8 +10,6 @@ fr:
     home: Page d'Accueil
     stories: Histoires
     stories-at-level: Histoires au Niveau %{level}
-    contribute: Contribuer
-    reviews: Lire Les Avis
   cefr:
     a1: Débutant
     a2: Essentiel
@@ -88,6 +86,7 @@ fr:
         benefit: Inscrivez-vous pour être notifié lorsqu'il y a de nouvelles histoires à lire !
         frequency: Un email maximum par semaine.
         unsubscribe: Désabonnez-vous en un clic à tout moment.
+      help-us: Aidez-Nous
       feedback: Donner Votre Avis
       copyright: Droits d'Auteur © %{year}
       browser:
