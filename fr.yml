@@ -162,6 +162,8 @@ fr:
         one: A relu 1 histoire
         other: A relu %{count} histoires
       your-logo: Votre Logo
+    teachers:
+      survey: Répondre au sondage
   seo:
     description: Améliorez vos compétences linguistiques en lisant gratuitement des histoires courtes à votre niveau.
     stories:
