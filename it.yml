@@ -163,6 +163,7 @@ it:
         other: Ha revisionato %{count} storie
       your-logo: Il Tuo Logo
     teachers:
+      teachers: Insegnanti
       survey: Rispondi al sondaggio
       i-am: Sono insegnante
   seo:

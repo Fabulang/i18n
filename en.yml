@@ -188,6 +188,7 @@ en:
         other: Reviewed %{count} stories
       your-logo: Your Logo # Placeholder for the expert's logo
     teachers:
+      teachers: Teachers
       survey: Answer survey
       i-am: I'm a teacher
   seo:
