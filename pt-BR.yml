@@ -189,6 +189,7 @@ pt-BR:
       your-logo: Seu Logotipo # Placeholder for the expert's logo
     teachers:
       survey: Responder à pesquisa
+      i-am: Sou professor
   seo:
     # Text used for SEO purposes
     description: Melhore suas habilidades linguísticas lendo histórias curtas no seu nível, de graça.

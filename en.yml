@@ -189,6 +189,7 @@ en:
       your-logo: Your Logo # Placeholder for the expert's logo
     teachers:
       survey: Answer survey
+      i-am: I'm a teacher
   seo:
     # Text used for SEO purposes
     description: Improve your language skills by reading short stories at your level, for free.
