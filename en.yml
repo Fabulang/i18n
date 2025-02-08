@@ -291,3 +291,18 @@ en:
       points:
       - All our stories
       - Read offline
+      points2:
+      - Read offline, on any device
+      - Free updates forever
+      - Support Fabulang ❤
+  email:
+    dear: Dear Fabulinguists
+    topics:
+      stories:
+        because: You received this email because you signed up on our website.
+        intro: There are new stories for you to read!
+        ebook:
+          owners: Already own the ebook? It now includes the new stories above.
+          again: Download it again
+    survey: Are we emailing you too often? Not often enough? Please [let us know how we can improve our emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
+    unsubscribe: Unsubscribe

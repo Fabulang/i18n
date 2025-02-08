@@ -290,3 +290,18 @@ pt-BR:
       points:
       - Todas as nossas histórias
       - Leia sem conexão
+      points2:
+      - Leia offline, em qualquer dispositivo
+      - Atualizações gratuitas para sempre
+      - Apoie a Fabulang ❤
+  email:
+    dear: Queridos Fabulinguistas
+    topics:
+      stories:
+        because: Você recebeu este e-mail porque se cadastrou em nosso site.
+        intro: Há novas histórias para você ler!
+        ebook:
+          owners: Já tem o e-book? Agora ele inclui as novas histórias acima.
+          again: Baixe-o novamente
+    survey: Estamos enviando e-mails com muita frequência? Ou não o suficiente? Por favor, [nos diga como podemos melhorar nossos e-mails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
+    unsubscribe: Cancelar inscrição

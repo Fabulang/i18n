@@ -260,3 +260,18 @@ fr:
       points:
       - Toutes nos histoires
       - Lire sans connexion
+      points2:
+      - Lisez hors ligne, sur n'importe quel appareil
+      - Mises à jour gratuites à vie
+      - Soutenez Fabulang ❤
+  email:
+    dear: Chers Fabulinguistes
+    topics:
+      stories:
+        because: Vous avez reçu cet email car vous vous êtes inscrit(e) sur notre site web.
+        intro: Il y a de nouvelles histoires à lire pour vous !
+        ebook:
+          owners: Vous possédez déjà l'ebook ? Il inclut maintenant les nouvelles histoires ci-dessus.
+          again: Téléchargez-le à nouveau
+    survey: Vous envoyons-nous des emails trop souvent ? Pas assez souvent ? Merci de [nous faire savoir comment nous pouvons améliorer nos emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
+    unsubscribe: Se désabonner
