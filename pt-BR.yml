@@ -46,6 +46,7 @@ pt-BR:
     mark-read: Marcar como Lido
     mark-unread: Marcar como Não Lido
     buy: Compre Agora
+    signup: Cadastre-se
   labels:
     # Text used in the user interface
     level: Nível # CEFR level
@@ -109,6 +110,8 @@ pt-BR:
         using: Você está usando um navegador desatualizado # Heading
         therefore: Este site pode não aparecer corretamente. Por favor, atualize para melhorar sua experiência.
         upgrade: Atualize seu navegador # Button
+      promo:
+        lessons: Tenha Aulas Particulares
       donate:
         cta: Me pague um Café
         note: Se você quer mais histórias e recursos mais rápido, considere fazer uma pequena doação para apoiar o projeto. Como não exibimos anúncios, este site só custa dinheiro. Dependemos 100% de pessoas como você. Obrigado!

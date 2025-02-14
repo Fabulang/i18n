@@ -41,6 +41,7 @@ it:
     mark-read: Segna come letto
     mark-unread: Segna come non letto
     buy: Acquista Ora
+    signup: Iscriviti
   labels:
     level: Livello
     language: Lingua
@@ -93,6 +94,8 @@ it:
         using: Stai utilizzando un browser obsoleto
         therefore: Questo sito potrebbe non essere visualizzato correttamente. Per migliorare la tua esperienza, effettua l'aggiornamento.
         upgrade: Aggiorna il tuo browser
+      promo:
+        lessons: Prenota Lezioni Private
       donate:
         cta: Offrimi un Caffè
         note: Se desideri più storie e più funzionalità più velocemente, considera una piccola donazione per supportare il progetto. Poiché non mostriamo pubblicità, questo sito non fa altro che costare denaro. Facciamo affidamento al 100% su persone come te. Grazie!

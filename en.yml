@@ -46,6 +46,7 @@ en:
     mark-read: Mark as Read
     mark-unread: Mark as Unread
     buy: Buy Now
+    signup: Sign up
   labels:
     # Text used in the user interface
     level: Level # CEFR level
@@ -109,6 +110,8 @@ en:
         using: You are using an outdated browser # Heading
         therefore: This site may not appear correctly. Please upgrade to improve your experience.
         upgrade: Upgrade Your Browser # Button
+      promo:
+        lessons: Get 1-to-1 Lessons
       donate:
         cta: Buy me a Coffee
         note: If you want more stories and more features faster, please consider a small donation to support the project. Because we don't show ads, this site just costs money. We rely 100% on people like you. Thank you!

@@ -41,6 +41,7 @@ fr:
     mark-read: Marquer comme lu
     mark-unread: Marquer comme non lu
     buy: Acheter Maintenant
+    signup: Inscrivez-vous
   labels:
     level: Niveau
     language: Langue
@@ -93,6 +94,8 @@ fr:
         using: Vous utilisez un navigateur obsolète
         therefore: Ce site peut donc ne pas s'afficher correctement. Veuillez mettre à niveau pour améliorer votre expérience.
         upgrade: Mettez à niveau votre navigateur
+      promo:
+        lessons: Obtenez des Cours Particuliers
       donate:
         cta: Achetez-moi un Café
         note: Si vous voulez plus d'histoires et plus de fonctionnalités plus rapidement, envisagez une petite donation pour soutenir le projet. Comme nous n'affichons pas de publicités, ce site ne fait que coûter de l'argent. Nous comptons à 100 % sur des personnes comme vous. Merci !
