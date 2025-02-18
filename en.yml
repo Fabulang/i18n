@@ -47,6 +47,7 @@ en:
     mark-unread: Mark as Unread
     buy: Buy Now
     signup: Sign up
+    goto: Go to %{to}
   labels:
     # Text used in the user interface
     level: Level # CEFR level

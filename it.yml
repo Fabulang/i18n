@@ -42,6 +42,7 @@ it:
     mark-unread: Segna come non letto
     buy: Acquista Ora
     signup: Iscriviti
+    goto: Vai su %{to}
   labels:
     level: Livello
     language: Lingua
