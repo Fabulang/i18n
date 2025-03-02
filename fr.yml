@@ -45,6 +45,7 @@ fr:
     goto: Aller sur %{to}
     subscribe: S'abonner
     unsubscribe: Se désabonner
+    update: Mettre à jour
   labels:
     level: Niveau
     language: Langue
@@ -298,6 +299,7 @@ fr:
           teaching: Enseignement
       info:
         intro: Veuillez remplir ce formulaire pour terminer votre abonnement.
+        update: Vous pouvez mettre à jour vos informations ci-dessous.
         name: "**Votre vrai nom** aide à éviter que nos emails ne soient considérés comme du spam."
         when: "Nous vous enverrons un email lorsqu'il y aura de nouvelles histoires dans les langues que vous **apprenez**."
         also: Nous vous informerons également occasionnellement des nouvelles fonctionnalités importantes ou d'autres annonces majeures.

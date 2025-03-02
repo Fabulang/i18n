@@ -50,6 +50,7 @@ en:
     goto: Go to %{to}
     subscribe: Subscribe
     unsubscribe: Unsubscribe
+    update: Update
   labels:
     # Text used in the user interface
     level: Level # CEFR level
@@ -329,6 +330,7 @@ en:
           teaching: Teaching # you're a language teacher
       info:
         intro: Please complete this form to finish subscribing.
+        update: You can update your details below.
         name: "**Your real name** helps ensure our emails don't go to spam."
         when: "We'll email when there are new stories in the languages you're **learning**."
         also: We'll also let you know occasionally when there are big new features, or other big announcements.

@@ -50,6 +50,7 @@ pt-BR:
     goto: Ir para o %{to}
     subscribe: Inscreva-se
     unsubscribe: Cancelar inscrição
+    update: Atualizar
   labels:
     # Text used in the user interface
     level: Nível # CEFR level
@@ -328,6 +329,7 @@ pt-BR:
           teaching: Ensino
       info:
         intro: Preencha este formulário para concluir sua inscrição.
+        update: Você pode atualizar seus dados abaixo.
         name: "**Seu nome verdadeiro** ajuda a garantir que nossos emails não sejam enviados para o spam."
         when: "Enviaremos um email quando houver novas histórias nos idiomas que você **está aprendendo**."
         also: Também informaremos ocasionalmente sobre novas funcionalidades importantes ou outros anúncios relevantes.

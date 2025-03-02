@@ -45,6 +45,7 @@ it:
     goto: Vai su %{to}
     subscribe: Iscriviti
     unsubscribe: Disiscriviti
+    update: Aggiorna
   labels:
     level: Livello
     language: Lingua
@@ -298,6 +299,7 @@ it:
           teaching: Insegnamento
       info:
         intro: Compila questo modulo per completare l'iscrizione.
+        update: Puoi aggiornare i tuoi dati qui sotto.
         name: "**Il tuo vero nome** aiuta a garantire che le nostre email non finiscano nello spam."
         when: "Ti invieremo un'email quando ci saranno nuove storie nelle lingue che **stai imparando**."
         also: Ti informeremo anche occasionalmente sulle nuove funzionalità importanti o altri annunci rilevanti.
