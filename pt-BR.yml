@@ -48,6 +48,8 @@ pt-BR:
     buy: Compre Agora
     signup: Cadastre-se
     goto: Ir para o %{to}
+    subscribe: Inscreva-se
+    unsubscribe: Cancelar inscrição
   labels:
     # Text used in the user interface
     level: Nível # CEFR level
@@ -309,3 +311,43 @@ pt-BR:
           again: Baixe-o novamente
     survey: Estamos enviando e-mails com muita frequência? Ou não o suficiente? Por favor, [nos diga como podemos melhorar nossos e-mails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
     unsubscribe: Cancelar inscrição
+    form:
+      sections:
+        details: Seus dados
+        l1: Você fala
+        l2: Você está aprendendo
+        why: Por que você está aqui?
+      fields:
+        email: Email
+        first: Nome
+        last: Sobrenome
+        why:
+          personal: Pessoal
+          school: Escola
+          work: Trabalho
+          teaching: Ensino
+      info:
+        intro: Preencha este formulário para concluir sua inscrição.
+        name: "**Seu nome verdadeiro** ajuda a garantir que nossos emails não sejam enviados para o spam."
+        when: "Enviaremos um email quando houver novas histórias nos idiomas que você **está aprendendo**."
+        also: Também informaremos ocasionalmente sobre novas funcionalidades importantes ou outros anúncios relevantes.
+      messages:
+        subscribed: Obrigado! Você agora está inscrito.
+        updated: Obrigado! Atualizamos seus dados e status de inscrição.
+  form:
+    info:
+      captcha: Verificando se você não é um robô...
+      validating: Verificando o que você digitou...
+      connecting: Conectando ao nosso banco de dados...
+    error:
+      error: Desculpe, algo deu errado.
+      unknown: Algo deu errado.
+      retry: Por favor, tente novamente mais tarde.
+      invalid: Certifique-se de que preencheu o formulário corretamente e tente novamente.
+      connection: Desculpe, estamos enfrentando problemas de conexão.
+      robot: Nosso sistema acha que você pode ser um robô.
+      cannot: Desculpe, você não pode usar este formulário.
+      noscript: Para evitar spam, exigimos JavaScript para usar este formulário.
+    validation:
+      required: Esta informação é obrigatória.
+      email: Por favor, insira um endereço de email válido.

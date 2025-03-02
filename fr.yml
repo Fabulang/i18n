@@ -43,6 +43,8 @@ fr:
     buy: Acheter Maintenant
     signup: Inscrivez-vous
     goto: Aller sur %{to}
+    subscribe: S'abonner
+    unsubscribe: Se désabonner
   labels:
     level: Niveau
     language: Langue
@@ -84,7 +86,7 @@ fr:
       signup:
         title: Rejoignez la communauté
         email: Email
-        subscribe: S'inscire
+        subscribe: S'abonner
         benefit: Inscrivez-vous pour être notifié lorsqu'il y a de nouvelles histoires à lire !
         frequency: Un email maximum par semaine.
         unsubscribe: Désabonnez-vous en un clic à tout moment.
@@ -279,3 +281,43 @@ fr:
           again: Téléchargez-le à nouveau
     survey: Vous envoyons-nous des emails trop souvent ? Pas assez souvent ? Merci de [nous faire savoir comment nous pouvons améliorer nos emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
     unsubscribe: Se désabonner
+    form:
+      sections:
+        details: Vos informations
+        l1: Vous parlez
+        l2: Vous apprenez
+        why: Pourquoi êtes-vous ici ?
+      fields:
+        email: Email
+        first: Prénom
+        last: Nom de famille
+        why:
+          personal: Personnel
+          school: École
+          work: Travail
+          teaching: Enseignement
+      info:
+        intro: Veuillez remplir ce formulaire pour terminer votre abonnement.
+        name: "**Votre vrai nom** aide à éviter que nos emails ne soient considérés comme du spam."
+        when: "Nous vous enverrons un email lorsqu'il y aura de nouvelles histoires dans les langues que vous **apprenez**."
+        also: Nous vous informerons également occasionnellement des nouvelles fonctionnalités importantes ou d'autres annonces majeures.
+      messages:
+        subscribed: Merci ! Vous êtes maintenant abonné(e).
+        updated: Merci ! Nous avons mis à jour vos informations et votre abonnement.
+  form:
+    info:
+      captcha: Vérification que vous n'êtes pas un robot...
+      validating: Vérification de ce que vous avez saisi...
+      connecting: Connexion à notre base de données...
+    error:
+      error: Désolé, cela n'a pas fonctionné.
+      unknown: Quelque chose s'est mal passé.
+      retry: Veuillez réessayer plus tard.
+      invalid: Veuillez vous assurer que vous avez bien rempli le formulaire, puis réessayez.
+      connection: Désolé, nous rencontrons des problèmes de connexion.
+      robot: Notre système pense que vous pourriez être un robot.
+      cannot: Désolé, vous ne pouvez pas utiliser ce formulaire.
+      noscript: Pour éviter le spam, nous exigeons JavaScript pour utiliser ce formulaire.
+    validation:
+      required: Ces informations sont obligatoires.
+      email: Veuillez saisir une adresse email valide.

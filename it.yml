@@ -43,6 +43,8 @@ it:
     buy: Acquista Ora
     signup: Iscriviti
     goto: Vai su %{to}
+    subscribe: Iscriviti
+    unsubscribe: Disiscriviti
   labels:
     level: Livello
     language: Lingua
@@ -279,3 +281,43 @@ it:
           again: Scaricalo di nuovo.
     survey: Ti stiamo inviando email troppo spesso? Non abbastanza spesso? Per favore, [facci sapere come possiamo migliorare le nostre email](https://forms.gle/Q3DDvqvnwAjjtoYK7).
     unsubscribe: Disiscriviti
+    form:
+      sections:
+        details: I tuoi dati
+        l1: Parli
+        l2: Stai imparando
+        why: Perché sei qui?
+      fields:
+        email: Email
+        first: Nome
+        last: Cognome
+        why:
+          personal: Personale
+          school: Scuola
+          work: Lavoro
+          teaching: Insegnamento
+      info:
+        intro: Compila questo modulo per completare l'iscrizione.
+        name: "**Il tuo vero nome** aiuta a garantire che le nostre email non finiscano nello spam."
+        when: "Ti invieremo un'email quando ci saranno nuove storie nelle lingue che **stai imparando**."
+        also: Ti informeremo anche occasionalmente sulle nuove funzionalità importanti o altri annunci rilevanti.
+      messages:
+        subscribed: Grazie! Ora sei iscritto.
+        updated: Grazie! Abbiamo aggiornato i tuoi dati e lo stato dell'iscrizione.
+  form:
+    info:
+      captcha: Verifica che tu non sia un robot...
+      validating: Controllo dei dati inseriti...
+      connecting: Connessione al nostro database...
+    error:
+      error: Spiacenti, qualcosa è andato storto.
+      unknown: Qualcosa è andato storto.
+      retry: Per favore, riprova più tardi.
+      invalid: Assicurati di aver compilato correttamente il modulo, poi riprova.
+      connection: Spiacenti, stiamo riscontrando problemi di connessione.
+      robot: Il nostro sistema pensa che tu possa essere un robot.
+      cannot: Spiacenti, non puoi usare questo modulo.
+      noscript: Per prevenire lo spam, richiediamo JavaScript per utilizzare questo modulo.
+    validation:
+      required: Queste informazioni sono obbligatorie.
+      email: Inserisci un indirizzo email valido.
