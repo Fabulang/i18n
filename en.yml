@@ -354,3 +354,6 @@ en:
     validation:
       required: This information is required.
       email: Please enter a valid email address.
+      name: Sorry, we can't use this name. Please adjust how you write it.
+      maxlength: Can't be more than {0} characters.
+      minlength: Can't be less than {0} characters.

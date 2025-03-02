@@ -353,3 +353,6 @@ pt-BR:
     validation:
       required: Esta informação é obrigatória.
       email: Por favor, insira um endereço de email válido.
+      name: Desculpe, não podemos usar este nome. Por favor, ajuste a forma como você o escreve.
+      maxlength: Não pode ter mais de {0} caracteres.
+      minlength: Não pode ter menos de {0} caracteres.

@@ -323,3 +323,6 @@ it:
     validation:
       required: Queste informazioni sono obbligatorie.
       email: Inserisci un indirizzo email valido.
+      name: Spiacenti, non possiamo usare questo nome. Per favore, modifica il modo in cui lo scrivi.
+      maxlength: Non può avere più di {0} caratteri.
+      minlength: Non può avere meno di {0} caratteri.
