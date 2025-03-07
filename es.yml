@@ -46,11 +46,6 @@ en:
     mark-read: Mark as Read
     mark-unread: Mark as Unread
     buy: Buy Now
-    signup: Sign up
-    goto: Go to %{to}
-    subscribe: Subscribe
-    unsubscribe: Unsubscribe
-    update: Update
   labels:
     # Text used in the user interface
     level: Level # CEFR level
@@ -58,7 +53,7 @@ en:
     story: Story # The word used to describe a single text
     a-of-b: "%{a} of %{b}"
     your-language: I speak # Used in the menu, followed by the currently selected language
-    learning: I'm learning # Used in the menu, followed by the currently selected language
+    learning: I'm learning # Used in the meny, followed by the currently selected language
     new: New
   nav:
     # Text used in the user interface related to navigating around the site
@@ -114,8 +109,6 @@ en:
         using: You are using an outdated browser # Heading
         therefore: This site may not appear correctly. Please upgrade to improve your experience.
         upgrade: Upgrade Your Browser # Button
-      promo:
-        lessons: Get 1-to-1 Lessons
       donate:
         cta: Buy me a Coffee
         note: If you want more stories and more features faster, please consider a small donation to support the project. Because we don't show ads, this site just costs money. We rely 100% on people like you. Thank you!
@@ -313,47 +306,3 @@ en:
           again: Download it again
     survey: Are we emailing you too often? Not often enough? Please [let us know how we can improve our emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
     unsubscribe: Unsubscribe
-    form:
-      sections:
-        details: Your details # Title of section where user enters email, name, etc.
-        l1: You speak # User selects their native language
-        l2: You're learning # User selects languages they are learning
-        why: Why are you here? # User selects their motivation for learning languages
-      fields:
-        email: Email
-        first: Given Name # The user's name by which they wish to be addressed in a personal context
-        last: Family Name # Additional name of the user which together makes their full name
-        why:
-          personal: Personal # personal reasons like travel or fun
-          school: School # learning in an educational setting
-          work: Work # learning to help with a job or business
-          teaching: Teaching # you're a language teacher
-      info:
-        intro: Please complete this form to finish subscribing.
-        update: You can update your details below.
-        name: "**Your real name** helps ensure our emails don't go to spam."
-        when: "We'll email when there are new stories in the languages you're **learning**."
-        also: We'll also let you know occasionally when there are big new features, or other big announcements.
-      messages:
-        subscribed: Thanks! You're now subscribed.
-        updated: Thanks! We've updated your details and subscription status.
-  form:
-    info:
-      captcha: Checking you're not a robot...
-      validating: Checking what you typed...
-      connecting: Connecting to our database...
-    error:
-      error: Sorry, that didn't work.
-      unknown: Something went wrong.
-      retry: Please try again later.
-      invalid: Please ensure you've filled in the form correctly, then try again.
-      connection: Sorry, we're having trouble connecting.
-      robot: Our system thinks you might be a robot.
-      cannot: Sorry, you can't use this form.
-      noscript: To prevent spam, we require JavaScript to use this form.
-    validation:
-      required: This information is required.
-      email: Please enter a valid email address.
-      name: Sorry, we can't use this name. Please adjust how you write it.
-      maxlength: Can't be more than {0} characters.
-      minlength: Can't be less than {0} characters.
