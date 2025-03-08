@@ -230,6 +230,7 @@ fr:
     ebook: eBook
     title:
       en: Anglais avec Fabulang – Collection Complète d'Histoires
+      #fr:
       it: Italien avec Fabulang – Collection Complète d'Histoires
       pt-BR: Portugais Brésilien avec Fabulang – Collection Complète d'Histoires
       es: Espagnol avec Fabulang – Collection Complète d'Histoires
@@ -256,7 +257,7 @@ fr:
           intro: Vous pouvez lire cette histoire...
           l2:
             en: Juste en anglais
-            fr: Juste en français
+            #fr:
             it: Juste en italien
             pt-BR: Juste en portugais brésilien
             es: Juste en espagnol
@@ -264,7 +265,7 @@ fr:
           mixed:
             title: Mixte
             en: Anglais suivi du français, paragraphe par paragraphe
-            fr: Francais suivi du français, paragraphe par paragraphe
+            #fr:
             it: Italien suivi du français, paragraphe par paragraphe
             pt-BR: Portugais brésilien suivi du français, paragraphe par paragraphe
             es: Espagnol suivi du français, paragraphe par paragraphe

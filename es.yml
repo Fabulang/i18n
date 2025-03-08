@@ -262,6 +262,7 @@ es:
       fr: Francés con Fabulang – Colección Completa de Historias
       it: Italiano con Fabulang – Colección Completa de Historias
       pt-BR: Portugués Brasileño con Fabulang – Colección Completa de Historias
+      #es:
     landmarks:
       landmarks: Marcadores # Key points within an ebook (such as cover, title) that a user may wish to jump to
       cover: Portada # the cover page
@@ -288,7 +289,7 @@ es:
             fr: Solo en francés
             it: Solo en italiano
             pt-BR: Solo en portugués brasileño
-            es: Solo en español
+            #es:
           l1: Traducido al español # Select this option to read the story in Spanish
           mixed:
             title: Mixto # Select this option to read a mix of languages
@@ -296,7 +297,7 @@ es:
             fr: Francés seguido de español, párrafo por párrafo
             it: Italiano seguido de español, párrafo por párrafo
             pt-BR: Portugués brasileño seguido de español, párrafo por párrafo
-            es: Español seguido de español, párrafo por párrafo
+            #es:
         rubric:
           intro: "Para la mejor experiencia de aprendizaje:" # followed by instructions on how to use the book
         next: Ir a la siguiente historia

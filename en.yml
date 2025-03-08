@@ -259,6 +259,7 @@ en:
   ebook:
     ebook: Ebook
     title: # Entry for each language other than this one
+      #en:
       fr: French with Fabulang – Complete Story Collection
       it: Italian with Fabulang – Complete Story Collection
       pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
@@ -285,7 +286,7 @@ en:
         options:
           intro: You can read this story... # followed by "in French", "in Italian", etc.
           l2:
-            en: Just in English
+            #en:
             fr: Just in French # Select this option to read a text in French only
             it: Just in Italian
             pt-BR: Just in Brazilian Portuguese
@@ -293,7 +294,7 @@ en:
           l1: Translated into English # Select this option to read the story in English
           mixed:
             title: Mixed # Select this option to read a mix of languages
-            en: English followed by English, paragraph by paragraph
+            #en:
             fr: French followed by English, paragraph by paragraph
             it: Italian followed by English, paragraph by paragraph
             pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
