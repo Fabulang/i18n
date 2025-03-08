@@ -47,6 +47,11 @@ es:
     mark-read: Marcar como leído
     mark-unread: Marcar como no leído
     buy: Comprar ahora
+    signup: Regístrate
+    goto: Ir a %{to}
+    subscribe: Suscribirse
+    unsubscribe: Cancelar suscripción
+    update: Actualizar
   labels:
     # Text used in the user interface
     level: Nivel # CEFR level
@@ -110,6 +115,8 @@ es:
         using: Estás usando un navegador obsoleto # Heading
         therefore: Es posible que este sitio no se muestre correctamente. Por favor, actualízalo para mejorar tu experiencia.
         upgrade: Actualiza tu navegador # Button
+      promo:
+        lessons: Consigue clases 1 a 1
       donate:
         cta: Invítanos a un café
         note: Si quieres más historias y más funciones más rápido, considera hacer una pequeña donación para apoyar el proyecto. Como no mostramos anuncios, este sitio solo genera costes. Dependemos 100% de personas como tú. ¡Gracias!
@@ -314,3 +321,47 @@ es:
           again: Descárgalo de nuevo
     survey: ¿Te enviamos correos electrónicos con demasiada frecuencia? ¿O no lo suficiente? Por favor, [dinos cómo podemos mejorar nuestros correos](https://forms.gle/Q3DDvqvnwAjjtoYK7).
     unsubscribe: Cancelar suscripción
+    form:
+      sections:
+        details: Tus datos # Title of section where user enters email, name, etc.
+        l1: Hablas # User selects their native language
+        l2: Estás aprendiendo # User selects languages they are learning
+        why: ¿Por qué estás aquí? # User selects their motivation for learning languages
+      fields:
+        email: Correo electrónico
+        first: Nombre # The user's name by which they wish to be addressed in a personal context
+        last: Apellido # Additional name of the user which together makes their full name
+        why:
+          personal: Personal # personal reasons like travel or fun
+          school: Escuela # learning in an educational setting
+          work: Trabajo # learning to help with a job or business
+          teaching: Enseñanza # you're a language teacher
+      info:
+        intro: Por favor, completa este formulario para finalizar tu suscripción.
+        update: Puedes actualizar tus datos a continuación.
+        name: "**Tu nombre real** ayuda a garantizar que nuestros correos no vayan a la carpeta de spam."
+        when: "Te enviaremos un correo cuando haya nuevas historias en los idiomas que estás **aprendiendo**."
+        also: También te informaremos ocasionalmente sobre nuevas funciones importantes u otros anuncios importantes.
+      messages:
+        subscribed: ¡Gracias! Ahora estás suscrito.
+        updated: ¡Gracias! Hemos actualizado tus datos y el estado de tu suscripción.
+  form:
+    info:
+      captcha: Verificando que no eres un robot...
+      validating: Verificando lo que escribiste...
+      connecting: Conectando con nuestra base de datos...
+    error:
+      error: Lo sentimos, algo salió mal.
+      unknown: Algo salió mal.
+      retry: Por favor, inténtalo de nuevo más tarde.
+      invalid: Por favor, asegúrate de haber completado el formulario correctamente y vuelve a intentarlo.
+      connection: Lo sentimos, estamos teniendo problemas de conexión.
+      robot: Nuestro sistema cree que podrías ser un robot.
+      cannot: Lo sentimos, no puedes usar este formulario.
+      noscript: Para evitar el spam, requerimos JavaScript para usar este formulario.
+    validation:
+      required: Esta información es obligatoria.
+      email: Por favor, introduce una dirección de correo electrónico válida.
+      name: Lo sentimos, no podemos usar este nombre. Por favor, ajusta cómo lo escribes.
+      maxlength: No puede tener más de {0} caracteres.
+      minlength: No puede tener menos de {0} caracteres.
