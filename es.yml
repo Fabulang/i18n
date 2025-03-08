@@ -132,7 +132,8 @@ es:
     story:
       # Single story page
       story-for:
-        en: Una historia para estudiantes de inglés
+        es: Una historia para estudiantes de español
+        en: Una historia para estudiantes de inglés que hablan español
         fr: Una historia para estudiantes de francés que hablan español
         it: Una historia para estudiantes de italiano que hablan español
         pt-BR: Una historia para estudiantes de portugués brasileño que hablan español
@@ -203,11 +204,11 @@ es:
         pt-BR: Textos gratuitos de práctica de lectura en portugués brasileño %{level}
         es: Textos gratuitos de práctica de lectura en español %{level}
       description: # Learn [other language] with [this language] translations
-        en: Aprende inglés leyendo historias. Material de lectura gratuito%{learners}.
-        fr: Aprende francés leyendo historias. Material de lectura gratuito%{learners} con traducciones al inglés.
-        it: Aprende italiano leyendo historias. Material de lectura gratuito%{learners} con traducciones al inglés.
-        pt-BR: Aprende portugués brasileño leyendo historias. Material de lectura gratuito%{learners} con traducciones al inglés.
-        es: Aprende español leyendo historias. Material de lectura gratuito%{learners} con traducciones al inglés.
+        es: Aprende español leyendo historias. Material de lectura gratuito%{learners}.
+        en: Aprende inglés leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
+        fr: Aprende francés leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
+        it: Aprende italiano leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
+        pt-BR: Aprende portugués brasileño leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
         learners: " para estudiantes en el nivel %{level}"
   status:
     status: Estado
@@ -250,10 +251,10 @@ es:
   ebook:
     ebook: Ebook
     title: # Entry for each language other than this one
+      en: Inglés con Fabulang – Colección Completa de Historias
       fr: Francés con Fabulang – Colección Completa de Historias
       it: Italiano con Fabulang – Colección Completa de Historias
       pt-BR: Portugués Brasileño con Fabulang – Colección Completa de Historias
-      es: Español con Fabulang – Colección Completa de Historias
     landmarks:
       landmarks: Marcadores # Key points within an ebook (such as cover, title) that a user may wish to jump to
       cover: Portada # the cover page
