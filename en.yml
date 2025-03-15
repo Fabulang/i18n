@@ -1,5 +1,5 @@
 en:
-  name: English
+  name: English # The name of this language in this language
   locales:
     # The names of each language, in this language
     en: English
@@ -7,6 +7,7 @@ en:
     it: Italian
     pt: Portuguese
     pt-BR: Brazilian Portuguese
+    es: Spanish
   pages:
     # Main website pages
     home: Home # Home page
@@ -32,9 +33,9 @@ en:
       other: Advanced
   buttons:
     # Labels of buttons in the user interface
-    show-l1: Show English
-    hide-l1: Hide English
-    show-with-translation: View with translation in English
+    show-l1: Show English # show [this language]
+    hide-l1: Hide English # hide [this language]
+    show-with-translation: View with translation in English # in [this language]
     allow: Allow
     cancel: Cancel
     save: Save
@@ -99,7 +100,7 @@ en:
       version: "Fabulang is in Beta: we're still working hard to add more content and features. Please [vote for what we should add next](https://fabulang.canny.io/feedback){:target='_blank'}, or [report any issues](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
       free: Fabulang is free to use! No ads, <span id="nocookies">no cookies, </span>no trackers. Just stories.
       signup:
-        # Sign up to the email newletter
+        # Sign up to the email newsletter
         title: Join the community
         email: Email
         subscribe: Subscribe # Subscribe to receive the newsletter
@@ -132,8 +133,8 @@ en:
         description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
       help:
         title: We need help to translate more stories!
-        speaks-this: We have more stories written in English. We need expert volunteers to translate them. If you can help, please contact us!
-        speaks-target: We have more stories written in other languages. We need expert volunteers to translate them into English. If you can help, please contact us!
+        speaks-this: We have more stories written in English. We need expert volunteers to translate them. If you can help, please contact us! # more in [this language]
+        speaks-target: We have more stories written in other languages. We need expert volunteers to translate them into English. If you can help, please contact us! # translate into [this language]
         button: I can help
     story:
       # Single story page
@@ -142,6 +143,7 @@ en:
         fr: A story for learners of French who speak English
         it: A story for learners of Italian who speak English
         pt-BR: A story for learners of Brazilian Portuguese who speak English
+        es: A story for learners of Spanish who speak English
       rubric: |-
         1. **Try to understand the story.**
         2. Only look at the translation if you get stuck.
@@ -157,7 +159,7 @@ en:
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
         title: Next steps # Title of the panel
-        reviewers:
+        reviewers: # People who reviewed the text to check it for errors
           # Shows who reviewed this story
           title: Expert Reviewer
           intro: "The text of this story was checked and approved by:"
@@ -176,17 +178,17 @@ en:
           with: with other learners
         error:
           title: Spotted an error? # Did the user spot an error while reading?
-          fix: Fix the English text
+          fix: Fix the English text # fix [this language]
       help:
         # Message requesting help from the reader
         title: We need your help
-        intro: Has Fabulang helped you? Now help someone else to learn English!
-        detail: Please read 1 story in English, and let us know if there are any errors. 
+        intro: Has Fabulang helped you? Now help someone else to learn English! # learn [this language]
+        detail: Please read 1 story in English, and let us know if there are any errors. # read in [this language]
         buttons:
-          this: Read this story again in English
+          this: Read this story again in English # read in [this language]
           other: Read a different story
     experts:
-      # Expert Reviewers page
+      # Expert Reviewers page. Review in this context means "check the text for errors".
       become: Become an Expert Reviewer
       list: Pick a story to review
       reviews: Reviews
@@ -207,11 +209,13 @@ en:
         fr: Free French %{level} Reading Practice Texts
         it: Free Italian %{level} Reading Practice Texts
         pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
-      description:
+        es: Free Spanish %{level} Reading Practice Texts
+      description: # Learn [other language] with [this language] translations
         en: Learn English by reading stories. Free reading material%{learners}.
         fr: Learn French by reading stories. Free reading material%{learners} with English translations.
         it: Learn Italian by reading stories. Free reading material%{learners} with English translations.
         pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material%{learners} with English translations.
+        es: Learn Spanish by reading stories. Free reading material%{learners} with English translations.
         learners: " for learners at %{level} level"
   status:
     status: Status
@@ -228,6 +232,7 @@ en:
         fr: French %{level} - Reading Practice Story
         it: Italian %{level} - Reading Practice Story
         pt-BR: Brazilian Portuguese %{level} - Reading Practice Story
+        es: Spanish %{level} - Reading Practice Story
       body: Check out this short story from Fabulang, called "%{title}"
     twitter:
       mention: from @Fabulang # appended to a tweet sharing a story
@@ -253,10 +258,12 @@ en:
       legal: We use the term 'cookies' to mean any normal feature that allows websites to store data on your device. We may use any of these features. Our use of cookies strictly respects your privacy and the GDPR. We will never use cookies to track you.
   ebook:
     ebook: Ebook
-    title:
+    title: # Entry for each language other than this one
+      #en:
       fr: French with Fabulang – Complete Story Collection
       it: Italian with Fabulang – Complete Story Collection
       pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
+      es: Spanish with Fabulang – Complete Story Collection
     landmarks:
       landmarks: Landmarks # Key points within an ebook (such as cover, title) that a user may wish to jump to
       cover: Cover # the cover page
@@ -279,16 +286,19 @@ en:
         options:
           intro: You can read this story... # followed by "in French", "in Italian", etc.
           l2:
+            #en:
             fr: Just in French # Select this option to read a text in French only
             it: Just in Italian
             pt-BR: Just in Brazilian Portuguese
+            es: Just in Spanish
           l1: Translated into English # Select this option to read the story in English
           mixed:
             title: Mixed # Select this option to read a mix of languages
-            en: English followed by English, paragraph by paragraph
+            #en:
             fr: French followed by English, paragraph by paragraph
             it: Italian followed by English, paragraph by paragraph
             pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
+            es: Spanish followed by English, paragraph by paragraph
         rubric:
           intro: "For the best learning experience:" # followed by instructions on how to use the book
         next: Go to the next story
@@ -303,7 +313,7 @@ en:
       - Free updates forever
       - Support Fabulang ❤
   email:
-    dear: Dear Fabulinguists
+    dear: Dear Fabulinguists # made up word combining Fabu with linguist
     topics:
       stories:
         because: You received this email because you signed up on our website.
