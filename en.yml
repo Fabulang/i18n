@@ -8,6 +8,7 @@ en:
     pt: Portuguese
     pt-BR: Brazilian Portuguese
     es: Spanish
+    de: German
   pages:
     # Main website pages
     home: Home # Home page
@@ -144,6 +145,7 @@ en:
         it: A story for learners of Italian who speak English
         pt-BR: A story for learners of Brazilian Portuguese who speak English
         es: A story for learners of Spanish who speak English
+        de: A story for learners of German who speak English
       rubric: |-
         1. **Try to understand the story.**
         2. Only look at the translation if you get stuck.
@@ -210,12 +212,14 @@ en:
         it: Free Italian %{level} Reading Practice Texts
         pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
         es: Free Spanish %{level} Reading Practice Texts
+        de: Free German %{level} Reading Practice Texts
       description: # Learn [other language] with [this language] translations
         en: Learn English by reading stories. Free reading material%{learners}.
         fr: Learn French by reading stories. Free reading material%{learners} with English translations.
         it: Learn Italian by reading stories. Free reading material%{learners} with English translations.
         pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material%{learners} with English translations.
         es: Learn Spanish by reading stories. Free reading material%{learners} with English translations.
+        de: Learn German by reading stories. Free reading material%{learners} with English translations.
         learners: " for learners at %{level} level"
   status:
     status: Status
@@ -233,6 +237,7 @@ en:
         it: Italian %{level} - Reading Practice Story
         pt-BR: Brazilian Portuguese %{level} - Reading Practice Story
         es: Spanish %{level} - Reading Practice Story
+        de: German %{level} - Reading Practice Story
       body: Check out this short story from Fabulang, called "%{title}"
     twitter:
       mention: from @Fabulang # appended to a tweet sharing a story
@@ -264,6 +269,7 @@ en:
       it: Italian with Fabulang – Complete Story Collection
       pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
       es: Spanish with Fabulang – Complete Story Collection
+      de: German with Fabulang – Complete Story Collection
     landmarks:
       landmarks: Landmarks # Key points within an ebook (such as cover, title) that a user may wish to jump to
       cover: Cover # the cover page
@@ -291,6 +297,7 @@ en:
             it: Just in Italian
             pt-BR: Just in Brazilian Portuguese
             es: Just in Spanish
+            de: Just in German
           l1: Translated into English # Select this option to read the story in English
           mixed:
             title: Mixed # Select this option to read a mix of languages
@@ -299,6 +306,7 @@ en:
             it: Italian followed by English, paragraph by paragraph
             pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
             es: Spanish followed by English, paragraph by paragraph
+            de: German followed by English, paragraph by paragraph
         rubric:
           intro: "For the best learning experience:" # followed by instructions on how to use the book
         next: Go to the next story

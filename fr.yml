@@ -7,6 +7,7 @@ fr:
     pt: Portugais
     pt-BR: Portugais Brésilien
     es: Espagnol
+    de: Allemand
   pages:
     home: Page d'Accueil
     stories: Histoires
@@ -124,6 +125,7 @@ fr:
         it: Une histoire pour les apprenants d'Italien qui parlent Français
         pt-BR: Une histoire pour les apprenants de Portugais Brésilien qui parlent Français
         es: Une histoire pour les apprenants d'Espagnol qui parlent Français
+        de: Une histoire pour les apprenants d'Allemand qui parlent Français
       rubric: |-
         1. **Essayez de comprendre l'histoire.**
         2. Regardez seulement la traduction si vous êtes bloqué.
@@ -184,12 +186,14 @@ fr:
         it: Textes Italiens %{level} Gratuits - Pratiquer la Lecture
         pt-BR: Textes Portugais Brésiliens %{level} Gratuits - Pratiquer la Lecture
         es: Textes Espagnols %{level} Gratuits - Pratiquer la Lecture
+        de: Textes Allemands %{level} Gratuits - Pratiquer la Lecture
       description:
         fr: Apprenez le Français en lisant des histoires. Matériel de lecture gratuit%{learners}.
         en: Apprenez l'Anglais en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         it: Apprenez l'Italien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         pt-BR: Apprenez le Portugais Brésilien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         es: Apprenez l'Espagnol en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        de: Apprenez l'Allemand en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         learners: " pour les apprenants de niveau %{level}"
   status:
     status: Statut
@@ -206,6 +210,7 @@ fr:
         it: Italien %{level} - Histoire de Pratique de la Lecture
         pt-BR: Portugais Brésilien %{level} - Histoire de Pratique de la Lecture
         es: Espagnol %{level} - Histoire de Pratique de la Lecture
+        de: Allemand %{level} - Histoire de Pratique de la Lecture
       body: Découvrez cette courte histoire de Fabulang, intitulée "%{title}"
     twitter:
       mention: de @Fabulang
@@ -234,6 +239,7 @@ fr:
       it: Italien avec Fabulang – Collection Complète d'Histoires
       pt-BR: Portugais Brésilien avec Fabulang – Collection Complète d'Histoires
       es: Espagnol avec Fabulang – Collection Complète d'Histoires
+      de: Allemand avec Fabulang – Collection Complète d'Histoires
     landmarks:
       landmarks: Points de repère
       cover: Couverture
@@ -261,6 +267,7 @@ fr:
             it: Juste en italien
             pt-BR: Juste en portugais brésilien
             es: Juste en espagnol
+            de: Juste en allemand
           l1: Traduit en français
           mixed:
             title: Mixte
@@ -269,6 +276,7 @@ fr:
             it: Italien suivi du français, paragraphe par paragraphe
             pt-BR: Portugais brésilien suivi du français, paragraphe par paragraphe
             es: Espagnol suivi du français, paragraphe par paragraphe
+            de: Allemand suivi du français, paragraphe par paragraphe
         rubric:
           intro: "Pour une meilleure expérience d'apprentissage :"
         next: Aller à l'histoire suivante

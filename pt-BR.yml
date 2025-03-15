@@ -8,6 +8,7 @@ pt-BR:
     pt: Português
     pt-BR: Português do Brasil
     es: Espanhol
+    de: Alemão
   pages:
     # Main website pages
     home: Início # Home page
@@ -144,6 +145,7 @@ pt-BR:
         fr: Uma história para quem está aprendendo francês e fala português do Brasil
         it: Uma história para quem está aprendendo italiano e fala português do Brasil
         es: Uma história para quem está aprendendo espanhol e fala português do Brasil
+        de: Uma historia para quem esta aprendendo alemão e fala português do Brasil
       rubric: |-
         1. **Procure entender a história.**
         2. Olhe para a tradução apenas se tiver dificuldades.
@@ -210,12 +212,14 @@ pt-BR:
         it: Textos de Prática de Leitura em Italiano Gratuitos no Nível %{level}
         pt-BR: Textos de Prática de Leitura em Português do Brasil Gratuitos no Nível %{level}
         es: Textos de Prática de Leitura em Español Gratuitos no Nível %{level}
+        de: Textos de Prática de Leitura em Alemão Gratuitos no Nível %{level}
       description:
         pt-BR: Aprenda português do Brasil lendo histórias. Material de leitura gratuito%{learners}.
         en: Aprenda Inglês lendo histórias. Material de leitura gratuito%{learners} com traduções para o português.
         fr: Aprenda Francês lendo histórias. Material de leitura gratuito%{learners} com traduções para o português.
         it: Aprenda Italiano lendo histórias. Material de leitura gratuito%{learners} com traduções para o português.
         es: Aprenda Espanhol lendo histórias. Material de leitura gratuito%{learners} com traduções para o português.
+        de: Aprenda Alemão lendo histórias. Material de leitura gratuito%{learners} com traduções para o português.
         learners: " para aprendizes no nível %{level}"
   status:
     status: Status
@@ -233,6 +237,7 @@ pt-BR:
         it: História de Prática de Leitura em Italiano no Nível %{level}
         pt-BR: História de Prática de Leitura em português do Brasil no Nível %{level}
         es: História de Prática de Leitura em Español no Nível %{level}
+        de: História de Prática de Leitura em Alemão no Nível %{level}
       body: Confira esta história curta da Fabulang, chamada "%{title}"
     twitter:
       mention: de @Fabulang # appended to a tweet sharing a story
@@ -264,6 +269,7 @@ pt-BR:
       it: Italiano com Fabulang – Coleção Completa de Histórias
       #pt-BR:
       es: Espanhol com Fabulang – Coleção Completa de Histórias
+      de: Alemão com Fabulang – Coleção Completa de Histórias
     landmarks:
       landmarks: Marcos
       cover: Capa
@@ -291,6 +297,7 @@ pt-BR:
             it: Apenas em Italiano
             #pt-BR:
             es: Apenas em Espanhol
+            de: Apenas em Alemão
           l1: Traduzido para o português do Brasil
           mixed:
             title: Misto
@@ -299,6 +306,7 @@ pt-BR:
             it: Italiano seguido de português do Brasil, parágrafo por parágrafo
             #pt-BR:
             es: Espanhol seguido de português do Brasil, parágrafo por parágrafo
+            de: Alemão seguido de português do Brasil, parágrafo por parágrafo
         rubric:
           intro: "Para a melhor experiência de aprendizado:"
         next: Ir para a próxima história

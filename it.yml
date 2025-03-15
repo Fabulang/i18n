@@ -7,6 +7,7 @@ it:
     pt: Portoghese
     pt-BR: Portoghese Brasiliano
     es: Spagnolo
+    de: Tedesco
   pages:
     home: Pagina Iniziale
     stories: Storie
@@ -124,6 +125,7 @@ it:
         fr: Una storia per gli studenti di Francese che parlano Italiano
         pt-BR: Una storia per gli studenti di Portoghese Brasiliano che parlano Italiano
         es: Una storia per gli studenti di Spagnolo che parlano Italiano
+        de: Una storia per gli studenti di Tedesco che parlano Italiano
       rubric: |-
         1. **Cerca di capire la storia.**
         2. Guarda solo la traduzione se rimani bloccato.
@@ -184,12 +186,14 @@ it:
         it: Testi Italiani %{level} Gratuiti - Pratica di Lettura
         pt-BR: Testi Portoghesi Brasiliani %{level} Gratuiti - Pratica di Lettura
         es: Testi Spagnoli %{level} Gratuiti - Pratica di Lettura
+        de: Testi Tedeschi %{level} Gratuiti - Pratica di Lettura
       description:
         it: Impara l'Italiano leggendo storie. Materiale di lettura gratuito%{learners}.
         en: Impara l'Inglese leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
         fr: Impara il Francese leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
         pt-BR: Impara il Portoghese Brasiliano leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
         es: Impara lo Spagnolo leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
+        de: Impara il Tedesco leggendo storie. Materiale di lettura gratuito%{learners} con traduzioni in Italiano.
         learners: " per studenti di livello %{level}"
   status:
     status: Stato
@@ -206,6 +210,7 @@ it:
         it: Italiano %{level} - Storia per la Pratica di Lettura
         pt-BR: Portoghese Brasiliano %{level} - Storia per la Pratica di Lettura
         es: Spagnolo %{level} - Storia per la Pratica di Lettura
+        de: Tedesco %{level} - Storia per la Pratica di Lettura
       body: Dai un'occhiata a questa breve storia di Fabulang, intitolata "%{title}"
     twitter:
       mention: da @Fabulang
@@ -234,6 +239,7 @@ it:
       #it:
       pt-BR: Portoghese Brasiliano con Fabulang – Collezione Completa di Storie
       es: Spagnolo con Fabulang – Collezione Completa di Storie
+      de: Tedesco con Fabulang – Collezione Completa di Storie
     landmarks:
       landmarks: Punti di riferimento
       cover: Copertina
@@ -261,6 +267,7 @@ it:
             #it:
             pt-BR: Solo in Portoghese Brasiliano
             es: Solo in Spagnolo
+            de: Solo in Tedesco
           l1: Tradotto in Italiano
           mixed:
             title: Misto
@@ -269,6 +276,7 @@ it:
             #it:
             pt-BR: Portoghese Brasiliano seguito da Italiano, paragrafo per paragrafo
             es: Spagnolo seguito da Italiano, paragrafo per paragrafo
+            de: Tedesco seguito da Italiano, paragrafo per paragrafo
         rubric:
           intro: "Per la migliore esperienza di apprendimento:"
         next: Vai alla storia successiva
