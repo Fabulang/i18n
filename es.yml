@@ -12,7 +12,7 @@ es:
     # Main website pages
     home: Inicio # Home page
     stories: Historias # List of stories
-    stories-at-level: Historias en el nivel %{level} # List of stories at a level
+    stories-at-level: Historias del nivel %{level} # List of stories at a level
   cefr:
     # Names for each CEFR level
     a1: Principiante
@@ -155,13 +155,13 @@ es:
           on-platform: en %{platform}
         read-by: Leído por # followed by speaker name
       translation-missing: Lo sentimos, falta esta traducción.
-      about-names: Los nombres en nuestras historias se cambian, en lugar de traducirse, entre versiones de idiomas.
+      about-names: Los nombres en nuestras historias se cambian, en lugar de traducirse, entre versiones de diferentes idiomas.
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
         title: Próximos pasos # Title of the panel
         reviewers: # People who reviewed the text to check it for errors
           # Shows who reviewed this story
-          title: Revisor experto
+          title: Revisor Experto
           intro: "El texto de esta historia fue revisado y aprobado por:"
           # Includes a link to the reviewer's website
           ads:
@@ -216,11 +216,11 @@ es:
         fr: Aprende francés leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
         it: Aprende italiano leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
         pt-BR: Aprende portugués brasileño leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
-        learners: " para estudiantes en el nivel %{level}"
+        learners: " para estudiantes del nivel %{level}"
   status:
     status: Estado
     other: Otro
-    missing: Faltante
+    missing: Falta
     read: Leído
     unread: No leído
   share:
