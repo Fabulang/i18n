@@ -1,369 +1,377 @@
-en:
-  name: English # The name of this language in this language
+de:
+  name: Deutsch # The name of this language in this language
   locales:
     # The names of each language, in this language
-    en: English
-    fr: French
-    it: Italian
-    pt: Portuguese
-    pt-BR: Brazilian Portuguese
-    es: Spanish
+    en: Englisch
+    fr: Französisch
+    it: Italienisch
+    pt: Portugiesisch
+    pt-BR: Brasilianisches Portugiesisch
+    es: Spanisch
+    de: Deutsch
   pages:
     # Main website pages
-    home: Home # Home page
-    stories: Stories # List of stories
-    stories-at-level: Stories at %{level} Level # List of stories at a level
+    home: Startseite # Home page
+    stories: Geschichten # List of stories
+    stories-at-level: Geschichten auf Niveau %{level} # List of stories at a level
   cefr:
     # Names for each CEFR level
-    a1: Beginner
-    a2: Essentials
-    b1: Functional
-    b2: Confident
-    c1: Fluent
-    c2: Native
+    a1: Anfänger
+    a2: Grundkenntnisse
+    b1: Fortgeschritten
+    b2: Selbstständig
+    c1: Fließend
+    c2: Muttersprachlich
     # Names for each group of two CEFR levels
     a:
-      one: Basic # when the context is singular
-      other: Basic # when the context is plural
+      one: Grundstufe # when the context is singular
+      other: Grundstufe # when the context is plural
     b:
-      one: Intermediate
-      other: Intermediate
+      one: Mittelstufe
+      other: Mittelstufe
     c:
-      one: Advanced
-      other: Advanced
+      one: Oberstufe
+      other: Oberstufe
   buttons:
     # Labels of buttons in the user interface
-    show-l1: Show English # show [this language]
-    hide-l1: Hide English # hide [this language]
-    show-with-translation: View with translation in English # in [this language]
-    allow: Allow
-    cancel: Cancel
-    save: Save
-    whats-this: What's this? # User can find out more about something
-    learn-more: Learn more
-    show: Show
-    hide: Hide
-    close: Close
-    mark-read: Mark as Read
-    mark-unread: Mark as Unread
-    buy: Buy Now
-    signup: Sign up
-    goto: Go to %{to}
-    subscribe: Subscribe
-    unsubscribe: Unsubscribe
-    update: Update
+    show-l1: Deutsch anzeigen # show [this language]
+    hide-l1: Deutsch verbergen # hide [this language]
+    show-with-translation: Mit deutscher Übersetzung anzeigen # in [this language]
+    allow: Zulassen
+    cancel: Abbrechen
+    save: Speichern
+    whats-this: Was ist das? # User can find out more about something
+    learn-more: Mehr erfahren
+    show: Anzeigen
+    hide: Verbergen
+    close: Schließen
+    mark-read: Als gelesen markieren
+    mark-unread: Als ungelesen markieren
+    buy: Jetzt kaufen
+    signup: Registrieren
+    goto: Gehe zu %{to}
+    subscribe: Abonnieren
+    unsubscribe: Abbestellen
+    update: Aktualisieren
   labels:
     # Text used in the user interface
-    level: Level # CEFR level
-    language: Language # Language of a text
-    story: Story # The word used to describe a single text
-    a-of-b: "%{a} of %{b}"
-    your-language: I speak # Used in the menu, followed by the currently selected language
-    learning: I'm learning # Used in the menu, followed by the currently selected language
-    new: New
+    level: Niveau # CEFR level
+    language: Sprache # Language of a text
+    story: Geschichte # The word used to describe a single text
+    a-of-b: "%{a} von %{b}"
+    your-language: Ich spreche # Used in the menu, followed by the currently selected language
+    learning: Ich lerne # Used in the menu, followed by the currently selected language
+    new: Neu
   nav:
     # Text used in the user interface related to navigating around the site
-    here: You are here # Used in a list of pages, e.g. Home, About (you are here), Team
-    skip: Skip to Content # Link to jump from the main menu down to the main content of a page
-    top: Back to Top # Link to jump from the bottom of a page to the top
-    hide: Hide Menu
-    show: Show Menu
+    here: Sie sind hier # Used in a list of pages, e.g. Home, About (you are here), Team
+    skip: Zum Inhalt springen # Link to jump from the main menu down to the main content of a page
+    top: Zurück nach oben # Link to jump from the bottom of a page to the top
+    hide: Menü ausblenden
+    show: Menü anzeigen
     menu:
       # Titles of menus
-      main: Main Menu
-      language: Language
+      main: Hauptmenü
+      language: Sprache
   pagination:
     # Text used for the user interface elements that allow changing the current page
     # Used like: Previous | 1 | 2 | 3 | Next
-    page: Page
-    next: Next
-    prev: Previous
-    back: Back to the list
+    page: Seite
+    next: Weiter
+    prev: Zurück
+    back: Zurück zur Liste
     levels:
       # Used to filter by level
-      all: All Levels
+      all: Alle Niveaus
     stories:
       # Navigating through stories
-      next: Next story
-      prev: Previous story
-      first: This is the first story at this level.
-      last: This is the last story at this level. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
-      all: All stories
-      same: Read more at the same level
-      harder: Try something harder
-      easier: Try something easier
+      next: Nächste Geschichte
+      prev: Vorherige Geschichte
+      first: Dies ist die erste Geschichte auf diesem Niveau.
+      last: Dies ist die letzte Geschichte auf diesem Niveau. Wenn Sie mehr möchten, [lassen Sie es uns wissen](https://fabulang.canny.io/feedback).
+      all: Alle Geschichten
+      same: Mehr auf diesem Niveau lesen
+      harder: Versuchen Sie etwas Schwierigeres
+      easier: Versuchen Sie etwas Einfacheres
   sections:
     # Text used for key sections of pages
     all:
       # All pages
-      tagline: Learn language by reading stories
-      version: "Fabulang is in Beta: we're still working hard to add more content and features. Please [vote for what we should add next](https://fabulang.canny.io/feedback){:target='_blank'}, or [report any issues](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
-      free: Fabulang is free to use! No ads, <span id="nocookies">no cookies, </span>no trackers. Just stories.
+      tagline: Sprachen lernen durch Geschichten
+      version: "Fabulang ist in der Beta-Phase: Wir arbeiten hart daran, mehr Inhalte und Funktionen hinzuzufügen. Bitte [stimmen Sie ab, was wir als nächstes hinzufügen sollen](https://fabulang.canny.io/feedback){:target='_blank'}, oder [melden Sie Probleme](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      free: Fabulang ist kostenlos! Keine Werbung, <span id="nocookies">keine Cookies, </span>keine Tracker. Nur Geschichten.
       signup:
         # Sign up to the email newsletter
-        title: Join the community
-        email: Email
-        subscribe: Subscribe # Subscribe to receive the newsletter
-        benefit: Sign up to be notified when there are new stories to read!
-        frequency: Maximum one email per week.
-        unsubscribe: Unsubscribe in one click at any time.
-      help-us: Help Us
-      feedback: Give Feedback # Link for user to give feedback on the site (e.g. feature requests, bug reports)
+        title: Werden Sie Teil der Community
+        email: E-Mail
+        subscribe: Abonnieren # Subscribe to receive the newsletter
+        benefit: Melden Sie sich an, um benachrichtigt zu werden, wenn es neue Geschichten gibt!
+        frequency: Maximal eine E-Mail pro Woche.
+        unsubscribe: Jederzeit mit einem Klick abbestellen.
+      help-us: Unterstützen Sie uns
+      feedback: Feedback geben # Link for user to give feedback on the site (e.g. feature requests, bug reports)
       copyright: Copyright © %{year}
       browser:
         # Warning that appears to users who are using an outdated browser
-        using: You are using an outdated browser # Heading
-        therefore: This site may not appear correctly. Please upgrade to improve your experience.
-        upgrade: Upgrade Your Browser # Button
+        using: Sie verwenden einen veralteten Browser # Heading
+        therefore: Diese Website könnte nicht korrekt dargestellt werden. Bitte aktualisieren Sie Ihren Browser für ein besseres Nutzererlebnis.
+        upgrade: Browser aktualisieren # Button
       promo:
-        lessons: Get 1-to-1 Lessons
+        lessons: Einzelunterricht buchen
       donate:
-        cta: Buy me a Coffee
-        note: If you want more stories and more features faster, please consider a small donation to support the project. Because we don't show ads, this site just costs money. We rely 100% on people like you. Thank you!
+        cta: Spendieren Sie uns einen Kaffee
+        note: Wenn Sie schneller mehr Geschichten und Funktionen möchten, unterstützen Sie unser Projekt bitte mit einer kleinen Spende. Da wir keine Werbung zeigen, verursacht diese Website ausschließlich Kosten. Wir sind zu 100 % auf Menschen wie Sie angewiesen. Vielen Dank!
     languages:
       # List of languages you can learn
-      pick: Which language are you learning?
+      pick: Welche Sprache lernen Sie?
     stories:
       # List of stories
-      choose-story: Pick a story
-      none: We are hard at work writing stories for %{l1} learners. Come back soon!
+      choose-story: Wählen Sie eine Geschichte
+      none: Wir arbeiten intensiv daran, Geschichten für Lernende von %{l1} zu erstellen. Schauen Sie bald wieder vorbei!
       the-end:
         # Appears when there are no more stories to show
-        title: The End # Traditional ending phrase of a story
-        description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
+        title: Ende # Traditional ending phrase of a story
+        description: Das sind alle Geschichten, die wir aktuell haben. Wenn Sie mehr möchten, [lassen Sie es uns wissen](https://fabulang.canny.io/feedback).
       help:
-        title: We need help to translate more stories!
-        speaks-this: We have more stories written in English. We need expert volunteers to translate them. If you can help, please contact us! # more in [this language]
-        speaks-target: We have more stories written in other languages. We need expert volunteers to translate them into English. If you can help, please contact us! # translate into [this language]
-        button: I can help
+        title: Wir brauchen Hilfe, um weitere Geschichten zu übersetzen!
+        speaks-this: Wir haben weitere Geschichten auf Deutsch verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, diese zu übersetzen. Wenn Sie helfen können, kontaktieren Sie uns bitte! # more in [this language]
+        speaks-target: Wir haben weitere Geschichten in anderen Sprachen verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, diese ins Deutsche zu übersetzen. Wenn Sie helfen können, kontaktieren Sie uns bitte! # translate into [this language]
+        button: Ich kann helfen
     story:
       # Single story page
       story-for:
-        en: A story for learners of English
-        fr: A story for learners of French who speak English
-        it: A story for learners of Italian who speak English
-        pt-BR: A story for learners of Brazilian Portuguese who speak English
-        es: A story for learners of Spanish who speak English
+        en: Eine Geschichte für Englischlernende, die Deutsch sprechen
+        fr: Eine Geschichte für Französischlernende, die Deutsch sprechen
+        it: Eine Geschichte für Italienischlernende, die Deutsch sprechen
+        pt-BR: Eine Geschichte für Lernende von brasilianischem Portugiesisch, die Deutsch sprechen
+        es: Eine Geschichte für Spanischlernende, die Deutsch sprechen
+        de: Eine Geschichte für Deutschlernende
       rubric: |-
-        1. **Try to understand the story.**
-        2. Only look at the translation if you get stuck.
-        3. Compare the languages to learn new words and phrases!
+        1. **Versuche, die Geschichte zu verstehen.**
+        2. Sieh dir die Übersetzung nur an, wenn du nicht weiterkommst.
+        3. Vergleiche die Sprachen, um neue Wörter und Ausdrücke zu lernen!
       audio:
-        listen: Listen # Button to listen to the audio
+        listen: Anhören # Button to listen to the audio
         listen-on:
-          listen: Listen
-          on-platform: on %{platform}
-        read-by: Read by # followed by speaker name
-      translation-missing: Sorry, this translation is missing.
-      about-names: The names in our stories are changed, rather than translated, between language versions.
+          listen: Anhören
+          on-platform: auf %{platform}
+        read-by: Gelesen von # followed by speaker name
+      translation-missing: Diese Übersetzung fehlt leider.
+      about-names: Die Namen in unseren Geschichten werden zwischen den Sprachversionen nicht übersetzt, sondern verändert.
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
-        title: Next steps # Title of the panel
+        title: Nächste Schritte # Title of the panel
         reviewers: # People who reviewed the text to check it for errors
           # Shows who reviewed this story
-          title: Expert Reviewer
-          intro: "The text of this story was checked and approved by:"
+          title: Expertenprüfer
+          intro: "Der Text dieser Geschichte wurde überprüft und genehmigt von:"
           # Includes a link to the reviewer's website
           ads:
-            true: "Has Ads" # Appears beside the link if the website has ads
-            false: "No Ads" # Appears beside the link if the website doesn't have ads
+            true: "Enthält Werbung" # Appears beside the link if the website has ads
+            false: "Keine Werbung" # Appears beside the link if the website doesn't have ads
           paid:
-            true: "Has Cost" # Appears beside the link if the website has paid content
-            false: "Free" # Appears beside the link if the website has no charges
+            true: "Kostenpflichtig" # Appears beside the link if the website has paid content
+            false: "Kostenlos" # Appears beside the link if the website has no charges
         share:
-          title: Share
+          title: Teilen
         discuss:
-          title: Engage
-          cta: Discuss this story
-          with: with other learners
+          title: Diskutieren
+          cta: Diskutiere diese Geschichte
+          with: mit anderen Lernenden
         error:
-          title: Spotted an error? # Did the user spot an error while reading?
-          fix: Fix the English text # fix [this language]
+          title: Einen Fehler entdeckt? # Did the user spot an error while reading?
+          fix: Korrigiere den deutschen Text # fix [this language]
       help:
         # Message requesting help from the reader
-        title: We need your help
-        intro: Has Fabulang helped you? Now help someone else to learn English! # learn [this language]
-        detail: Please read 1 story in English, and let us know if there are any errors. # read in [this language]
+        title: Wir brauchen deine Hilfe
+        intro: Hat Fabulang dir geholfen? Hilf jetzt anderen dabei, Deutsch zu lernen! # learn [this language]
+        detail: Bitte lies 1 Geschichte auf Deutsch und teile uns mit, falls du Fehler findest. # read in [this language]
         buttons:
-          this: Read this story again in English # read in [this language]
-          other: Read a different story
+          this: Lies diese Geschichte noch einmal auf Deutsch # read in [this language]
+          other: Lies eine andere Geschichte
     experts:
       # Expert Reviewers page. Review in this context means "check the text for errors".
-      become: Become an Expert Reviewer
-      list: Pick a story to review
-      reviews: Reviews
+      become: Expertenprüfer werden
+      list: Wähle eine Geschichte zur Korrektur aus
+      reviews: Korrekturen
       reviewed-count:
-        one: Reviewed 1 story
-        other: Reviewed %{count} stories
-      your-logo: Your Logo # Placeholder for the expert's logo
+        one: 1 Geschichte korrigiert
+        other: "%{count} Geschichten korrigiert"
+      your-logo: Dein Logo # Placeholder for the expert's logo
     teachers:
-      teachers: Teachers
-      survey: Answer survey
-      i-am: I'm a teacher
+      teachers: Lehrkräfte
+      survey: Umfrage beantworten
+      i-am: Ich bin Lehrkraft
   seo:
     # Text used for SEO purposes
-    description: Improve your language skills by reading short stories at your level, for free.
+    description: Verbessere kostenlos deine Sprachkenntnisse durch Kurzgeschichten auf deinem Niveau.
     stories:
       title:
-        en: Free English %{level} Reading Practice Texts
-        fr: Free French %{level} Reading Practice Texts
-        it: Free Italian %{level} Reading Practice Texts
-        pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
-        es: Free Spanish %{level} Reading Practice Texts
+        en: Kostenlose englische Lesetexte zum Üben auf %{level}-Niveau
+        fr: Kostenlose französische Lesetexte zum Üben auf %{level}-Niveau
+        it: Kostenlose italienische Lesetexte zum Üben auf %{level}-Niveau
+        pt-BR: Kostenlose brasilianisch-portugiesische Lesetexte zum Üben auf %{level}-Niveau
+        es: Kostenlose spanische Lesetexte zum Üben auf %{level}-Niveau
+        de: Kostenlose deutsche Lesetexte zum Üben auf %{level}-Niveau
       description: # Learn [other language] with [this language] translations
-        en: Learn English by reading stories. Free reading material%{learners}.
-        fr: Learn French by reading stories. Free reading material%{learners} with English translations.
-        it: Learn Italian by reading stories. Free reading material%{learners} with English translations.
-        pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material%{learners} with English translations.
-        es: Learn Spanish by reading stories. Free reading material%{learners} with English translations.
-        learners: " for learners at %{level} level"
+        en: Lerne Englisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        fr: Lerne Französisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        it: Lerne Italienisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        pt-BR: Lerne brasilianisches Portugiesisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        es: Lerne Spanisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        de: Lerne Deutsch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners}.
+        learners: " für Lernende auf %{level}-Niveau"
   status:
     status: Status
-    other: Other
-    missing: Missing
-    read: Read
-    unread: Unread
+    other: Sonstige
+    missing: Fehlend
+    read: Gelesen
+    unread: Ungelesen
   share:
     # Text used for sharing
     email:
-      email: Email
+      email: E-Mail
       subject:
-        en: English %{level} - Reading Practice Story
-        fr: French %{level} - Reading Practice Story
-        it: Italian %{level} - Reading Practice Story
-        pt-BR: Brazilian Portuguese %{level} - Reading Practice Story
-        es: Spanish %{level} - Reading Practice Story
-      body: Check out this short story from Fabulang, called "%{title}"
+        en: Englisch %{level} – Lesetext zum Üben
+        fr: Französisch %{level} – Lesetext zum Üben
+        it: Italienisch %{level} – Lesetext zum Üben
+        pt-BR: Brasilianisches Portugiesisch %{level} – Lesetext zum Üben
+        es: Spanisch %{level} – Lesetext zum Üben
+        de: Deutsch %{level} - Lesetext zum Üben
+      body: "Schau dir diese kurze Geschichte von Fabulang an: „%{title}“"
     twitter:
-      mention: from @Fabulang # appended to a tweet sharing a story
+      mention: von @Fabulang # appended to a tweet sharing a story
   cookies:
     # Cookie consent process
     cookies: Cookies
     permissions:
       # Descriptions of each permission we request
       functionality_storage:
-        title: Preferences and progress
-        description: Functionality cookies that save your preferences and progress on this device.
+        title: Einstellungen und Fortschritt
+        description: Funktionale Cookies, die deine Einstellungen und deinen Fortschritt auf diesem Gerät speichern.
       analytics_storage:
-        title: Counting visitors
-        description: Analytics cookies for anonymous usage statistics. This is very helpful to us.
+        title: Besucherzählung
+        description: Analyse-Cookies für anonyme Nutzungsstatistiken. Das ist sehr hilfreich für uns.
     dialog:
       # Cookie consent dialog
       title:
-        update: Update your cookie preferences
-        request: Actually, we need cookies for that!
-      prompt: Please select which cookies we can use.
-      required: Required for the feature you tried to use. # Displayed alongside a permissions that is required
-      change: You can update your preferences in the future using the link at the bottom of every page.
-      legal: We use the term 'cookies' to mean any normal feature that allows websites to store data on your device. We may use any of these features. Our use of cookies strictly respects your privacy and the GDPR. We will never use cookies to track you.
+        update: Aktualisiere deine Cookie-Einstellungen
+        request: Dafür brauchen wir Cookies!
+      prompt: Bitte wähle aus, welche Cookies wir verwenden dürfen.
+      required: Für die gewünschte Funktion erforderlich. # Displayed alongside a permissions that is required
+      change: Du kannst deine Einstellungen jederzeit über den Link unten auf jeder Seite ändern.
+      legal: Wir verwenden den Begriff „Cookies“ für alle üblichen Funktionen, mit denen Webseiten Daten auf deinem Gerät speichern. Wir verwenden diese Funktionen ausschließlich unter strikter Wahrung deiner Privatsphäre und der DSGVO. Wir werden Cookies niemals dazu nutzen, dich zu verfolgen.
   ebook:
-    ebook: Ebook
+    ebook: E-Book
     title: # Entry for each language other than this one
-      #en:
-      fr: French with Fabulang – Complete Story Collection
-      it: Italian with Fabulang – Complete Story Collection
-      pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
-      es: Spanish with Fabulang – Complete Story Collection
+      en: Englisch mit Fabulang – Komplette Geschichtensammlung
+      fr: Französisch mit Fabulang – Komplette Geschichtensammlung
+      it: Italienisch mit Fabulang – Komplette Geschichtensammlung
+      pt-BR: Brasilianisches Portugiesisch mit Fabulang – Komplette Geschichtensammlung
+      es: Spanisch mit Fabulang – Komplette Geschichtensammlung
+      #de:
     landmarks:
-      landmarks: Landmarks # Key points within an ebook (such as cover, title) that a user may wish to jump to
-      cover: Cover # the cover page
-      title-page: Title Page # the inside page which shows just the book title
-      toc: Table of Contents
-      start: Start # refers to the point in the book that is the start (first page of content)
+      landmarks: Orientierungspunkte # Key points within an ebook (such as cover, title) that a user may wish to jump to
+      cover: Titelbild # the cover page
+      title-page: Titelseite # the inside page which shows just the book title
+      toc: Inhaltsverzeichnis
+      start: Anfang # refers to the point in the book that is the start (first page of content)
     sections:
       foreword:
-        foreword: Foreword # An initial note from the author before a book begins
-        title: Thank you for your support!
+        foreword: Vorwort # An initial note from the author before a book begins
+        title: Vielen Dank für deine Unterstützung!
         text: |-
-          **We hope these stories help make learning languages even more fun.**
+          **Wir hoffen, dass diese Geschichten dir helfen, Sprachen mit noch mehr Spaß zu lernen.**
 
-          Sales of this ebook provide a small income that allows us to continue creating more stories and tools for language learners. You are free to share this ebook file with friends and family, but *please don't share it widely or publicly*.
+          Die Einnahmen aus dem Verkauf dieses E-Books helfen uns, weitere Geschichten und Hilfsmittel für Sprachlernende zu erstellen. Du darfst diese Datei gerne mit Freunden und Familie teilen, aber *bitte verbreite sie nicht öffentlich oder im großen Umfang*.
 
-          **We will keep updating this ebook** with new and improved content. To get the latest version, go back to where you bought it and download it again. Where possible, we'll email to let you know when there's a new version available.
+          **Wir werden dieses E-Book regelmäßig aktualisieren**, um neue und verbesserte Inhalte anzubieten. Um die aktuellste Version zu erhalten, lade sie einfach erneut herunter, wo du sie gekauft hast. Wenn möglich, informieren wir dich per E-Mail, sobald eine neue Version verfügbar ist.
 
-          Thank you for reading!
+          Viel Spaß beim Lesen!
       story:
         options:
-          intro: You can read this story... # followed by "in French", "in Italian", etc.
+          intro: Du kannst diese Geschichte lesen... # followed by "auf Französisch", "auf Italienisch", etc.
           l2:
-            #en:
-            fr: Just in French # Select this option to read a text in French only
-            it: Just in Italian
-            pt-BR: Just in Brazilian Portuguese
-            es: Just in Spanish
-          l1: Translated into English # Select this option to read the story in English
+            en: Nur auf Englisch
+            fr: Nur auf Französisch # Select this option to read a text in French only
+            it: Nur auf Italienisch
+            pt-BR: Nur auf brasilianischem Portugiesisch
+            es: Nur auf Spanisch
+            #de:
+          l1: Übersetzt ins Deutsche # Select this option to read the story in German
           mixed:
-            title: Mixed # Select this option to read a mix of languages
-            #en:
-            fr: French followed by English, paragraph by paragraph
-            it: Italian followed by English, paragraph by paragraph
-            pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
-            es: Spanish followed by English, paragraph by paragraph
+            title: Gemischt # Select this option to read a mix of languages
+            en: Englisch gefolgt von Deutsch, Absatz für Absatz
+            fr: Französisch gefolgt von Deutsch, Absatz für Absatz
+            it: Italienisch gefolgt von Deutsch, Absatz für Absatz
+            pt-BR: Brasilianisches Portugiesisch gefolgt von Deutsch, Absatz für Absatz
+            es: Spanisch gefolgt von Deutsch, Absatz für Absatz
+            #de:
         rubric:
-          intro: "For the best learning experience:" # followed by instructions on how to use the book
-        next: Go to the next story
+          intro: "Für ein optimales Lernerlebnis:" # followed by instructions on how to use the book
+        next: Zur nächsten Geschichte
     promo:
-      cta: Get the Ebook
-      price: €5
+      cta: Hol dir das E-Book
+      price: 5 €
       points:
-      - All our stories
-      - Read offline
+        - Alle unsere Geschichten
+        - Offline lesen
       points2:
-      - Read offline, on any device
-      - Free updates forever
-      - Support Fabulang ❤
+        - Offline auf jedem Gerät lesen
+        - Kostenlose Updates – für immer
+        - Unterstütze Fabulang ❤
   email:
-    dear: Dear Fabulinguists # made up word combining Fabu with linguist
+    dear: Liebe Fabulinguists # made up word combining Fabu with linguist
     topics:
       stories:
-        because: You received this email because you signed up on our website.
-        intro: There are new stories for you to read!
+        because: Sie erhalten diese E-Mail, weil Sie sich auf unserer Website angemeldet haben.
+        intro: Es gibt neue Geschichten für Sie zum Lesen!
         ebook:
-          owners: Already own the ebook? It now includes the new stories above.
-          again: Download it again
-    survey: Are we emailing you too often? Not often enough? Please [let us know how we can improve our emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
-    unsubscribe: Unsubscribe
+          owners: Besitzen Sie das E-Book bereits? Es enthält nun auch die oben genannten neuen Geschichten.
+          again: Erneut herunterladen
+    survey: Schreiben wir Ihnen zu oft? Nicht oft genug? Bitte [lassen Sie uns wissen, wie wir unsere E-Mails verbessern können](https://forms.gle/Q3DDvqvnwAjjtoYK7).
+    unsubscribe: Abbestellen
     form:
       sections:
-        details: Your details # Title of section where user enters email, name, etc.
-        l1: You speak # User selects their native language
-        l2: You're learning # User selects languages they are learning
-        why: Why are you here? # User selects their motivation for learning languages
+        details: Ihre Angaben # Title of section where user enters email, name, etc.
+        l1: Sie sprechen # User selects their native language
+        l2: Sie lernen # User selects languages they are learning
+        why: Warum sind Sie hier? # User selects their motivation for learning languages
       fields:
-        email: Email
-        first: Given Name # The user's name by which they wish to be addressed in a personal context
-        last: Family Name # Additional name of the user which together makes their full name
+        email: E-Mail
+        first: Vorname # The user's name by which they wish to be addressed in a personal context
+        last: Nachname # Additional name of the user which together makes their full name
         why:
-          personal: Personal # personal reasons like travel or fun
-          school: School # learning in an educational setting
-          work: Work # learning to help with a job or business
-          teaching: Teaching # you're a language teacher
+          personal: Persönlich # personal reasons like travel or fun
+          school: Schule # learning in an educational setting
+          work: Beruf # learning to help with a job or business
+          teaching: Lehre # you're a language teacher
       info:
-        intro: Please complete this form to finish subscribing.
-        update: You can update your details below.
-        name: "**Your real name** helps ensure our emails don't go to spam."
-        when: "We'll email when there are new stories in the languages you're **learning**."
-        also: We'll also let you know occasionally when there are big new features, or other big announcements.
+        intro: Bitte füllen Sie dieses Formular aus, um Ihr Abonnement abzuschließen.
+        update: Sie können Ihre Angaben unten aktualisieren.
+        name: "**Ihr richtiger Name** hilft dabei, dass unsere E-Mails nicht im Spam-Ordner landen."
+        when: "Wir benachrichtigen Sie per E-Mail, wenn es neue Geschichten in den Sprachen gibt, die Sie **lernen**."
+        also: Außerdem informieren wir Sie gelegentlich über wichtige neue Funktionen oder andere große Neuigkeiten.
       messages:
-        subscribed: Thanks! You're now subscribed.
-        updated: Thanks! We've updated your details and subscription status.
+        subscribed: Vielen Dank! Sie sind nun angemeldet.
+        updated: Vielen Dank! Ihre Angaben und Ihr Abonnement wurden aktualisiert.
   form:
     info:
-      captcha: Checking you're not a robot...
-      validating: Checking what you typed...
-      connecting: Connecting to our database...
+      captcha: Überprüfung, ob Sie kein Roboter sind...
+      validating: Überprüfung Ihrer Eingabe...
+      connecting: Verbindung zur Datenbank wird hergestellt...
     error:
-      error: Sorry, that didn't work.
-      unknown: Something went wrong.
-      retry: Please try again later.
-      invalid: Please ensure you've filled in the form correctly, then try again.
-      connection: Sorry, we're having trouble connecting.
-      robot: Our system thinks you might be a robot.
-      cannot: Sorry, you can't use this form.
-      noscript: To prevent spam, we require JavaScript to use this form.
+      error: Entschuldigung, das hat nicht funktioniert.
+      unknown: Etwas ist schiefgelaufen.
+      retry: Bitte versuchen Sie es später erneut.
+      invalid: Bitte stellen Sie sicher, dass das Formular korrekt ausgefüllt wurde, und versuchen Sie es erneut.
+      connection: Entschuldigung, wir haben Probleme, eine Verbindung herzustellen.
+      robot: Unser System vermutet, dass Sie ein Roboter sind.
+      cannot: Entschuldigung, Sie können dieses Formular nicht verwenden.
+      noscript: Um Spam zu vermeiden, benötigen wir JavaScript für dieses Formular.
     validation:
-      required: This information is required.
-      email: Please enter a valid email address.
-      name: Sorry, we can't use this name. Please adjust how you write it.
-      maxlength: Can't be more than {0} characters.
-      minlength: Can't be less than {0} characters.
+      required: Diese Angabe wird benötigt.
+      email: Bitte geben Sie eine gültige E-Mail-Adresse ein.
+      name: Entschuldigung, dieser Name kann nicht verwendet werden. Bitte ändern Sie die Schreibweise.
+      maxlength: Darf nicht länger als {0} Zeichen sein.
+      minlength: Darf nicht kürzer als {0} Zeichen sein.
