@@ -202,25 +202,25 @@ de:
       teachers: Lehrkräfte
       survey: Umfrage beantworten
       i-am: Ich bin Lehrkraft
-    seo:
-      # Text used for SEO purposes
-      description: Verbessere kostenlos deine Sprachkenntnisse durch Kurzgeschichten auf deinem Niveau.
-      stories:
-        title:
-          en: Kostenlose englische Lesetexte zum Üben auf %{level}-Niveau
-          fr: Kostenlose französische Lesetexte zum Üben auf %{level}-Niveau
-          it: Kostenlose italienische Lesetexte zum Üben auf %{level}-Niveau
-          pt-BR: Kostenlose brasilianisch-portugiesische Lesetexte zum Üben auf %{level}-Niveau
-          es: Kostenlose spanische Lesetexte zum Üben auf %{level}-Niveau
-          de: Kostenlose deutsche Lesetexte zum Üben auf %{level}-Niveau
-        description: # Learn [other language] with [this language] translations
-          en: Lerne Englisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-          fr: Lerne Französisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-          it: Lerne Italienisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-          pt-BR: Lerne brasilianisches Portugiesisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-          es: Lerne Spanisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-          de: Lerne Deutsch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners}.
-          learners: " für Lernende auf %{level}-Niveau"
+  seo:
+    # Text used for SEO purposes
+    description: Verbessere kostenlos deine Sprachkenntnisse durch Kurzgeschichten auf deinem Niveau.
+    stories:
+      title:
+        en: Kostenlose englische Lesetexte zum Üben auf %{level}-Niveau
+        fr: Kostenlose französische Lesetexte zum Üben auf %{level}-Niveau
+        it: Kostenlose italienische Lesetexte zum Üben auf %{level}-Niveau
+        pt-BR: Kostenlose brasilianisch-portugiesische Lesetexte zum Üben auf %{level}-Niveau
+        es: Kostenlose spanische Lesetexte zum Üben auf %{level}-Niveau
+        de: Kostenlose deutsche Lesetexte zum Üben auf %{level}-Niveau
+      description: # Learn [other language] with [this language] translations
+        en: Lerne Englisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        fr: Lerne Französisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        it: Lerne Italienisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        pt-BR: Lerne brasilianisches Portugiesisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        es: Lerne Spanisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
+        de: Lerne Deutsch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners}.
+        learners: " für Lernende auf %{level}-Niveau"
   status:
     status: Status
     other: Sonstige
