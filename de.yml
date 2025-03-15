@@ -1,0 +1,369 @@
+en:
+  name: English # The name of this language in this language
+  locales:
+    # The names of each language, in this language
+    en: English
+    fr: French
+    it: Italian
+    pt: Portuguese
+    pt-BR: Brazilian Portuguese
+    es: Spanish
+  pages:
+    # Main website pages
+    home: Home # Home page
+    stories: Stories # List of stories
+    stories-at-level: Stories at %{level} Level # List of stories at a level
+  cefr:
+    # Names for each CEFR level
+    a1: Beginner
+    a2: Essentials
+    b1: Functional
+    b2: Confident
+    c1: Fluent
+    c2: Native
+    # Names for each group of two CEFR levels
+    a:
+      one: Basic # when the context is singular
+      other: Basic # when the context is plural
+    b:
+      one: Intermediate
+      other: Intermediate
+    c:
+      one: Advanced
+      other: Advanced
+  buttons:
+    # Labels of buttons in the user interface
+    show-l1: Show English # show [this language]
+    hide-l1: Hide English # hide [this language]
+    show-with-translation: View with translation in English # in [this language]
+    allow: Allow
+    cancel: Cancel
+    save: Save
+    whats-this: What's this? # User can find out more about something
+    learn-more: Learn more
+    show: Show
+    hide: Hide
+    close: Close
+    mark-read: Mark as Read
+    mark-unread: Mark as Unread
+    buy: Buy Now
+    signup: Sign up
+    goto: Go to %{to}
+    subscribe: Subscribe
+    unsubscribe: Unsubscribe
+    update: Update
+  labels:
+    # Text used in the user interface
+    level: Level # CEFR level
+    language: Language # Language of a text
+    story: Story # The word used to describe a single text
+    a-of-b: "%{a} of %{b}"
+    your-language: I speak # Used in the menu, followed by the currently selected language
+    learning: I'm learning # Used in the menu, followed by the currently selected language
+    new: New
+  nav:
+    # Text used in the user interface related to navigating around the site
+    here: You are here # Used in a list of pages, e.g. Home, About (you are here), Team
+    skip: Skip to Content # Link to jump from the main menu down to the main content of a page
+    top: Back to Top # Link to jump from the bottom of a page to the top
+    hide: Hide Menu
+    show: Show Menu
+    menu:
+      # Titles of menus
+      main: Main Menu
+      language: Language
+  pagination:
+    # Text used for the user interface elements that allow changing the current page
+    # Used like: Previous | 1 | 2 | 3 | Next
+    page: Page
+    next: Next
+    prev: Previous
+    back: Back to the list
+    levels:
+      # Used to filter by level
+      all: All Levels
+    stories:
+      # Navigating through stories
+      next: Next story
+      prev: Previous story
+      first: This is the first story at this level.
+      last: This is the last story at this level. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
+      all: All stories
+      same: Read more at the same level
+      harder: Try something harder
+      easier: Try something easier
+  sections:
+    # Text used for key sections of pages
+    all:
+      # All pages
+      tagline: Learn language by reading stories
+      version: "Fabulang is in Beta: we're still working hard to add more content and features. Please [vote for what we should add next](https://fabulang.canny.io/feedback){:target='_blank'}, or [report any issues](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      free: Fabulang is free to use! No ads, <span id="nocookies">no cookies, </span>no trackers. Just stories.
+      signup:
+        # Sign up to the email newsletter
+        title: Join the community
+        email: Email
+        subscribe: Subscribe # Subscribe to receive the newsletter
+        benefit: Sign up to be notified when there are new stories to read!
+        frequency: Maximum one email per week.
+        unsubscribe: Unsubscribe in one click at any time.
+      help-us: Help Us
+      feedback: Give Feedback # Link for user to give feedback on the site (e.g. feature requests, bug reports)
+      copyright: Copyright © %{year}
+      browser:
+        # Warning that appears to users who are using an outdated browser
+        using: You are using an outdated browser # Heading
+        therefore: This site may not appear correctly. Please upgrade to improve your experience.
+        upgrade: Upgrade Your Browser # Button
+      promo:
+        lessons: Get 1-to-1 Lessons
+      donate:
+        cta: Buy me a Coffee
+        note: If you want more stories and more features faster, please consider a small donation to support the project. Because we don't show ads, this site just costs money. We rely 100% on people like you. Thank you!
+    languages:
+      # List of languages you can learn
+      pick: Which language are you learning?
+    stories:
+      # List of stories
+      choose-story: Pick a story
+      none: We are hard at work writing stories for %{l1} learners. Come back soon!
+      the-end:
+        # Appears when there are no more stories to show
+        title: The End # Traditional ending phrase of a story
+        description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
+      help:
+        title: We need help to translate more stories!
+        speaks-this: We have more stories written in English. We need expert volunteers to translate them. If you can help, please contact us! # more in [this language]
+        speaks-target: We have more stories written in other languages. We need expert volunteers to translate them into English. If you can help, please contact us! # translate into [this language]
+        button: I can help
+    story:
+      # Single story page
+      story-for:
+        en: A story for learners of English
+        fr: A story for learners of French who speak English
+        it: A story for learners of Italian who speak English
+        pt-BR: A story for learners of Brazilian Portuguese who speak English
+        es: A story for learners of Spanish who speak English
+      rubric: |-
+        1. **Try to understand the story.**
+        2. Only look at the translation if you get stuck.
+        3. Compare the languages to learn new words and phrases!
+      audio:
+        listen: Listen # Button to listen to the audio
+        listen-on:
+          listen: Listen
+          on-platform: on %{platform}
+        read-by: Read by # followed by speaker name
+      translation-missing: Sorry, this translation is missing.
+      about-names: The names in our stories are changed, rather than translated, between language versions.
+      after-panel:
+        # Panels that display the user's options after reading the story, and information about the story
+        title: Next steps # Title of the panel
+        reviewers: # People who reviewed the text to check it for errors
+          # Shows who reviewed this story
+          title: Expert Reviewer
+          intro: "The text of this story was checked and approved by:"
+          # Includes a link to the reviewer's website
+          ads:
+            true: "Has Ads" # Appears beside the link if the website has ads
+            false: "No Ads" # Appears beside the link if the website doesn't have ads
+          paid:
+            true: "Has Cost" # Appears beside the link if the website has paid content
+            false: "Free" # Appears beside the link if the website has no charges
+        share:
+          title: Share
+        discuss:
+          title: Engage
+          cta: Discuss this story
+          with: with other learners
+        error:
+          title: Spotted an error? # Did the user spot an error while reading?
+          fix: Fix the English text # fix [this language]
+      help:
+        # Message requesting help from the reader
+        title: We need your help
+        intro: Has Fabulang helped you? Now help someone else to learn English! # learn [this language]
+        detail: Please read 1 story in English, and let us know if there are any errors. # read in [this language]
+        buttons:
+          this: Read this story again in English # read in [this language]
+          other: Read a different story
+    experts:
+      # Expert Reviewers page. Review in this context means "check the text for errors".
+      become: Become an Expert Reviewer
+      list: Pick a story to review
+      reviews: Reviews
+      reviewed-count:
+        one: Reviewed 1 story
+        other: Reviewed %{count} stories
+      your-logo: Your Logo # Placeholder for the expert's logo
+    teachers:
+      teachers: Teachers
+      survey: Answer survey
+      i-am: I'm a teacher
+  seo:
+    # Text used for SEO purposes
+    description: Improve your language skills by reading short stories at your level, for free.
+    stories:
+      title:
+        en: Free English %{level} Reading Practice Texts
+        fr: Free French %{level} Reading Practice Texts
+        it: Free Italian %{level} Reading Practice Texts
+        pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
+        es: Free Spanish %{level} Reading Practice Texts
+      description: # Learn [other language] with [this language] translations
+        en: Learn English by reading stories. Free reading material%{learners}.
+        fr: Learn French by reading stories. Free reading material%{learners} with English translations.
+        it: Learn Italian by reading stories. Free reading material%{learners} with English translations.
+        pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material%{learners} with English translations.
+        es: Learn Spanish by reading stories. Free reading material%{learners} with English translations.
+        learners: " for learners at %{level} level"
+  status:
+    status: Status
+    other: Other
+    missing: Missing
+    read: Read
+    unread: Unread
+  share:
+    # Text used for sharing
+    email:
+      email: Email
+      subject:
+        en: English %{level} - Reading Practice Story
+        fr: French %{level} - Reading Practice Story
+        it: Italian %{level} - Reading Practice Story
+        pt-BR: Brazilian Portuguese %{level} - Reading Practice Story
+        es: Spanish %{level} - Reading Practice Story
+      body: Check out this short story from Fabulang, called "%{title}"
+    twitter:
+      mention: from @Fabulang # appended to a tweet sharing a story
+  cookies:
+    # Cookie consent process
+    cookies: Cookies
+    permissions:
+      # Descriptions of each permission we request
+      functionality_storage:
+        title: Preferences and progress
+        description: Functionality cookies that save your preferences and progress on this device.
+      analytics_storage:
+        title: Counting visitors
+        description: Analytics cookies for anonymous usage statistics. This is very helpful to us.
+    dialog:
+      # Cookie consent dialog
+      title:
+        update: Update your cookie preferences
+        request: Actually, we need cookies for that!
+      prompt: Please select which cookies we can use.
+      required: Required for the feature you tried to use. # Displayed alongside a permissions that is required
+      change: You can update your preferences in the future using the link at the bottom of every page.
+      legal: We use the term 'cookies' to mean any normal feature that allows websites to store data on your device. We may use any of these features. Our use of cookies strictly respects your privacy and the GDPR. We will never use cookies to track you.
+  ebook:
+    ebook: Ebook
+    title: # Entry for each language other than this one
+      #en:
+      fr: French with Fabulang – Complete Story Collection
+      it: Italian with Fabulang – Complete Story Collection
+      pt-BR: Brazilian Portuguese with Fabulang – Complete Story Collection
+      es: Spanish with Fabulang – Complete Story Collection
+    landmarks:
+      landmarks: Landmarks # Key points within an ebook (such as cover, title) that a user may wish to jump to
+      cover: Cover # the cover page
+      title-page: Title Page # the inside page which shows just the book title
+      toc: Table of Contents
+      start: Start # refers to the point in the book that is the start (first page of content)
+    sections:
+      foreword:
+        foreword: Foreword # An initial note from the author before a book begins
+        title: Thank you for your support!
+        text: |-
+          **We hope these stories help make learning languages even more fun.**
+
+          Sales of this ebook provide a small income that allows us to continue creating more stories and tools for language learners. You are free to share this ebook file with friends and family, but *please don't share it widely or publicly*.
+
+          **We will keep updating this ebook** with new and improved content. To get the latest version, go back to where you bought it and download it again. Where possible, we'll email to let you know when there's a new version available.
+
+          Thank you for reading!
+      story:
+        options:
+          intro: You can read this story... # followed by "in French", "in Italian", etc.
+          l2:
+            #en:
+            fr: Just in French # Select this option to read a text in French only
+            it: Just in Italian
+            pt-BR: Just in Brazilian Portuguese
+            es: Just in Spanish
+          l1: Translated into English # Select this option to read the story in English
+          mixed:
+            title: Mixed # Select this option to read a mix of languages
+            #en:
+            fr: French followed by English, paragraph by paragraph
+            it: Italian followed by English, paragraph by paragraph
+            pt-BR: Brazilian Portuguese followed by English, paragraph by paragraph
+            es: Spanish followed by English, paragraph by paragraph
+        rubric:
+          intro: "For the best learning experience:" # followed by instructions on how to use the book
+        next: Go to the next story
+    promo:
+      cta: Get the Ebook
+      price: €5
+      points:
+      - All our stories
+      - Read offline
+      points2:
+      - Read offline, on any device
+      - Free updates forever
+      - Support Fabulang ❤
+  email:
+    dear: Dear Fabulinguists # made up word combining Fabu with linguist
+    topics:
+      stories:
+        because: You received this email because you signed up on our website.
+        intro: There are new stories for you to read!
+        ebook:
+          owners: Already own the ebook? It now includes the new stories above.
+          again: Download it again
+    survey: Are we emailing you too often? Not often enough? Please [let us know how we can improve our emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
+    unsubscribe: Unsubscribe
+    form:
+      sections:
+        details: Your details # Title of section where user enters email, name, etc.
+        l1: You speak # User selects their native language
+        l2: You're learning # User selects languages they are learning
+        why: Why are you here? # User selects their motivation for learning languages
+      fields:
+        email: Email
+        first: Given Name # The user's name by which they wish to be addressed in a personal context
+        last: Family Name # Additional name of the user which together makes their full name
+        why:
+          personal: Personal # personal reasons like travel or fun
+          school: School # learning in an educational setting
+          work: Work # learning to help with a job or business
+          teaching: Teaching # you're a language teacher
+      info:
+        intro: Please complete this form to finish subscribing.
+        update: You can update your details below.
+        name: "**Your real name** helps ensure our emails don't go to spam."
+        when: "We'll email when there are new stories in the languages you're **learning**."
+        also: We'll also let you know occasionally when there are big new features, or other big announcements.
+      messages:
+        subscribed: Thanks! You're now subscribed.
+        updated: Thanks! We've updated your details and subscription status.
+  form:
+    info:
+      captcha: Checking you're not a robot...
+      validating: Checking what you typed...
+      connecting: Connecting to our database...
+    error:
+      error: Sorry, that didn't work.
+      unknown: Something went wrong.
+      retry: Please try again later.
+      invalid: Please ensure you've filled in the form correctly, then try again.
+      connection: Sorry, we're having trouble connecting.
+      robot: Our system thinks you might be a robot.
+      cannot: Sorry, you can't use this form.
+      noscript: To prevent spam, we require JavaScript to use this form.
+    validation:
+      required: This information is required.
+      email: Please enter a valid email address.
+      name: Sorry, we can't use this name. Please adjust how you write it.
+      maxlength: Can't be more than {0} characters.
+      minlength: Can't be less than {0} characters.
