@@ -163,7 +163,7 @@ de:
         title: Nächste Schritte # Title of the panel
         reviewers: # People who reviewed the text to check it for errors
           # Shows who reviewed this story
-          title: Fachliche Prüfung
+          title: Expertenprüfer
           intro: "Der Text dieser Geschichte wurde überprüft und genehmigt von:"
           # Includes a link to the reviewer's website
           ads:
@@ -191,7 +191,7 @@ de:
           other: Lies eine andere Geschichte
     experts:
       # Expert Reviewers page. Review in this context means "check the text for errors".
-      become: Experte für Korrekturen werden
+      become: Expertenprüfer werden
       list: Wähle eine Geschichte zur Korrektur aus
       reviews: Korrekturen
       reviewed-count:
