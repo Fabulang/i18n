@@ -64,7 +64,7 @@ de:
     new: Neu
   nav:
     # Text used in the user interface related to navigating around the site
-    here: Sie sind hier # Used in a list of pages, e.g. Home, About (you are here), Team
+    here: Du bist hier # Used in a list of pages, e.g. Home, About (you are here), Team
     skip: Zum Inhalt springen # Link to jump from the main menu down to the main content of a page
     top: Zurück nach oben # Link to jump from the bottom of a page to the top
     hide: Menü ausblenden
@@ -88,54 +88,54 @@ de:
       next: Nächste Geschichte
       prev: Vorherige Geschichte
       first: Dies ist die erste Geschichte auf diesem Niveau.
-      last: Dies ist die letzte Geschichte auf diesem Niveau. Wenn Sie mehr möchten, [lassen Sie es uns wissen](https://fabulang.canny.io/feedback).
+      last: Dies ist die letzte Geschichte auf diesem Niveau. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.canny.io/feedback).
       all: Alle Geschichten
       same: Mehr auf diesem Niveau lesen
-      harder: Versuchen Sie etwas Schwierigeres
-      easier: Versuchen Sie etwas Einfacheres
+      harder: Versuche etwas Schwierigeres
+      easier: Versuche etwas Einfacheres
   sections:
     # Text used for key sections of pages
     all:
       # All pages
       tagline: Sprachen lernen durch Geschichten
-      version: "Fabulang ist in der Beta-Phase: Wir arbeiten hart daran, mehr Inhalte und Funktionen hinzuzufügen. Bitte [stimmen Sie ab, was wir als nächstes hinzufügen sollen](https://fabulang.canny.io/feedback){:target='_blank'}, oder [melden Sie Probleme](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang ist in der Beta-Phase: Wir arbeiten hart daran, mehr Inhalte und Funktionen hinzuzufügen. Bitte [stimme ab, was wir als Nächstes hinzufügen sollen](https://fabulang.canny.io/feedback){:target='_blank'}, oder [melde Probleme](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
       free: Fabulang ist kostenlos! Keine Werbung, <span id="nocookies">keine Cookies, </span>keine Tracker. Nur Geschichten.
       signup:
         # Sign up to the email newsletter
-        title: Werden Sie Teil der Community
+        title: Werde Teil der Community
         email: E-Mail
         subscribe: Abonnieren # Subscribe to receive the newsletter
-        benefit: Melden Sie sich an, um benachrichtigt zu werden, wenn es neue Geschichten gibt!
+        benefit: Melde dich an, um benachrichtigt zu werden, wenn es neue Geschichten gibt!
         frequency: Maximal eine E-Mail pro Woche.
         unsubscribe: Jederzeit mit einem Klick abbestellen.
-      help-us: Unterstützen Sie uns
-      feedback: Feedback geben # Link for user to give feedback on the site (e.g. feature requests, bug reports)
+      help-us: Unterstütze uns
+      feedback: Gib uns Feedback # Link for user to give feedback on the site (e.g. feature requests, bug reports)
       copyright: Copyright © %{year}
       browser:
         # Warning that appears to users who are using an outdated browser
-        using: Sie verwenden einen veralteten Browser # Heading
-        therefore: Diese Website könnte nicht korrekt dargestellt werden. Bitte aktualisieren Sie Ihren Browser für ein besseres Nutzererlebnis.
+        using: Du verwendest einen veralteten Browser # Heading
+        therefore: Diese Website könnte nicht korrekt dargestellt werden. Bitte aktualisiere deinen Browser für ein besseres Nutzererlebnis.
         upgrade: Browser aktualisieren # Button
       promo:
         lessons: Einzelunterricht buchen
       donate:
-        cta: Spendieren Sie uns einen Kaffee
-        note: Wenn Sie schneller mehr Geschichten und Funktionen möchten, unterstützen Sie unser Projekt bitte mit einer kleinen Spende. Da wir keine Werbung zeigen, verursacht diese Website ausschließlich Kosten. Wir sind zu 100 % auf Menschen wie Sie angewiesen. Vielen Dank!
+        cta: Spendier uns einen Kaffee
+        note: Wenn du schneller mehr Geschichten und Funktionen möchtest, unterstütze unser Projekt bitte mit einer kleinen Spende. Da wir keine Werbung zeigen, verursacht diese Website ausschließlich Kosten. Wir sind zu 100 % auf Menschen wie dich angewiesen. Vielen Dank!
     languages:
       # List of languages you can learn
-      pick: Welche Sprache lernen Sie?
+      pick: Welche Sprache lernst du?
     stories:
       # List of stories
-      choose-story: Wählen Sie eine Geschichte
-      none: Wir arbeiten intensiv daran, Geschichten für Lernende von %{l1} zu erstellen. Schauen Sie bald wieder vorbei!
+      choose-story: Wähle eine Geschichte
+      none: Wir arbeiten intensiv daran, Geschichten für Lernende von %{l1} zu erstellen. Schau bald wieder vorbei!
       the-end:
         # Appears when there are no more stories to show
         title: Ende # Traditional ending phrase of a story
-        description: Das sind alle Geschichten, die wir aktuell haben. Wenn Sie mehr möchten, [lassen Sie es uns wissen](https://fabulang.canny.io/feedback).
+        description: Das sind alle Geschichten, die wir aktuell haben. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.canny.io/feedback).
       help:
         title: Wir brauchen Hilfe, um weitere Geschichten zu übersetzen!
-        speaks-this: Wir haben weitere Geschichten auf Deutsch verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, diese zu übersetzen. Wenn Sie helfen können, kontaktieren Sie uns bitte! # more in [this language]
-        speaks-target: Wir haben weitere Geschichten in anderen Sprachen verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, diese ins Deutsche zu übersetzen. Wenn Sie helfen können, kontaktieren Sie uns bitte! # translate into [this language]
+        speaks-this: Wir haben weitere Geschichten auf Deutsch verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, sie zu übersetzen. Wenn du helfen kannst, kontaktiere uns bitte! # more in [this language]
+        speaks-target: Wir haben weitere Geschichten in anderen Sprachen verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, sie ins Deutsche zu übersetzen. Wenn du helfen kannst, kontaktiere uns bitte! # translate into [this language]
         button: Ich kann helfen
     story:
       # Single story page
@@ -148,7 +148,7 @@ de:
         de: Eine Geschichte für Deutschlernende
       rubric: |-
         1. **Versuche, die Geschichte zu verstehen.**
-        2. Sieh dir die Übersetzung nur an, wenn du nicht weiterkommst.
+        2. Schau dir die Übersetzung nur an, wenn du nicht weiterkommst.
         3. Vergleiche die Sprachen, um neue Wörter und Ausdrücke zu lernen!
       audio:
         listen: Anhören # Button to listen to the audio
@@ -185,7 +185,7 @@ de:
         # Message requesting help from the reader
         title: Wir brauchen deine Hilfe
         intro: Hat Fabulang dir geholfen? Hilf jetzt anderen dabei, Deutsch zu lernen! # learn [this language]
-        detail: Bitte lies 1 Geschichte auf Deutsch und teile uns mit, falls du Fehler findest. # read in [this language]
+        detail: Bitte lies 1 Geschichte auf Deutsch und sag uns Bescheid, falls du Fehler findest. # read in [this language]
         buttons:
           this: Lies diese Geschichte noch einmal auf Deutsch # read in [this language]
           other: Lies eine andere Geschichte
@@ -237,7 +237,7 @@ de:
         it: Italienisch %{level} – Lesetext zum Üben
         pt-BR: Brasilianisches Portugiesisch %{level} – Lesetext zum Üben
         es: Spanisch %{level} – Lesetext zum Üben
-        de: Deutsch %{level} - Lesetext zum Üben
+        de: Deutsch %{level} – Lesetext zum Üben
       body: "Schau dir diese kurze Geschichte von Fabulang an: „%{title}“"
     twitter:
       mention: von @Fabulang # appended to a tweet sharing a story
@@ -251,16 +251,16 @@ de:
         description: Funktionale Cookies, die deine Einstellungen und deinen Fortschritt auf diesem Gerät speichern.
       analytics_storage:
         title: Besucherzählung
-        description: Analyse-Cookies für anonyme Nutzungsstatistiken. Das ist sehr hilfreich für uns.
+        description: Analyse-Cookies für anonyme Nutzungsstatistiken. Das hilft uns sehr.
     dialog:
       # Cookie consent dialog
       title:
         update: Aktualisiere deine Cookie-Einstellungen
         request: Dafür brauchen wir Cookies!
       prompt: Bitte wähle aus, welche Cookies wir verwenden dürfen.
-      required: Für die gewünschte Funktion erforderlich. # Displayed alongside a permissions that is required
+      required: Erforderlich für die gewünschte Funktion. # Displayed alongside a permissions that is required
       change: Du kannst deine Einstellungen jederzeit über den Link unten auf jeder Seite ändern.
-      legal: Wir verwenden den Begriff „Cookies“ für alle üblichen Funktionen, mit denen Webseiten Daten auf deinem Gerät speichern. Wir verwenden diese Funktionen ausschließlich unter strikter Wahrung deiner Privatsphäre und der DSGVO. Wir werden Cookies niemals dazu nutzen, dich zu verfolgen.
+      legal: Wir verwenden den Begriff „Cookies“ für alle Technologien, mit denen Webseiten Daten auf deinem Gerät speichern. Dabei achten wir strikt auf deine Privatsphäre und die DSGVO. Wir werden Cookies niemals nutzen, um dich zu verfolgen.
   ebook:
     ebook: E-Book
     title: # Entry for each language other than this one
@@ -283,7 +283,7 @@ de:
         text: |-
           **Wir hoffen, dass diese Geschichten dir helfen, Sprachen mit noch mehr Spaß zu lernen.**
 
-          Die Einnahmen aus dem Verkauf dieses E-Books helfen uns, weitere Geschichten und Hilfsmittel für Sprachlernende zu erstellen. Du darfst diese Datei gerne mit Freunden und Familie teilen, aber *bitte verbreite sie nicht öffentlich oder im großen Umfang*.
+          Die Einnahmen aus dem Verkauf dieses E-Books helfen uns, weitere Geschichten und Hilfsmittel für Sprachlernende zu erstellen. Du kannst diese Datei gerne mit Freunden und Familie teilen, aber *bitte verbreite sie nicht öffentlich oder in großem Umfang*.
 
           **Wir werden dieses E-Book regelmäßig aktualisieren**, um neue und verbesserte Inhalte anzubieten. Um die aktuellste Version zu erhalten, lade sie einfach erneut herunter, wo du sie gekauft hast. Wenn möglich, informieren wir dich per E-Mail, sobald eine neue Version verfügbar ist.
 
@@ -321,22 +321,22 @@ de:
         - Kostenlose Updates – für immer
         - Unterstütze Fabulang ❤
   email:
-    dear: Liebe Fabulinguists # made up word combining Fabu with linguist
+    dear: Liebe Fabulinguists # made-up word combining Fabu with linguist
     topics:
       stories:
-        because: Sie erhalten diese E-Mail, weil Sie sich auf unserer Website angemeldet haben.
-        intro: Es gibt neue Geschichten für Sie zum Lesen!
+        because: Du erhältst diese E-Mail, weil du dich auf unserer Website angemeldet hast.
+        intro: Es gibt neue Geschichten für dich zum Lesen!
         ebook:
-          owners: Besitzen Sie das E-Book bereits? Es enthält nun auch die oben genannten neuen Geschichten.
+          owners: Besitzt du das E-Book bereits? Es enthält nun auch die oben genannten neuen Geschichten.
           again: Erneut herunterladen
-    survey: Schreiben wir Ihnen zu oft? Nicht oft genug? Bitte [lassen Sie uns wissen, wie wir unsere E-Mails verbessern können](https://forms.gle/Q3DDvqvnwAjjtoYK7).
+    survey: Schreiben wir dir zu oft? Nicht oft genug? Bitte [lass uns wissen, wie wir unsere E-Mails verbessern können](https://forms.gle/Q3DDvqvnwAjjtoYK7).
     unsubscribe: Abbestellen
     form:
       sections:
-        details: Ihre Angaben # Title of section where user enters email, name, etc.
-        l1: Sie sprechen # User selects their native language
-        l2: Sie lernen # User selects languages they are learning
-        why: Warum sind Sie hier? # User selects their motivation for learning languages
+        details: Deine Angaben # Title of section where user enters email, name, etc.
+        l1: Du sprichst # User selects their native language
+        l2: Du lernst # User selects languages they are learning
+        why: Warum bist du hier? # User selects their motivation for learning languages
       fields:
         email: E-Mail
         first: Vorname # The user's name by which they wish to be addressed in a personal context
@@ -347,31 +347,31 @@ de:
           work: Beruf # learning to help with a job or business
           teaching: Lehre # you're a language teacher
       info:
-        intro: Bitte füllen Sie dieses Formular aus, um Ihr Abonnement abzuschließen.
-        update: Sie können Ihre Angaben unten aktualisieren.
-        name: "**Ihr richtiger Name** hilft dabei, dass unsere E-Mails nicht im Spam-Ordner landen."
-        when: "Wir benachrichtigen Sie per E-Mail, wenn es neue Geschichten in den Sprachen gibt, die Sie **lernen**."
-        also: Außerdem informieren wir Sie gelegentlich über wichtige neue Funktionen oder andere große Neuigkeiten.
+        intro: Bitte fülle dieses Formular aus, um dein Abonnement abzuschließen.
+        update: Du kannst deine Angaben unten aktualisieren.
+        name: "**Dein richtiger Name** hilft dabei, dass unsere E-Mails nicht im Spam-Ordner landen."
+        when: "Wir benachrichtigen dich per E-Mail, wenn es neue Geschichten in den Sprachen gibt, die du **lernst**."
+        also: Außerdem informieren wir dich gelegentlich über wichtige neue Funktionen oder andere große Neuigkeiten.
       messages:
-        subscribed: Vielen Dank! Sie sind nun angemeldet.
-        updated: Vielen Dank! Ihre Angaben und Ihr Abonnement wurden aktualisiert.
+        subscribed: Vielen Dank! Du bist nun angemeldet.
+        updated: Vielen Dank! Deine Angaben und dein Abonnement wurden aktualisiert.
   form:
     info:
-      captcha: Überprüfung, ob Sie kein Roboter sind...
-      validating: Überprüfung Ihrer Eingabe...
+      captcha: Überprüfung, ob du kein Roboter bist...
+      validating: Überprüfung deiner Eingabe...
       connecting: Verbindung zur Datenbank wird hergestellt...
     error:
       error: Entschuldigung, das hat nicht funktioniert.
       unknown: Etwas ist schiefgelaufen.
-      retry: Bitte versuchen Sie es später erneut.
-      invalid: Bitte stellen Sie sicher, dass das Formular korrekt ausgefüllt wurde, und versuchen Sie es erneut.
+      retry: Bitte versuche es später erneut.
+      invalid: Bitte stelle sicher, dass das Formular korrekt ausgefüllt wurde, und versuche es erneut.
       connection: Entschuldigung, wir haben Probleme, eine Verbindung herzustellen.
-      robot: Unser System vermutet, dass Sie ein Roboter sind.
-      cannot: Entschuldigung, Sie können dieses Formular nicht verwenden.
+      robot: Unser System vermutet, dass du ein Roboter bist.
+      cannot: Entschuldigung, du kannst dieses Formular nicht verwenden.
       noscript: Um Spam zu vermeiden, benötigen wir JavaScript für dieses Formular.
     validation:
       required: Diese Angabe wird benötigt.
-      email: Bitte geben Sie eine gültige E-Mail-Adresse ein.
-      name: Entschuldigung, dieser Name kann nicht verwendet werden. Bitte ändern Sie die Schreibweise.
+      email: Bitte gib eine gültige E-Mail-Adresse ein.
+      name: Entschuldigung, dieser Name kann nicht verwendet werden. Bitte ändere die Schreibweise.
       maxlength: Darf nicht länger als {0} Zeichen sein.
       minlength: Darf nicht kürzer als {0} Zeichen sein.
