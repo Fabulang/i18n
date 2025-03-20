@@ -62,6 +62,9 @@ es:
     your-language: Hablo # Used in the menu, followed by the currently selected language
     learning: Estoy aprendiendo # Used in the menu, followed by the currently selected language
     new: Nuevo
+    n-stories:
+      one: "%{count} historia"
+      other: "%{count} historias"
   nav:
     # Text used in the user interface related to navigating around the site
     here: Estás aquí # Used in a list of pages, e.g. Home, About (you are here), Team

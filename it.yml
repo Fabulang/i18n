@@ -56,6 +56,9 @@ it:
     your-language: Parlo
     learning: Sto imparando
     new: Nuovo
+    n-stories:
+      one: "%{count} storia"
+      other: "%{count} storie"
   nav:
     here: Sei qui
     skip: Vai al contenuto

@@ -62,6 +62,9 @@ pt-BR:
     your-language: Eu falo # Used in the menu, followed by the currently selected language
     learning: Estou aprendendo # Used in the menu, followed by the currently selected language
     new: Novo
+    n-stories:
+      one: "%{count} história"
+      other: "%{count} histórias"
   nav:
     # Text used in the user interface related to navigating around the site
     here: Você está aqui # Used in a list of pages, e.g. Home, About (you are here), Team

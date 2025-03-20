@@ -62,6 +62,9 @@ de:
     your-language: Ich spreche # Used in the menu, followed by the currently selected language
     learning: Ich lerne # Used in the menu, followed by the currently selected language
     new: Neu
+    n-stories:
+      one: "%{count} Geschichte"
+      other: "%{count} Geschichten"
   nav:
     # Text used in the user interface related to navigating around the site
     here: Du bist hier # Used in a list of pages, e.g. Home, About (you are here), Team

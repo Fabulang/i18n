@@ -62,6 +62,9 @@ en:
     your-language: I speak # Used in the menu, followed by the currently selected language
     learning: I'm learning # Used in the menu, followed by the currently selected language
     new: New
+    n-stories:
+      one: "%{count} story"
+      other: "%{count} stories"
   nav:
     # Text used in the user interface related to navigating around the site
     here: You are here # Used in a list of pages, e.g. Home, About (you are here), Team

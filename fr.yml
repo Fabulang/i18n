@@ -56,6 +56,9 @@ fr:
     your-language: Je parle
     learning: J'apprends
     new: Nouveau
+    n-stories:
+      one: "%{count} histoire"
+      other: "%{count} histoires"
   nav:
     here: Nous sommes ici
     skip: Aller au Contenu
