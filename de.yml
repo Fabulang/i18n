@@ -210,20 +210,25 @@ de:
     description: Verbessere kostenlos deine Sprachkenntnisse durch Kurzgeschichten auf deinem Niveau.
     stories:
       title:
-        en: Kostenlose englische Lesetexte zum Üben auf %{level}-Niveau
-        fr: Kostenlose französische Lesetexte zum Üben auf %{level}-Niveau
-        it: Kostenlose italienische Lesetexte zum Üben auf %{level}-Niveau
-        pt-BR: Kostenlose brasilianisch-portugiesische Lesetexte zum Üben auf %{level}-Niveau
-        es: Kostenlose spanische Lesetexte zum Üben auf %{level}-Niveau
-        de: Kostenlose deutsche Lesetexte zum Üben auf %{level}-Niveau
+        en: Englische Texte %{level} - Kostenlose Leseübungen
+        fr: Französische Texte %{level} - Kostenlose Leseübungen
+        it: Italienische Texte %{level} - Kostenlose Leseübungen
+        es: Spanische Texte %{level} - Kostenlose Leseübungen
+        de: Deutsche Texte %{level} - Kostenlose Leseübungen
+        pt-BR: Brasilianisch-portugiesische Texte %{level} - Kostenlose Leseübungen
+        level:
+          addition: "%{cefr} (%{name})" # gets inserted into the above
+          pluralise: false # should %{name} be pluralised in this context
       description: # Learn [other language] with [this language] translations
-        en: Lerne Englisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-        fr: Lerne Französisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-        it: Lerne Italienisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-        pt-BR: Lerne brasilianisches Portugiesisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-        es: Lerne Spanisch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners} mit deutschen Übersetzungen.
-        de: Lerne Deutsch durch Lesen von Geschichten. Kostenloses Lesematerial%{learners}.
-        learners: " für Lernende auf %{level}-Niveau"
+        en: Lerne Englisch durch Lesen von Geschichten. Kostenlose Lesetexte %{learners} mit deutschen Übersetzungen.
+        fr: Lerne Französisch durch Lesen von Geschichten. Kostenlose Lesetexte %{learners} mit deutschen Übersetzungen.
+        it: Lerne Italienisch durch Lesen von Geschichten. Kostenlose Lesetexte %{learners} mit deutschen Übersetzungen.
+        es: Lerne Spanisch durch Lesen von Geschichten. Kostenlose Lesetexte %{learners} mit deutschen Übersetzungen.
+        de: Lerne Deutsch durch Lesen von Geschichten. Kostenlose Lesetexte %{learners}.
+        pt-BR: Lerne brasilianisches Portugiesisch durch Lesen von Geschichten. Kostenlose Lesetexte %{learners} mit deutschen Übersetzungen.
+        learners:
+          addition: für Lernende auf %{cefr}-Niveau (%{name}) # gets inserted into the above
+          pluralise: false # should %{name} be pluralised in this context
   status:
     status: Status
     other: Sonstige

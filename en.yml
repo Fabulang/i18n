@@ -213,17 +213,22 @@ en:
         en: Free English %{level} Reading Practice Texts
         fr: Free French %{level} Reading Practice Texts
         it: Free Italian %{level} Reading Practice Texts
-        pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
         es: Free Spanish %{level} Reading Practice Texts
         de: Free German %{level} Reading Practice Texts
+        pt-BR: Free Brazilian Portuguese %{level} Reading Practice Texts
+        level:
+          addition: "%{cefr} (%{name})" # gets inserted into the above
+          pluralise: false # should %{name} be pluralised in this context
       description: # Learn [other language] with [this language] translations
-        en: Learn English by reading stories. Free reading material%{learners}.
-        fr: Learn French by reading stories. Free reading material%{learners} with English translations.
-        it: Learn Italian by reading stories. Free reading material%{learners} with English translations.
-        pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material%{learners} with English translations.
-        es: Learn Spanish by reading stories. Free reading material%{learners} with English translations.
-        de: Learn German by reading stories. Free reading material%{learners} with English translations.
-        learners: " for learners at %{level} level"
+        en: Learn English by reading stories. Free reading material %{learners}.
+        fr: Learn French by reading stories. Free reading material %{learners} with English translations.
+        it: Learn Italian by reading stories. Free reading material %{learners} with English translations.
+        es: Learn Spanish by reading stories. Free reading material %{learners} with English translations.
+        de: Learn German by reading stories. Free reading material %{learners} with English translations.
+        pt-BR: Learn Brazilian Portuguese by reading stories. Free reading material %{learners} with English translations.
+        learners:
+          addition: for learners at %{cefr} (%{name}) level # gets inserted into the above
+          pluralise: false # should %{name} be pluralised in this context
   status:
     status: Status
     other: Other

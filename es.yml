@@ -210,20 +210,25 @@ es:
     description: Mejora tus habilidades lingüísticas leyendo historias cortas a tu nivel, gratis.
     stories:
       title:
-        en: Textos gratuitos de práctica de lectura en inglés %{level}
-        fr: Textos gratuitos de práctica de lectura en francés %{level}
-        it: Textos gratuitos de práctica de lectura en italiano %{level}
-        pt-BR: Textos gratuitos de práctica de lectura en portugués brasileño %{level}
-        es: Textos gratuitos de práctica de lectura en español %{level}
-        de: Textos gratuitos de práctica de lectura en alemán %{level}
+        en: Textos en inglés %{level} - práctica de lectura gratuita
+        fr: Textos en francés %{level} - práctica de lectura gratuita
+        it: Textos en italiano %{level} - práctica de lectura gratuita
+        pt-BR: Textos en portugués brasileño %{level} - práctica de lectura gratuita
+        es: Textos en español %{level} - práctica de lectura gratuita
+        de: Textos en alemán %{level} - práctica de lectura gratuita
+        level:
+          addition: "%{cefr} %{name}" # gets inserted into the above
+          pluralise: true # should %{name} be pluralised in this context
       description: # Learn [other language] with [this language] translations
-        es: Aprende español leyendo historias. Material de lectura gratuito%{learners}.
-        en: Aprende inglés leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
-        fr: Aprende francés leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
-        it: Aprende italiano leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
-        pt-BR: Aprende portugués brasileño leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
-        de: Aprende alemán leyendo historias. Material de lectura gratuito%{learners} con traducciones al español.
-        learners: " para estudiantes del nivel %{level}"
+        en: Aprende inglés leyendo historias. Material de lectura gratuito %{learners} con traducciones al español.
+        fr: Aprende francés leyendo historias. Material de lectura gratuito %{learners} con traducciones al español.
+        it: Aprende italiano leyendo historias. Material de lectura gratuito %{learners} con traducciones al español.
+        es: Aprende español leyendo historias. Material de lectura gratuito %{learners}.
+        de: Aprende alemán leyendo historias. Material de lectura gratuito %{learners} con traducciones al español.
+        pt-BR: Aprende portugués brasileño leyendo historias. Material de lectura gratuito %{learners} con traducciones al español.
+        learners:
+          addition: para estudiantes de %{cefr} (%{name})" # gets inserted into the above
+          pluralise: false # should %{name} be pluralised in this context
   status:
     status: Estado
     other: Otro

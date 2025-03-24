@@ -184,20 +184,25 @@ fr:
     description: Améliorez vos compétences linguistiques en lisant gratuitement des histoires courtes à votre niveau.
     stories:
       title:
-        fr: Textes Français %{level} Gratuits - Pratiquer la Lecture
         en: Textes Anglais %{level} Gratuits - Pratiquer la Lecture
+        fr: Textes Français %{level} Gratuits - Pratiquer la Lecture
         it: Textes Italiens %{level} Gratuits - Pratiquer la Lecture
-        pt-BR: Textes Portugais Brésiliens %{level} Gratuits - Pratiquer la Lecture
         es: Textes Espagnols %{level} Gratuits - Pratiquer la Lecture
         de: Textes Allemands %{level} Gratuits - Pratiquer la Lecture
+        pt-BR: Textes Portugais Brésiliens %{level} Gratuits - Pratiquer la Lecture
+        level:
+          addition: "%{cefr} %{name}" # gets inserted into the above
+          pluralise: true # should %{name} be pluralised in this context
       description:
-        fr: Apprenez le Français en lisant des histoires. Matériel de lecture gratuit%{learners}.
         en: Apprenez l'Anglais en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        fr: Apprenez le Français en lisant des histoires. Matériel de lecture gratuit%{learners}.
         it: Apprenez l'Italien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
-        pt-BR: Apprenez le Portugais Brésilien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         es: Apprenez l'Espagnol en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
         de: Apprenez l'Allemand en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
-        learners: " pour les apprenants de niveau %{level}"
+        pt-BR: Apprenez le Portugais Brésilien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        learners:
+          addition: pour les apprenants de niveau %{cefr} (%{name}) # gets inserted into the above
+          pluralise: false # should %{name} be pluralised in this context
   status:
     status: Statut
     other: Autre
