@@ -137,8 +137,8 @@ pt-BR:
         description: Estas são todas as histórias que temos no momento. Se desejar mais, por favor [nos informe](https://fabulang.canny.io/feedback).
       help:
         title: Precisamos de ajuda para traduzir mais histórias!
-        speaks-this: Temos mais histórias escritas em português do Brasil. Precisamos de voluntários especialistas para traduzi-las. Se você puder ajudar, entre em contato conosco!
-        speaks-target: Temos mais histórias escritas em outros idiomas. Precisamos de voluntários especialistas para traduzi-las para o português do Brasil. Se você puder ajudar, entre em contato conosco!
+        speaks-this: Temos mais histórias escritas em inglês. Precisamos de voluntários experientes para nos ajudar a traduzi-las. Se você puder ajudar, entre em contato conosco!
+        speaks-target: Precisamos de voluntários experientes para nos ajudar a traduzir mais histórias para o português. Se você puder ajudar, entre em contato conosco!
         button: Posso ajudar
     story:
       # Single story page

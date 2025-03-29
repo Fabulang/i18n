@@ -118,8 +118,8 @@ fr:
         description: C'est toutes les histoires que nous avons pour le moment. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
       help:
         title: Nous avons besoin d'aide pour traduire plus d'histoires!
-        speaks-target: Nous avons plus d'histoires écrites dans d'autres langues. Nous avons besoin de volontaires experts pour les traduire en français. Si vous pouvez aider, veuillez nous contacter !
-        speaks-this: Nous avons plus d'histoires écrites en français. Nous avons besoin de volontaires experts pour les traduire. Si vous pouvez aider, veuillez nous contacter !
+        speaks-this: Nous avons d'autres histoires écrites en anglais. Nous avons besoin de bénévoles experts pour nous aider à les traduire. Si vous pouvez aider, veuillez nous contacter !
+        speaks-target: Nous avons besoin de bénévoles experts pour nous aider à traduire davantage de nos histoires en français. Si vous pouvez aider, veuillez nous contacter !
         button: Je peux aider
     story:
       story-for:

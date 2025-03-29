@@ -137,8 +137,8 @@ de:
         description: Das sind alle Geschichten, die wir aktuell haben. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.canny.io/feedback).
       help:
         title: Wir brauchen Hilfe, um weitere Geschichten zu übersetzen!
-        speaks-this: Wir haben weitere Geschichten auf Deutsch verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, sie zu übersetzen. Wenn du helfen kannst, kontaktiere uns bitte! # more in [this language]
-        speaks-target: Wir haben weitere Geschichten in anderen Sprachen verfasst. Wir suchen ehrenamtliche Experten, die uns helfen, sie ins Deutsche zu übersetzen. Wenn du helfen kannst, kontaktiere uns bitte! # translate into [this language]
+        speaks-this: Wir haben weitere Geschichten auf Englisch. Wir brauchen erfahrene Freiwillige, die uns beim Übersetzen helfen. Wenn du helfen kannst, kontaktiere uns bitte! # more in [this language]
+        speaks-target: Wir brauchen erfahrene Freiwillige, die uns helfen, mehr unserer Geschichten ins Deutsche zu übersetzen. Wenn du helfen kannst, kontaktiere uns bitte! # translate into [this language]
         button: Ich kann helfen
     story:
       # Single story page
