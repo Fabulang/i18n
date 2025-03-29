@@ -160,6 +160,8 @@ de:
           on-platform: auf %{platform}
         read-by: Gelesen von # followed by speaker name
       translation-missing: Diese Übersetzung fehlt leider.
+      translation-unavailable: Leider ist diese Geschichte nicht auf Deutsch verfügbar.
+      translation-help: Kannst du uns helfen, sie zu übersetzen?
       about-names: Die Namen in unseren Geschichten werden zwischen den Sprachversionen nicht übersetzt, sondern verändert.
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story

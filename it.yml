@@ -140,6 +140,8 @@ it:
           on-platform: su %{platform}
         read-by: Letto da
       translation-missing: Spiacenti, questa traduzione manca.
+      translation-unavailable: Spiacenti, questa storia non è disponibile in italiano.
+      translation-help: Puoi aiutarci a tradurla?
       about-names: I nomi nelle nostre storie vengono modificati, anziché tradotti, tra le versioni linguistiche.
       after-panel:
         title: Prossimi passi
