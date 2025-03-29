@@ -161,7 +161,7 @@ en:
         read-by: Read by # followed by speaker name
       translation-missing: Sorry, this translation is missing.
       translation-unavailable: Sorry, this story doesn't have a translation available in English.
-      translation-help: Can you help us translate it?
+      translation-help: I can help translate it
       about-names: The names in our stories are changed, rather than translated, between language versions.
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
