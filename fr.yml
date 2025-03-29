@@ -107,7 +107,7 @@ fr:
         lessons: Obtenez des Cours Particuliers
       donate:
         cta: Achetez-moi un Café
-        note: Si vous voulez plus d'histoires et plus de fonctionnalités plus rapidement, envisagez une petite donation pour soutenir le projet. Comme nous n'affichons pas de publicités, ce site ne fait que coûter de l'argent. Nous comptons à 100 % sur des personnes comme vous. Merci !
+        note: Si vous voulez plus d'histoires et plus de fonctionnalités plus rapidement, envisagez une petite donation pour soutenir le projet. Comme nous n'affichons pas de publicités, ce site ne fait que coûter de l'argent. Nous comptons à 100 % sur des personnes comme vous. Merci !
     languages:
       pick: "Quelle langue apprenez-vous ?"
     stories:
@@ -118,8 +118,8 @@ fr:
         description: C'est toutes les histoires que nous avons pour le moment. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
       help:
         title: Nous avons besoin d'aide pour traduire plus d'histoires!
-        speaks-this: Nous avons plus d'histoires écrites en français. Nous avons besoin de volontaires experts pour les traduire. Si vous pouvez aider, veuillez nous contacter !
         speaks-target: Nous avons plus d'histoires écrites dans d'autres langues. Nous avons besoin de volontaires experts pour les traduire en français. Si vous pouvez aider, veuillez nous contacter !
+        speaks-this: Nous avons plus d'histoires écrites en français. Nous avons besoin de volontaires experts pour les traduire. Si vous pouvez aider, veuillez nous contacter !
         button: Je peux aider
     story:
       story-for:
@@ -333,8 +333,8 @@ fr:
         when: "Nous vous enverrons un email lorsqu'il y aura de nouvelles histoires dans les langues que vous **apprenez**."
         also: Nous vous informerons également occasionnellement des nouvelles fonctionnalités importantes ou d'autres annonces majeures.
       messages:
-        subscribed: Merci ! Vous êtes maintenant abonné(e).
-        updated: Merci ! Nous avons mis à jour vos informations et votre abonnement.
+        subscribed: Merci ! Vous êtes maintenant abonné(e).
+        updated: Merci ! Nous avons mis à jour vos informations et votre abonnement.
   form:
     info:
       captcha: Vérification que vous n'êtes pas un robot...
