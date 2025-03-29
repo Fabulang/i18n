@@ -121,6 +121,7 @@ it:
         speaks-this: Abbiamo altre storie scritte in inglese. Abbiamo bisogno di volontari esperti per aiutarci a tradurle. Se puoi aiutare, contattaci!
         speaks-target: Abbiamo bisogno di volontari esperti per aiutarci a tradurre altre delle nostre storie in italiano. Se puoi aiutare, contattaci!
         button: Posso aiutare
+      without-translation: Senza traduzione
     story:
       story-for:
         it: Una storia per gli studenti di Italiano

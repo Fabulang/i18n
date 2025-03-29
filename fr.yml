@@ -121,6 +121,7 @@ fr:
         speaks-this: Nous avons d'autres histoires écrites en anglais. Nous avons besoin de bénévoles experts pour nous aider à les traduire. Si vous pouvez aider, veuillez nous contacter !
         speaks-target: Nous avons besoin de bénévoles experts pour nous aider à traduire davantage de nos histoires en français. Si vous pouvez aider, veuillez nous contacter !
         button: Je peux aider
+      without-translation: Sans traduction
     story:
       story-for:
         fr: Une histoire pour les apprenants de Français

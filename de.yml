@@ -140,6 +140,7 @@ de:
         speaks-this: Wir haben weitere Geschichten auf Englisch. Wir brauchen erfahrene Freiwillige, die uns beim Übersetzen helfen. Wenn du helfen kannst, kontaktiere uns bitte! # more in [this language]
         speaks-target: Wir brauchen erfahrene Freiwillige, die uns helfen, mehr unserer Geschichten ins Deutsche zu übersetzen. Wenn du helfen kannst, kontaktiere uns bitte! # translate into [this language]
         button: Ich kann helfen
+      without-translation: Ohne Übersetzung
     story:
       # Single story page
       story-for:

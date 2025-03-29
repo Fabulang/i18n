@@ -140,6 +140,7 @@ en:
         speaks-this: We have more stories written in English. We need expert volunteers to help translate them. If you can help, please contact us! # more in [this language]
         speaks-target: We need expert volunteers to help translate more of our stories into English. If you can help, please contact us! # translate into [this language]
         button: I can help
+      without-translation: Without translation
     story:
       # Single story page
       story-for:
