@@ -162,6 +162,20 @@ pt-BR:
         read-by: Narrado por
       translation-missing: Desculpe, esta tradução está faltando.
       translation-unavailable: Desculpe, esta história não está disponível em português.
+      quiz:
+        title: Quiz! Verifique sua compreensão
+        noscript: O JavaScript não está habilitado no seu navegador. Sem ele, você não poderá ver sua pontuação.
+        difficulty: A linguagem utilizada neste quiz pode ser mais difícil do que o nível %{cefr}.
+        check:
+          first: Verificar
+          again: Verificar novamente
+        score:
+          perfect: Perfeito! Você entendeu tudo.
+          good: Muito bem!
+          ok: Bom esforço!
+          poor: Um bom começo.
+          zero: Que pena!
+        try-again: Corrija seus erros acima e tente novamente.
       translation-help: Posso ajudar a traduzi-la.
       about-names: Os nomes em nossas histórias são alterados, em vez de traduzidos, entre as versões dos idiomas.
       after-panel:

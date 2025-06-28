@@ -162,6 +162,20 @@ de:
         read-by: Gelesen von # followed by speaker name
       translation-missing: Diese Übersetzung fehlt leider.
       translation-unavailable: Leider ist diese Geschichte nicht auf Deutsch verfügbar.
+      quiz:
+        title: Quiz! Überprüfe dein Verständnis
+        noscript: JavaScript ist in deinem Browser deaktiviert. Ohne JavaScript kannst du deine Punktzahl nicht abrufen.
+        difficulty: Die Sprache dieses Quiz könnte schwieriger sein als Niveau %{cefr}.
+        check:
+          first: Prüfen
+          again: Erneut prüfen
+        score:
+          perfect: Perfekt! Du hast alles verstanden.
+          good: Gut gemacht!
+          ok: Guter Versuch!
+          poor: Ein guter Anfang.
+          zero: Oh je!
+        try-again: Korrigiere deine Fehler oben und versuche es erneut.
       translation-help: Ich kann helfen, sie zu übersetzen.
       about-names: Die Namen in unseren Geschichten werden zwischen den Sprachversionen nicht übersetzt, sondern verändert.
       after-panel:

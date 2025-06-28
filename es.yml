@@ -162,6 +162,20 @@ es:
         read-by: Leído por # followed by speaker name
       translation-missing: Lo sentimos, falta esta traducción.
       translation-unavailable: Lo sentimos, esta historia no está disponible en español.
+      quiz:
+        title: ¡Cuestionario! Comprueba tu comprensión
+        noscript: JavaScript no está activado en tu navegador. Sin él, no podrás obtener tu puntuación.
+        difficulty: El lenguaje utilizado en este cuestionario podría ser más difícil que el nivel %{cefr}.
+        check:
+          first: Comprobar
+          again: Comprobar de nuevo
+        score:
+          perfect: ¡Perfecto! Lo entendiste todo.
+          good: ¡Bien hecho!
+          ok: ¡Buen esfuerzo!
+          poor: Un buen comienzo.
+          zero: ¡Vaya!
+        try-again: Corrige tus errores arriba y vuelve a intentarlo.
       translation-help: Puedo ayudar a traducirla.
       about-names: Los nombres en nuestras historias se cambian, en lugar de traducirse, entre versiones de diferentes idiomas.
       after-panel:

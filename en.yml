@@ -162,6 +162,20 @@ en:
         read-by: Read by # followed by speaker name
       translation-missing: Sorry, this translation is missing.
       translation-unavailable: Sorry, this story doesn't have a translation available in English.
+      quiz:
+        title: Quiz! Check your understanding
+        noscript: JavaScript is not enabled in your browser. Without this, you can't get your score.
+        difficulty: The language used in the quiz may be more difficult than %{cefr} level.
+        check:
+          first: Check # Label on a button to check your answers to the quiz and get your score
+          again: Check again
+        score:
+          perfect: Perfect! You understood everything.
+          good: Well done!
+          ok: Good effort!
+          poor: A good start.
+          zero: Oh dear!
+        try-again: Fix your mistakes above and try again.
       translation-help: I can help translate it
       about-names: The names in our stories are changed, rather than translated, between language versions.
       after-panel:

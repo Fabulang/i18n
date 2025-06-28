@@ -142,6 +142,20 @@ fr:
         read-by: Lu par
       translation-missing: Désolé, cette traduction est manquante.
       translation-unavailable: Désolé, cette histoire n'est pas disponible en français.
+      quiz:
+        title: Quiz ! Vérifiez votre compréhension
+        noscript: JavaScript n'est pas activé dans votre navigateur. Sans cela, vous ne pouvez pas obtenir votre score.
+        difficulty: Le langage utilisé dans ce quiz peut être plus difficile que le niveau %{cefr}.
+        check:
+          first: Vérifier
+          again: Vérifier à nouveau
+        score:
+          perfect: Parfait ! Vous avez tout compris.
+          good: Bien joué !
+          ok: Bon effort !
+          poor: Un bon début.
+          zero: Oh là là !
+        try-again: Corrigez vos erreurs ci-dessus et réessayez.
       translation-help: Je peux aider à la traduire.
       about-names: Les noms dans nos histoires sont changés, plutôt que traduits, entre les versions linguistiques.
       after-panel:
