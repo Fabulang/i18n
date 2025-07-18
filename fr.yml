@@ -29,9 +29,9 @@ fr:
       one: Avancé
       other: Avancés
   buttons:
-    show-l1: Afficher le Français
-    hide-l1: Cacher le Français
-    show-with-translation: Voir avec traduction en Français
+    show-l1: Afficher le français
+    hide-l1: Cacher le français
+    show-with-translation: Voir avec traduction en français
     allow: Autoriser
     cancel: Annuler
     save: Enregistrer
@@ -76,8 +76,6 @@ fr:
     levels:
       all: Tous les Niveaux
     stories:
-      next: Histoire suivant
-      prev: Histoire précédent
       first: C'est la première histoire à ce niveau.
       last: C'est la dernière histoire à ce niveau. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
       all: Toutes les histoires
@@ -124,12 +122,12 @@ fr:
       without-translation: Sans traduction
     story:
       story-for:
-        fr: Une histoire pour les apprenants de Français
-        en: Une histoire pour les apprenants d'Anglais qui parlent Français
-        it: Une histoire pour les apprenants d'Italien qui parlent Français
-        pt-BR: Une histoire pour les apprenants de Portugais Brésilien qui parlent Français
-        es: Une histoire pour les apprenants d'Espagnol qui parlent Français
-        de: Une histoire pour les apprenants d'Allemand qui parlent Français
+        fr: Une histoire pour les apprenants de français
+        en: Une histoire pour les apprenants d'anglais qui parlent français
+        it: Une histoire pour les apprenants d'italien qui parlent français
+        pt-BR: Une histoire pour les apprenants de portugais Brésilien qui parlent français
+        es: Une histoire pour les apprenants d'espagnol qui parlent français
+        de: Une histoire pour les apprenants d'allemand qui parlent français
       rubric: |-
         1. **Essayez de comprendre l'histoire.**
         2. Regardez seulement la traduction si vous êtes bloqué.
@@ -177,7 +175,7 @@ fr:
           with: avec d'autres apprenants
         error:
           title: "Il y a une erreur ?"
-          fix: Corriger le texte Français
+          fix: Corriger le texte français
       help:
         title: Nous avons besoin de votre aide
         intro: Fabulang vous a-t-il aidé ? Aidez maintenant quelqu'un d'autre à apprendre le français !
@@ -211,12 +209,12 @@ fr:
           addition: "%{cefr} %{name}" # gets inserted into the above
           pluralise: true # should %{name} be pluralised in this context
       description:
-        en: Apprenez l'Anglais en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
-        fr: Apprenez le Français en lisant des histoires. Matériel de lecture gratuit%{learners}.
-        it: Apprenez l'Italien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
-        es: Apprenez l'Espagnol en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
-        de: Apprenez l'Allemand en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
-        pt-BR: Apprenez le Portugais Brésilien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en Français.
+        en: Apprenez l'anglais en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en français.
+        fr: Apprenez le français en lisant des histoires. Matériel de lecture gratuit%{learners}.
+        it: Apprenez l'italien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en français.
+        es: Apprenez l'espagnol en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en français.
+        de: Apprenez l'allemand en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en français.
+        pt-BR: Apprenez le portugais Brésilien en lisant des histoires. Matériel de lecture gratuit%{learners} avec traductions en français.
         learners:
           addition: pour les apprenants de niveau %{cefr} (%{name}) # gets inserted into the above
           pluralise: false # should %{name} be pluralised in this context
