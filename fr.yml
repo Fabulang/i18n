@@ -76,6 +76,8 @@ fr:
     levels:
       all: Tous les Niveaux
     stories:
+      next: Histoire suivante
+      prev: Histoire précédente
       first: C'est la première histoire à ce niveau.
       last: C'est la dernière histoire à ce niveau. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
       all: Toutes les histoires
