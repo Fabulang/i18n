@@ -300,6 +300,7 @@ en:
       cover: Cover # the cover page
       title-page: Title Page # the inside page which shows just the book title
       toc: Table of Contents
+      recent: Most recently published
       start: Start # refers to the point in the book that is the start (first page of content)
     sections:
       foreword:

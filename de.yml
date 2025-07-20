@@ -300,6 +300,7 @@ de:
       cover: Titelbild # the cover page
       title-page: Titelseite # the inside page which shows just the book title
       toc: Inhaltsverzeichnis
+      recent: Zuletzt veröffentlicht
       start: Anfang # refers to the point in the book that is the start (first page of content)
     sections:
       foreword:

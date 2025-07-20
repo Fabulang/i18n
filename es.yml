@@ -299,6 +299,7 @@ es:
       cover: Portada # the cover page
       title-page: Página del título # the inside page which shows just the book title
       toc: Tabla de contenidos
+      recent: Publicado más recientemente
       start: Inicio # refers to the point in the book that is the start (first page of content)
     sections:
       foreword:

@@ -270,6 +270,7 @@ it:
       cover: Copertina
       title-page: Pagina del Titolo
       toc: Indice
+      recent: Ultime pubblicazioni
       start: Inizio
     sections:
       foreword:
