@@ -205,6 +205,7 @@ en:
           paid:
             true: "Has Cost" # Appears beside the link if the website has paid content/services
             false: "Free" # Appears beside the link if the website has no charges
+          others: "With thanks also to %{others}." # Appreciation for a list of other people who also helped
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
         title: Next steps # Title of the panel

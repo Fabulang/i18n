@@ -205,6 +205,7 @@ es:
           paid:
             true: "Tiene coste" # Appears beside the link if the website has paid content
             false: "Gratis" # Appears beside the link if the website has no charges
+          others: "Con agradecimiento también a %{others}."
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
         title: Próximos pasos # Title of the panel

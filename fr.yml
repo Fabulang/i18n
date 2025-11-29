@@ -184,6 +184,7 @@ fr:
           paid:
             true: "Coûté"
             false: "Gratuit"
+          others: "Avec également nos remerciements à %{others}."
       after-panel:
         title: Prochaines étapes
         share:

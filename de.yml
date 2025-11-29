@@ -205,6 +205,7 @@ de:
           paid:
             true: "Kostenpflichtig" # Appears beside the link if the website has paid content
             false: "Kostenlos" # Appears beside the link if the website has no charges
+          others: "Auch ein Dankeschön an %{others}."
       after-panel:
         # Panels that display the user's options after reading the story, and information about the story
         title: Nächste Schritte # Title of the panel
