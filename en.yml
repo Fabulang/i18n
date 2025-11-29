@@ -42,6 +42,8 @@ en:
     save: Save
     whats-this: What's this? # User can find out more about something
     learn-more: Learn more
+    more-info: More info
+    more-details: More details
     show: Show
     hide: Hide
     close: Close
@@ -177,21 +179,35 @@ en:
           zero: Oh dear!
         try-again: Fix your mistakes above and try again.
       translation-help: I can help translate it
-      about-names: The names in our stories are changed, rather than translated, between language versions.
-      after-panel:
-        # Panels that display the user's options after reading the story, and information about the story
-        title: Next steps # Title of the panel
-        reviewers: # People who reviewed the text to check it for errors
-          # Shows who reviewed this story
-          title: Expert Reviewer
+      about-language: # Section that discusses our use of the language the learner is learning
+        title: # Section title for each target language
+          en: About our English
+          fr: About our French
+          it: About our Italian
+          pt-BR: About our Brazilian Portuguese
+          es: About our Spanish
+          de: About our German
+        details:
+          humans: All our stories are written by humans and double-checked by independent language experts and native speakers.
+          narrative-tense: # Notes about the avoidance of narrative tenses in certain languages
+            fr: Real French stories would use the **passé simple** tense, but ours replace this with **passé composé**.
+            it: Real Italian stories would use the **passato remoto** tense, but ours replace this with **passato prossimo**.
+            why: This matches the grammar used in normal conversation, making the text more useful for most learners. However, strictly, it's wrong for a written story.
+          other: # Other general notes
+          - The names of characters change between languages for artistic reasons only. They are not translations.
+          - Learn more about [how we translate](/en/translations). # link should be localised
+        reviewers: # List of human reviewers
           intro: "The text of this story was checked and approved by:"
           # Includes a link to the reviewer's website
           ads:
             true: "Has Ads" # Appears beside the link if the website has ads
             false: "No Ads" # Appears beside the link if the website doesn't have ads
           paid:
-            true: "Has Cost" # Appears beside the link if the website has paid content
+            true: "Has Cost" # Appears beside the link if the website has paid content/services
             false: "Free" # Appears beside the link if the website has no charges
+      after-panel:
+        # Panels that display the user's options after reading the story, and information about the story
+        title: Next steps # Title of the panel
         share:
           title: Share
         discuss:

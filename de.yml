@@ -42,6 +42,8 @@ de:
     save: Speichern
     whats-this: Was ist das? # User can find out more about something
     learn-more: Mehr erfahren
+    more-info: Weitere Infos
+    more-details: Weitere Details
     show: Anzeigen
     hide: Verbergen
     close: Schließen
@@ -177,13 +179,24 @@ de:
           zero: Oh je!
         try-again: Korrigiere deine Fehler oben und versuche es erneut.
       translation-help: Ich kann helfen, sie zu übersetzen.
-      about-names: Die Namen in unseren Geschichten werden zwischen den Sprachversionen nicht übersetzt, sondern verändert.
-      after-panel:
-        # Panels that display the user's options after reading the story, and information about the story
-        title: Nächste Schritte # Title of the panel
-        reviewers: # People who reviewed the text to check it for errors
-          # Shows who reviewed this story
-          title: Expertenprüfer
+      about-language:
+        title:
+          en: Über unser Englisch
+          fr: Über unser Französisch
+          it: Über unser Italienisch
+          pt-BR: Über unser brasilianisches Portugiesisch
+          es: Über unser Spanisch
+          de: Über unser Deutsch
+        details:
+          humans: Alle unsere Geschichten werden von Menschen geschrieben und von unabhängigen Sprachexperten und Muttersprachlern überprüft.
+          narrative-tense:
+            fr: Echte französische Geschichten würden das **passé simple** verwenden, aber wir ersetzen es durch das **passé composé**.
+            it: Echte italienische Geschichten würden das **passato remoto** verwenden, aber wir ersetzen es durch das **passato prossimo**.
+            why: Das entspricht der Grammatik normaler Gespräche und macht den Text für die meisten Lernenden hilfreicher. Streng genommen ist es jedoch für eine geschriebene Geschichte nicht korrekt.
+          other:
+            - Die Namen der Figuren unterscheiden sich je nach Sprache nur aus künstlerischen Gründen. Es handelt sich nicht um Übersetzungen.
+            - Mehr über [unsere Übersetzungen](/de/uebersetzungen) erfahren.
+        reviewers:
           intro: "Der Text dieser Geschichte wurde überprüft und genehmigt von:"
           # Includes a link to the reviewer's website
           ads:
@@ -192,6 +205,9 @@ de:
           paid:
             true: "Kostenpflichtig" # Appears beside the link if the website has paid content
             false: "Kostenlos" # Appears beside the link if the website has no charges
+      after-panel:
+        # Panels that display the user's options after reading the story, and information about the story
+        title: Nächste Schritte # Title of the panel
         share:
           title: Teilen
         discuss:

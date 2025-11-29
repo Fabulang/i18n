@@ -41,7 +41,9 @@ es:
     cancel: Cancelar
     save: Guardar
     whats-this: ¿Qué es esto? # User can find out more about something
-    learn-more: Más información
+    learn-more: Saber más
+    more-info: Más información
+    more-details: Más detalles
     show: Mostrar
     hide: Ocultar
     close: Cerrar
@@ -177,13 +179,24 @@ es:
           zero: ¡Vaya!
         try-again: Corrige tus errores arriba y vuelve a intentarlo.
       translation-help: Puedo ayudar a traducirla.
-      about-names: Los nombres en nuestras historias se cambian, en lugar de traducirse, entre versiones de diferentes idiomas.
-      after-panel:
-        # Panels that display the user's options after reading the story, and information about the story
-        title: Próximos pasos # Title of the panel
-        reviewers: # People who reviewed the text to check it for errors
-          # Shows who reviewed this story
-          title: Revisor Experto
+      about-language:
+        title:
+          en: Sobre nuestro inglés
+          fr: Sobre nuestro francés
+          it: Sobre nuestro italiano
+          pt-BR: Sobre nuestro portugués brasileño
+          es: Sobre nuestro español
+          de: Sobre nuestro alemán
+        details:
+          humans: Todas nuestras historias están escritas por personas y revisadas por expertos lingüísticos independientes y hablantes nativos.
+          narrative-tense:
+            fr: Las historias auténticas en francés usarían el **passé simple**, pero las nuestras lo sustituyen por el **passé composé**.
+            it: Las historias auténticas en italiano usarían el **passato remoto**, pero las nuestras lo sustituyen por el **passato prossimo**.
+            why: Esto coincide con la gramática usada en la conversación normal, lo que hace que el texto sea más útil para la mayoría de los estudiantes. Sin embargo, estrictamente hablando, es incorrecto para un texto escrito.
+          other:
+            - Los nombres de los personajes cambian entre idiomas solo por razones artísticas. No son traducciones.
+            - Más información sobre [cómo traducimos](/es/traducciones).
+        reviewers:
           intro: "El texto de esta historia fue revisado y aprobado por:"
           # Includes a link to the reviewer's website
           ads:
@@ -192,6 +205,9 @@ es:
           paid:
             true: "Tiene coste" # Appears beside the link if the website has paid content
             false: "Gratis" # Appears beside the link if the website has no charges
+      after-panel:
+        # Panels that display the user's options after reading the story, and information about the story
+        title: Próximos pasos # Title of the panel
         share:
           title: Compartir
         discuss:

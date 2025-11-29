@@ -37,6 +37,8 @@ fr:
     save: Enregistrer
     whats-this: "Qu'est-ce que c'est ?"
     learn-more: En savoir plus
+    more-info: Plus d'infos
+    more-details: Plus de détails
     show: Afficher
     hide: Masquer
     close: Fermer
@@ -157,11 +159,24 @@ fr:
           zero: Oh là là !
         try-again: Corrigez vos erreurs ci-dessus et réessayez.
       translation-help: Je peux aider à la traduire.
-      about-names: Les noms dans nos histoires sont changés, plutôt que traduits, entre les versions linguistiques.
-      after-panel:
-        title: Prochaines étapes
+      about-language:
+        title:
+          en: À propos de notre anglais
+          fr: À propos de notre français
+          it: À propos de notre italien
+          pt-BR: À propos de notre portugais brésilien
+          es: À propos de notre espagnol
+          de: À propos de notre allemand
+        details:
+          humans: Toutes nos histoires sont écrites par des humains et vérifiées par des experts linguistiques indépendants et des locuteurs natifs.
+          narrative-tense:
+            fr: Les véritables histoires en français utiliseraient le **passé simple**, mais les nôtres le remplacent par le **passé composé**.
+            it: Les véritables histoires en italien utiliseraient le **passato remoto**, mais les nôtres le remplacent par le **passato prossimo**.
+            why: Cela correspond à la grammaire utilisée dans les conversations normales, ce qui rend le texte plus utile pour la plupart des apprenants. Cependant, d’un point de vue strictement grammatical, c’est incorrect pour une histoire écrite.
+          other:
+            - Les noms des personnages changent selon les langues uniquement pour des raisons artistiques. Ce ne sont pas des traductions.
+            - En savoir plus sur [notre méthode de traduction](/fr/traductions).
         reviewers:
-          title: Relecteur Expert
           intro: "Le texte de cette histoire a été vérifié et approuvé par :"
           ads:
             true: "Avec Pubs"
@@ -169,6 +184,8 @@ fr:
           paid:
             true: "Coûté"
             false: "Gratuit"
+      after-panel:
+        title: Prochaines étapes
         share:
           title: Partager
         discuss:

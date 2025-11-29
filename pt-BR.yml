@@ -42,6 +42,8 @@ pt-BR:
     save: Salvar
     whats-this: O que é isso? # User can find out more about something
     learn-more: Saiba mais
+    more-info: Mais informações
+    more-details: Mais detalhes
     show: Mostrar
     hide: Ocultar
     close: Fechar
@@ -177,13 +179,24 @@ pt-BR:
           zero: Que pena!
         try-again: Corrija seus erros acima e tente novamente.
       translation-help: Posso ajudar a traduzi-la.
-      about-names: Os nomes em nossas histórias são alterados, em vez de traduzidos, entre as versões dos idiomas.
-      after-panel:
-        # Panels that display the user's options after reading the story, and information about the story
-        title: Próximos passos # Title of the panel
+      about-language:
+        title:
+          en: Sobre o nosso inglês
+          fr: Sobre o nosso francês
+          it: Sobre o nosso italiano
+          pt-BR: Sobre o nosso português brasileiro
+          es: Sobre o nosso espanhol
+          de: Sobre o nosso alemão
+        details:
+          humans: Todas as nossas histórias são escritas por humanos e revisadas por especialistas em línguas e falantes nativos independentes.
+          narrative-tense:
+            fr: Histórias reais em francês usariam o **passé simple**, mas as nossas o substituem pelo **passé composé**.
+            it: Histórias reais em italiano usariam o **passato remoto**, mas as nossas o substituem pelo **passato prossimo**.
+            why: Isso corresponde à gramática usada na conversação cotidiana, tornando o texto mais útil para a maioria dos alunos. No entanto, tecnicamente, está incorreto para uma história escrita.
+          other:
+            - Os nomes dos personagens mudam entre os idiomas apenas por razões artísticas. Não são traduções.
+            - Saiba mais sobre [como traduzimos](/pt-BR/translations).
         reviewers:
-          # Shows who reviewed this story
-          title: Revisor Especialista
           intro: "O texto desta história foi checado e aprovado por:"
           # Includes a link to the reviewer's website
           ads:
@@ -192,6 +205,9 @@ pt-BR:
           paid:
             true: "Com Custo" # Appears beside the link if the website has paid content
             false: "Gratuito" # Appears beside the link if the website has no charges
+      after-panel:
+        # Panels that display the user's options after reading the story, and information about the story
+        title: Próximos passos # Title of the panel
         share:
           title: Compartilhar
         discuss:

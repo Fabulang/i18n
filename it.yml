@@ -37,6 +37,8 @@ it:
     save: Salva
     whats-this: Che cos'è?
     learn-more: Scopri di più
+    more-info: Più informazioni
+    more-details: Maggiori dettagli
     show: Mostra
     hide: Nascondi
     close: Chiudi
@@ -157,11 +159,24 @@ it:
           zero: Oh no!
         try-again: Correggi gli errori sopra e riprova.
       translation-help: Posso aiutare a tradurla.
-      about-names: I nomi nelle nostre storie vengono modificati, anziché tradotti, tra le versioni linguistiche.
-      after-panel:
-        title: Prossimi passi
+      about-language:
+        title:
+          en: Informazioni sul nostro inglese
+          fr: Informazioni sul nostro francese
+          it: Informazioni sul nostro italiano
+          pt-BR: Informazioni sul nostro portoghese brasiliano
+          es: Informazioni sul nostro spagnolo
+          de: Informazioni sul nostro tedesco
+        details:
+          humans: Tutte le nostre storie sono scritte da esseri umani e controllate da esperti linguistici indipendenti e da parlanti nativi.
+          narrative-tense:
+            fr: Le vere storie francesi userebbero il **passé simple**, ma le nostre lo sostituiscono con il **passé composé**.
+            it: Le vere storie italiane userebbero il **passato remoto**, ma le nostre lo sostituiscono con il **passato prossimo**.
+            why: Questo corrisponde alla grammatica usata nella conversazione quotidiana, rendendo il testo più utile per la maggior parte degli studenti. Tuttavia, tecnicamente, è scorretto per un racconto scritto.
+          other:
+            - I nomi dei personaggi cambiano tra le lingue solo per motivi artistici. Non sono traduzioni.
+            - Scopri di più su [come traduciamo](/it/traduzioni).
         reviewers:
-          title: Revisore Esperto
           intro: "Il testo di questa storia è stato controllato e approvato da:"
           ads:
             true: "Con Pubb"
@@ -169,6 +184,8 @@ it:
           paid:
             true: "Con Costo"
             false: "Gratis"
+      after-panel:
+        title: Prossimi passi
         share:
           title: Condividi
         discuss:
