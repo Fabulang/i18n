@@ -93,7 +93,7 @@ pt-BR:
       next: Próxima história
       prev: História anterior
       first: Esta é a primeira história neste nível.
-      last: Esta é a última história neste nível. Se deseja mais, por favor [nos informe](https://fabulang.canny.io/feedback).
+      last: Esta é a última história neste nível. Se deseja mais, por favor [nos informe](https://fabulang.userjot.com).
       all: Todas as histórias
       same: Leia mais no mesmo nível
       harder: Tente algo mais difícil
@@ -103,7 +103,7 @@ pt-BR:
     all:
       # All pages
       tagline: Aprenda idiomas lendo histórias
-      version: "Fabulang está em fase Beta: ainda estamos trabalhando firme para adicionar mais conteúdo e recursos. Por favor, [vote no que devemos adicionar](https://fabulang.canny.io/feedback){:target='_blank'} ou [relate qualquer problema](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang está em fase Beta: ainda estamos trabalhando firme para adicionar mais conteúdo e recursos. Por favor, [vote no que devemos adicionar](https://fabulang.userjot.com/board/features){:target='_blank'} ou [relate qualquer problema](https://fabulang.userjot.com/board/issues){:target='_blank'}."
       free: Fabulang é grátis! Sem anúncios, <span id="nocookies">sem cookies, </span>sem rastreadores. Apenas histórias.
       signup:
         # Sign up to the email newletter
@@ -136,7 +136,7 @@ pt-BR:
       the-end:
         # Appears when there are no more stories to show
         title: Fim # Traditional ending phrase of a story
-        description: Estas são todas as histórias que temos no momento. Se desejar mais, por favor [nos informe](https://fabulang.canny.io/feedback).
+        description: Estas são todas as histórias que temos no momento. Se desejar mais, por favor [nos informe](https://fabulang.userjot.com).
       help:
         title: Precisamos de ajuda para traduzir mais histórias!
         speaks-this: Temos mais histórias escritas em inglês. Precisamos de voluntários experientes para nos ajudar a traduzi-las. Se você puder ajudar, entre em contato conosco!

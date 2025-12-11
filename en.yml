@@ -93,7 +93,7 @@ en:
       next: Next story
       prev: Previous story
       first: This is the first story at this level.
-      last: This is the last story at this level. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
+      last: This is the last story at this level. If you'd like more, please [let us know](https://fabulang.userjot.com).
       all: All stories
       same: Read more at the same level
       harder: Try something harder
@@ -103,7 +103,7 @@ en:
     all:
       # All pages
       tagline: Learn language by reading stories
-      version: "Fabulang is in Beta: we're still working hard to add more content and features. Please [vote for what we should add next](https://fabulang.canny.io/feedback){:target='_blank'}, or [report any issues](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang is in Beta: we're still working hard to add more content and features. Please [vote for what we should add next](https://fabulang.userjot.com/board/features){:target='_blank'}, or [report any issues](https://fabulang.userjot.com/board/issues){:target='_blank'}."
       free: Fabulang is free to use! No ads, <span id="nocookies">no cookies, </span>no trackers. Just stories.
       signup:
         # Sign up to the email newsletter
@@ -136,7 +136,7 @@ en:
       the-end:
         # Appears when there are no more stories to show
         title: The End # Traditional ending phrase of a story
-        description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.canny.io/feedback).
+        description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.userjot.com).
       help:
         title: We need help to translate more stories!
         speaks-this: We have more stories written in English. We need expert volunteers to help translate them. If you can help, please contact us! # more in [this language]

@@ -81,7 +81,7 @@ fr:
       next: Histoire suivante
       prev: Histoire précédente
       first: C'est la première histoire à ce niveau.
-      last: C'est la dernière histoire à ce niveau. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
+      last: C'est la dernière histoire à ce niveau. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.userjot.com).
       all: Toutes les histoires
       same: Lire plus au même niveau
       harder: Essayez quelque chose de plus difficile
@@ -89,7 +89,7 @@ fr:
   sections:
     all:
       tagline: Apprendre une langue en lisant des histoires
-      version: "Fabulang est en version bêta : nous travaillons encore dur pour ajouter plus de contenu et de fonctionnalités. Veuillez [voter pour ce que nous devrions ajouter ensuite](https://fabulang.canny.io/feedback){:target='_blank'}, ou [signaler tout problème](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang est en version bêta : nous travaillons encore dur pour ajouter plus de contenu et de fonctionnalités. Veuillez [voter pour ce que nous devrions ajouter ensuite](https://fabulang.userjot.com/board/features){:target='_blank'}, ou [signaler tout problème](https://fabulang.userjot.com/board/issues){:target='_blank'}."
       free: Fabulang est gratuit ! Pas de publicités, <span id="nocookies">pas de cookies, </span>pas de traceurs. Juste des histoires.
       signup:
         title: Rejoignez la communauté
@@ -117,7 +117,7 @@ fr:
       none: Nous travaillons dur pour écrire des histoires pour les apprenants de %{l1}. Revenez bientôt !
       the-end:
         title: La Fin
-        description: C'est toutes les histoires que nous avons pour le moment. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.canny.io/feedback).
+        description: C'est toutes les histoires que nous avons pour le moment. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.userjot.com).
       help:
         title: Nous avons besoin d'aide pour traduire plus d'histoires!
         speaks-this: Nous avons d'autres histoires écrites en anglais. Nous avons besoin de bénévoles experts pour nous aider à les traduire. Si vous pouvez aider, veuillez nous contacter !

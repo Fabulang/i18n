@@ -93,7 +93,7 @@ de:
       next: Nächste Geschichte
       prev: Vorherige Geschichte
       first: Dies ist die erste Geschichte auf diesem Niveau.
-      last: Dies ist die letzte Geschichte auf diesem Niveau. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.canny.io/feedback).
+      last: Dies ist die letzte Geschichte auf diesem Niveau. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.userjot.com).
       all: Alle Geschichten
       same: Mehr auf diesem Niveau lesen
       harder: Versuche etwas Schwierigeres
@@ -103,7 +103,7 @@ de:
     all:
       # All pages
       tagline: Sprachen lernen durch Geschichten
-      version: "Fabulang ist in der Beta-Phase: Wir arbeiten hart daran, mehr Inhalte und Funktionen hinzuzufügen. Bitte [stimme ab, was wir als Nächstes hinzufügen sollen](https://fabulang.canny.io/feedback){:target='_blank'}, oder [melde Probleme](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang ist in der Beta-Phase: Wir arbeiten hart daran, mehr Inhalte und Funktionen hinzuzufügen. Bitte [stimme ab, was wir als Nächstes hinzufügen sollen](https://fabulang.userjot.com/board/features){:target='_blank'}, oder [melde Probleme](https://fabulang.userjot.com/board/issues){:target='_blank'}."
       free: Fabulang ist kostenlos! Keine Werbung, <span id="nocookies">keine Cookies, </span>keine Tracker. Nur Geschichten.
       signup:
         # Sign up to the email newsletter
@@ -136,7 +136,7 @@ de:
       the-end:
         # Appears when there are no more stories to show
         title: Ende # Traditional ending phrase of a story
-        description: Das sind alle Geschichten, die wir aktuell haben. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.canny.io/feedback).
+        description: Das sind alle Geschichten, die wir aktuell haben. Wenn du mehr möchtest, [lass es uns wissen](https://fabulang.userjot.com).
       help:
         title: Wir brauchen Hilfe, um weitere Geschichten zu übersetzen!
         speaks-this: Wir haben weitere Geschichten auf Englisch. Wir brauchen erfahrene Freiwillige, die uns beim Übersetzen helfen. Wenn du helfen kannst, kontaktiere uns bitte! # more in [this language]

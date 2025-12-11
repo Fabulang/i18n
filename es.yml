@@ -93,7 +93,7 @@ es:
       next: Siguiente historia
       prev: Historia anterior
       first: Esta es la primera historia en este nivel.
-      last: Esta es la última historia en este nivel. Si quieres más, por favor [háznoslo saber](https://fabulang.canny.io/feedback).
+      last: Esta es la última historia en este nivel. Si quieres más, por favor [háznoslo saber](https://fabulang.userjot.com).
       all: Todas las historias
       same: Leer más en el mismo nivel
       harder: Prueba algo más difícil
@@ -103,7 +103,7 @@ es:
     all:
       # All pages
       tagline: Aprende idiomas leyendo historias
-      version: "Fabulang está en Beta: seguimos trabajando para añadir más contenido y funciones. Por favor, [vota por lo que deberíamos añadir a continuación](https://fabulang.canny.io/feedback){:target='_blank'}, o [informa de cualquier problema](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang está en Beta: seguimos trabajando para añadir más contenido y funciones. Por favor, [vota por lo que deberíamos añadir a continuación](https://fabulang.userjot.com/board/features){:target='_blank'}, o [informa de cualquier problema](https://fabulang.userjot.com/board/issues){:target='_blank'}."
       free: ¡Fabulang es gratuito! Sin anuncios, <span id="nocookies">sin cookies, </span>sin rastreadores. Solo historias.
       signup:
         # Sign up to the email newsletter
@@ -136,7 +136,7 @@ es:
       the-end:
         # Appears when there are no more stories to show
         title: Fin # Traditional ending phrase of a story
-        description: Estas son todas las historias que tenemos por ahora. Si quieres más, por favor [háznoslo saber](https://fabulang.canny.io/feedback).
+        description: Estas son todas las historias que tenemos por ahora. Si quieres más, por favor [háznoslo saber](https://fabulang.userjot.com).
       help:
         title: ¡Necesitamos ayuda para traducir más historias!
         speaks-this: Tenemos más historias escritas en inglés. Necesitamos voluntarios expertos que nos ayuden a traducirlas. Si puedes ayudar, ¡contáctanos! # more in [this language]

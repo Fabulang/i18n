@@ -81,7 +81,7 @@ it:
       next: Prossima storia
       prev: Storia precedente
       first: Questa è la prima storia a questo livello.
-      last: Questa è l'ultima storia a questo livello. Se ne vuoi di più, per favore [facci sapere](https://fabulang.canny.io/feedback).
+      last: Questa è l'ultima storia a questo livello. Se ne vuoi di più, per favore [facci sapere](https://fabulang.userjot.com).
       all: Tutte le storie
       same: Leggi di più allo stesso livello
       harder: Prova qualcosa di più difficile
@@ -89,7 +89,7 @@ it:
   sections:
     all:
       tagline: Impara la lingua leggendo storie
-      version: "Fabulang è in versione Beta: stiamo ancora lavorando duramente per aggiungere più contenuti e funzionalità. Si prega di [votare per ciò che dovremmo aggiungere successivamente](https://fabulang.canny.io/feedback){:target='_blank'} o di [segnalare eventuali problemi](https://fabulang.canny.io/feedback/p/website-bugs-and-issues){:target='_blank'}."
+      version: "Fabulang è in versione Beta: stiamo ancora lavorando duramente per aggiungere più contenuti e funzionalità. Si prega di [votare per ciò che dovremmo aggiungere successivamente](https://fabulang.userjot.com/board/features){:target='_blank'} o di [segnalare eventuali problemi](https://fabulang.userjot.com/board/issues){:target='_blank'}."
       free: Fabulang è gratuito! Senza annunci pubblicitari, <span id="nocookies">senza cookie, </span>senza tracker. Solo storie.
       signup:
         title: Unisciti alla comunità
@@ -117,7 +117,7 @@ it:
       none: Stiamo lavorando duramente per scrivere storie per gli studenti di %{l1}. Torna presto!
       the-end:
         title: Fine
-        description: Queste sono tutte le storie che abbiamo al momento. Se ne vuoi di più, per favore [facci sapere](https://fabulang.canny.io/feedback).
+        description: Queste sono tutte le storie che abbiamo al momento. Se ne vuoi di più, per favore [facci sapere](https://fabulang.userjot.com).
       help:
         title: Abbiamo bisogno di aiuto per tradurre più storie!
         speaks-this: Abbiamo altre storie scritte in inglese. Abbiamo bisogno di volontari esperti per aiutarci a tradurle. Se puoi aiutare, contattaci!
