@@ -142,8 +142,8 @@ en:
         intro: "We work with independent language experts to translate, review and edit our stories. This is only possible because people like you support our work:"
         donate:
           button: Make a donation
-          description: Support %{our_l2_content} specifically. 100% of donations are used to create more content.
-          our_l2_content: # fills in %{our_l2_content} above depending on the language the learner is learning
+          description: Support %{our_l_content} specifically. 100% of donations are used to create more content.
+          our_l_content: # fills in %{our_l_content} above depending on the language the learner is learning
             en: our English content
             fr: our French content
             it: our Italian content

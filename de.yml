@@ -142,8 +142,8 @@ de:
         intro: "Wir arbeiten mit unabhängigen Sprachexpertinnen und -experten zusammen, um unsere Geschichten zu übersetzen, zu prüfen und zu redigieren. Das ist nur dank der Unterstützung von Menschen wie Ihnen möglich:"
         donate:
           button: Spenden
-          description: Unterstützen Sie gezielt %{our_l2_content}. 100 % der Spenden werden für die Erstellung weiterer Inhalte verwendet.
-          our_l2_content:
+          description: Unterstützen Sie gezielt %{our_l_content}. 100 % der Spenden werden für die Erstellung weiterer Inhalte verwendet.
+          our_l_content:
             en: unsere englischen Inhalte
             fr: unsere französischen Inhalte
             it: unsere italienischen Inhalte

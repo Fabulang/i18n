@@ -142,8 +142,8 @@ es:
         intro: "Trabajamos con expertos lingüísticos independientes para traducir, revisar y editar nuestras historias. Esto solo es posible gracias al apoyo de personas como vosotros:"
         donate:
           button: Hacer una donación
-          description: Apoyad específicamente %{our_l2_content}. El 100 % de las donaciones se utiliza para crear más contenido.
-          our_l2_content:
+          description: Apoyad específicamente %{our_l_content}. El 100 % de las donaciones se utiliza para crear más contenido.
+          our_l_content:
             en: nuestro contenido en inglés
             fr: nuestro contenido en francés
             it: nuestro contenido en italiano

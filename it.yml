@@ -123,8 +123,8 @@ it:
         intro: "Collaboriamo con esperti linguistici indipendenti per tradurre, revisionare e curare le nostre storie. Questo è possibile solo grazie al supporto di persone come voi:"
         donate:
           button: Fai una donazione
-          description: Sostenete in modo specifico %{our_l2_content}. Il 100% delle donazioni viene utilizzato per creare nuovi contenuti.
-          our_l2_content:
+          description: Sostenete in modo specifico %{our_l_content}. Il 100% delle donazioni viene utilizzato per creare nuovi contenuti.
+          our_l_content:
             en: i nostri contenuti in inglese
             fr: i nostri contenuti in francese
             it: i nostri contenuti in italiano
