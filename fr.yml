@@ -120,20 +120,20 @@ fr:
         description: C'est toutes les histoires que nous avons pour le moment. Si vous en voulez plus, veuillez [nous le faire savoir](https://fabulang.userjot.com).
       help:
         title: Nous avons besoin de votre aide pour publier plus d'histoires !
-        intro: "Nous collaborons avec des experts indépendants en langues pour traduire, relire et éditer nos histoires. Cela n'est possible que grâce au soutien de personnes comme vous :"
+        intro: "Nous travaillons avec des experts linguistiques indépendants pour traduire, relire et éditer nos histoires. Cela n'est possible que grâce au soutien de personnes comme vous :"
         donate:
           button: Faire un don
-          description: Soutenez %{our_l2_content} en particulier. 100 % des dons servent à créer plus de contenu.
+          description: Soutenez spécifiquement %{our_l2_content}. 100 % des dons sont utilisés pour créer davantage de contenu.
           our_l2_content:
             en: notre contenu en anglais
             fr: notre contenu en français
             it: notre contenu en italien
             es: notre contenu en espagnol
             de: notre contenu en allemand
-            pt-BR: notre contenu en portugais Brésilien
+            pt-BR: notre contenu en portugais brésilien
         volunteer:
           button: Aidez-nous à traduire
-          description: Si vous êtes expert·e en langues et prêt·e à offrir un peu de votre temps, n'hésitez pas à nous contacter.
+          description: Si vous êtes un expert linguistique et que vous êtes prêt à donner un peu de votre temps, n'hésitez pas à nous contacter.
       without-translation: Sans traduction
     story:
       story-for:
