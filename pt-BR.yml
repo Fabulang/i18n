@@ -138,10 +138,21 @@ pt-BR:
         title: Fim # Traditional ending phrase of a story
         description: Estas são todas as histórias que temos no momento. Se desejar mais, por favor [nos informe](https://fabulang.userjot.com).
       help:
-        title: Precisamos de ajuda para traduzir mais histórias!
-        speaks-this: Temos mais histórias escritas em inglês. Precisamos de voluntários experientes para nos ajudar a traduzi-las. Se você puder ajudar, entre em contato conosco!
-        speaks-target: Precisamos de voluntários experientes para nos ajudar a traduzir mais histórias para o português. Se você puder ajudar, entre em contato conosco!
-        button: Posso ajudar
+        title: Precisamos de sua ajuda para publicar mais histórias!
+        intro: "Trabalhamos com especialistas independentes em línguas para traduzir, revisar e editar nossas histórias. Isso só é possível graças ao apoio de pessoas como você:"
+        donate:
+          button: Fazer uma doação
+          description: Apoie especificamente %{our_l2_content}. 100% das doações são usadas para criar mais conteúdo.
+          our_l2_content:
+            en: nosso conteúdo em inglês
+            fr: nosso conteúdo em francês
+            it: nosso conteúdo em italiano
+            es: nosso conteúdo em espanhol
+            de: nosso conteúdo em alemão
+            pt-BR: nosso conteúdo em português brasileiro
+        volunteer:
+          button: Ajude-nos a traduzir
+          description: Se você é especialista em línguas e tem disponibilidade para doar um pouco do seu tempo como voluntário, entre em contato conosco.
       without-translation: Sem tradução
     story:
       # Single story page

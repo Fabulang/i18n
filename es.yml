@@ -138,10 +138,21 @@ es:
         title: Fin # Traditional ending phrase of a story
         description: Estas son todas las historias que tenemos por ahora. Si quieres más, por favor [háznoslo saber](https://fabulang.userjot.com).
       help:
-        title: ¡Necesitamos ayuda para traducir más historias!
-        speaks-this: Tenemos más historias escritas en inglés. Necesitamos voluntarios expertos que nos ayuden a traducirlas. Si puedes ayudar, ¡contáctanos! # more in [this language]
-        speaks-target: Necesitamos voluntarios expertos que nos ayuden a traducir más de nuestras historias al español. Si puedes ayudar, ¡contáctanos! # translate into [this language]
-        button: Puedo ayudar
+        title: ¡Necesitamos vuestra ayuda para publicar más historias!
+        intro: "Trabajamos con expertos lingüísticos independientes para traducir, revisar y editar nuestras historias. Esto solo es posible gracias al apoyo de personas como vosotros:"
+        donate:
+          button: Hacer una donación
+          description: Apoyad específicamente %{our_l2_content}. El 100 % de las donaciones se utiliza para crear más contenido.
+          our_l2_content:
+            en: nuestro contenido en inglés
+            fr: nuestro contenido en francés
+            it: nuestro contenido en italiano
+            es: nuestro contenido en español
+            de: nuestro contenido en alemán
+            pt-BR: nuestro contenido en portugués brasileño
+        volunteer:
+          button: Ayudadnos a traducir
+          description: Si sois expertos en idiomas y estáis dispuestos a ofrecer parte de vuestro tiempo como voluntarios, poneos en contacto con nosotros.
       without-translation: Sin traducción
     story:
       # Single story page

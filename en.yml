@@ -138,10 +138,21 @@ en:
         title: The End # Traditional ending phrase of a story
         description: That's all the stories we have right now. If you'd like more, please [let us know](https://fabulang.userjot.com).
       help:
-        title: We need help to translate more stories!
-        speaks-this: We have more stories written in English. We need expert volunteers to help translate them. If you can help, please contact us! # more in [this language]
-        speaks-target: We need expert volunteers to help translate more of our stories into English. If you can help, please contact us! # translate into [this language]
-        button: I can help
+        title: We need your help to publish more stories!
+        intro: "We work with independent language experts to translate, review and edit our stories. This is only possible because people like you support our work:"
+        donate:
+          button: Make a donation
+          description: Support %{our_l2_content} specifically. 100% of donations are used to create more content.
+          our_l2_content: # fills in %{our_l2_content} above depending on the language the learner is learning
+            en: our English content
+            fr: our French content
+            it: our Italian content
+            es: our Spanish content
+            de: our German content
+            pt-BR: our Brazilian Portuguese content
+        volunteer:
+          button: Help us translate
+          description: If you're a language expert, and you're happy to volunteer some of your time, please get in touch.
       without-translation: Without translation
     story:
       # Single story page

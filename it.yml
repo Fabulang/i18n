@@ -119,10 +119,21 @@ it:
         title: Fine
         description: Queste sono tutte le storie che abbiamo al momento. Se ne vuoi di più, per favore [facci sapere](https://fabulang.userjot.com).
       help:
-        title: Abbiamo bisogno di aiuto per tradurre più storie!
-        speaks-this: Abbiamo altre storie scritte in inglese. Abbiamo bisogno di volontari esperti per aiutarci a tradurle. Se puoi aiutare, contattaci!
-        speaks-target: Abbiamo bisogno di volontari esperti per aiutarci a tradurre altre delle nostre storie in italiano. Se puoi aiutare, contattaci!
-        button: Posso aiutare
+        title: Abbiamo bisogno del vostro aiuto per pubblicare più storie!
+        intro: "Collaboriamo con esperti linguistici indipendenti per tradurre, revisionare e curare le nostre storie. Questo è possibile solo grazie al supporto di persone come voi:"
+        donate:
+          button: Fai una donazione
+          description: Sostenete in modo specifico %{our_l2_content}. Il 100% delle donazioni viene utilizzato per creare nuovi contenuti.
+          our_l2_content:
+            en: i nostri contenuti in inglese
+            fr: i nostri contenuti in francese
+            it: i nostri contenuti in italiano
+            es: i nostri contenuti in spagnolo
+            de: i nostri contenuti in tedesco
+            pt-BR: i nostri contenuti in portoghese brasiliano
+        volunteer:
+          button: Aiutateci a tradurre
+          description: Se siete esperti di lingue e siete disponibili a offrire un po' del vostro tempo come volontari, vi invitiamo a contattarci.
       without-translation: Senza traduzione
     story:
       story-for:
