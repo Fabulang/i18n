@@ -345,22 +345,24 @@ it:
       - Leggi offline, su qualsiasi dispositivo
       - Aggiornamenti gratuiti per sempre
       - Supporta Fabulang ❤
-  email:
-    dear: Cari Fabulinguisti
+  email: # Iscrizione alla newsletter via email
     topics:
       stories:
-        because: Hai ricevuto questa email perché ti sei registrato/a sul nostro sito web.
-        intro: Ci sono nuove storie per te da leggere!
-        ebook:
-          owners: Hai già l'ebook? Ora include le nuove storie sopra.
-          again: Scaricalo di nuovo.
-    survey: Ti stiamo inviando email troppo spesso? Non abbastanza spesso? Per favore, [facci sapere come possiamo migliorare le nostre email](https://forms.gle/Q3DDvqvnwAjjtoYK7).
-    unsubscribe: Disiscriviti
+        name: Nuove storie
+        description: Nuove storie e aggiornamenti importanti del sito
+        when: ci sono nuove storie nelle lingue che stai imparando
+        also: ci sono nuove funzionalità importanti o altri annunci rilevanti
+      ebook:
+        name: Aggiornamenti dell'ebook
+        description: È disponibile una nuova versione del nostro ebook
+        when: ""
+        also: ""
     form:
       sections:
         details: I tuoi dati
         l1: Parli
         l2: Stai imparando
+        topics: Di cosa dovremmo scriverti via email?
         why: Perché sei qui?
       fields:
         email: Email
@@ -375,8 +377,8 @@ it:
         intro: Compila questo modulo per completare l'iscrizione.
         update: Puoi aggiornare i tuoi dati qui sotto.
         name: "**Il tuo vero nome** aiuta a garantire che le nostre email non finiscano nello spam."
-        when: "Ti invieremo un'email quando ci saranno nuove storie nelle lingue che **stai imparando**."
-        also: Ti informeremo anche occasionalmente sulle nuove funzionalità importanti o altri annunci rilevanti.
+        when: "Ti invieremo un'email quando"
+        also: "Ti invieremo anche un'email quando"
       messages:
         subscribed: Grazie! Ora sei iscritto.
         updated: Grazie! Abbiamo aggiornato i tuoi dati e lo stato dell'iscrizione.
@@ -388,11 +390,13 @@ it:
     error:
       error: Spiacenti, qualcosa è andato storto.
       unknown: Qualcosa è andato storto.
-      retry: Per favore, riprova più tardi.
+      retry: Per favore, riprova.
+      retry-short: Attendi un momento prima di riprovare.
+      retry-long: Torna più tardi e riprova.
       invalid: Assicurati di aver compilato correttamente il modulo, poi riprova.
       connection: Spiacenti, stiamo riscontrando problemi di connessione.
       robot: Il nostro sistema pensa che tu possa essere un robot.
-      cannot: Spiacenti, non puoi usare questo modulo.
+      cannot: Non hai il permesso di usare questo modulo.
       noscript: Per prevenire lo spam, richiediamo JavaScript per utilizzare questo modulo.
     validation:
       required: Queste informazioni sono obbligatorie.
@@ -400,3 +404,18 @@ it:
       name: Spiacenti, non possiamo usare questo nome. Per favore, modifica il modo in cui lo scrivi.
       maxlength: Non può avere più di {0} caratteri.
       minlength: Non può avere meno di {0} caratteri.
+    verify:
+      title: Ultimo passaggio
+      intro: Per completare questa operazione, conferma di avere accesso a %{email}.
+      label: Inserisci il codice di 6 cifre che ti abbiamo appena inviato via email
+      button: Verifica
+      resend:
+        prefix: Non hai ricevuto il codice?
+        available: Potrai richiederne un altro tra %{time}.
+        unavailable: Non puoi più richiedere altri codici. Se ancora non lo ricevi, dovrai ricominciare più tardi.
+        button: Inviami un nuovo codice
+        success: Abbiamo inviato un nuovo codice.
+        failure: Non siamo riusciti a inviare un nuovo codice.
+      error:
+        expired: Quel codice è scaduto.
+        wrong: Quel codice non era corretto.

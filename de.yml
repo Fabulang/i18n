@@ -374,38 +374,40 @@ de:
         - Offline auf jedem Gerät lesen
         - Kostenlose Updates – für immer
         - Unterstütze Fabulang ❤
-  email:
-    dear: Liebe Fabulinguists # made-up word combining Fabu with linguist
+  email: # Anmeldung zum E-Mail-Newsletter
     topics:
       stories:
-        because: Du erhältst diese E-Mail, weil du dich auf unserer Website angemeldet hast.
-        intro: Es gibt neue Geschichten für dich zum Lesen!
-        ebook:
-          owners: Besitzt du das E-Book bereits? Es enthält nun auch die oben genannten neuen Geschichten.
-          again: Erneut herunterladen
-    survey: Schreiben wir dir zu oft? Nicht oft genug? Bitte [lass uns wissen, wie wir unsere E-Mails verbessern können](https://forms.gle/Q3DDvqvnwAjjtoYK7).
-    unsubscribe: Abbestellen
+        name: Neue Geschichten
+        description: Neue Geschichten und wichtige Website-Neuigkeiten
+        when: es neue Geschichten in den Sprachen gibt, die du lernst
+        also: es wichtige neue Funktionen oder andere große Neuigkeiten gibt
+      ebook:
+        name: Aktualisierungen zum E-Book
+        description: Eine neue Version unseres E-Books ist verfügbar
+        when: ""
+        also: ""
     form:
       sections:
-        details: Deine Angaben # Title of section where user enters email, name, etc.
-        l1: Du sprichst # User selects their native language
-        l2: Du lernst # User selects languages they are learning
-        why: Warum bist du hier? # User selects their motivation for learning languages
+        details: Deine Angaben
+        l1: Du sprichst
+        l2: Du lernst
+        topics: Worüber sollen wir dir E-Mails schicken?
+        why: Warum bist du hier?
       fields:
         email: E-Mail
-        first: Vorname # The user's name by which they wish to be addressed in a personal context
-        last: Nachname # Additional name of the user which together makes their full name
+        first: Vorname
+        last: Nachname
         why:
-          personal: Persönlich # personal reasons like travel or fun
-          school: Schule # learning in an educational setting
-          work: Beruf # learning to help with a job or business
-          teaching: Lehre # you're a language teacher
+          personal: Persönlich
+          school: Schule
+          work: Beruf
+          teaching: Lehre
       info:
         intro: Bitte fülle dieses Formular aus, um dein Abonnement abzuschließen.
         update: Du kannst deine Angaben unten aktualisieren.
         name: "**Dein richtiger Name** hilft dabei, dass unsere E-Mails nicht im Spam-Ordner landen."
-        when: "Wir benachrichtigen dich per E-Mail, wenn es neue Geschichten in den Sprachen gibt, die du **lernst**."
-        also: Außerdem informieren wir dich gelegentlich über wichtige neue Funktionen oder andere große Neuigkeiten.
+        when: "Wir schicken dir eine E-Mail, wenn"
+        also: "Wir schicken dir auch eine E-Mail, wenn"
       messages:
         subscribed: Vielen Dank! Du bist nun angemeldet.
         updated: Vielen Dank! Deine Angaben und dein Abonnement wurden aktualisiert.
@@ -417,11 +419,13 @@ de:
     error:
       error: Entschuldigung, das hat nicht funktioniert.
       unknown: Etwas ist schiefgelaufen.
-      retry: Bitte versuche es später erneut.
+      retry: Bitte versuche es erneut.
+      retry-short: Bitte warte einen Moment, bevor du es erneut versuchst.
+      retry-long: Bitte komm später zurück und versuche es erneut.
       invalid: Bitte stelle sicher, dass das Formular korrekt ausgefüllt wurde, und versuche es erneut.
       connection: Entschuldigung, wir haben Probleme, eine Verbindung herzustellen.
       robot: Unser System vermutet, dass du ein Roboter bist.
-      cannot: Entschuldigung, du kannst dieses Formular nicht verwenden.
+      cannot: Du bist nicht berechtigt, dieses Formular zu verwenden.
       noscript: Um Spam zu vermeiden, benötigen wir JavaScript für dieses Formular.
     validation:
       required: Diese Angabe wird benötigt.
@@ -429,3 +433,18 @@ de:
       name: Entschuldigung, dieser Name kann nicht verwendet werden. Bitte ändere die Schreibweise.
       maxlength: Darf nicht länger als {0} Zeichen sein.
       minlength: Darf nicht kürzer als {0} Zeichen sein.
+    verify:
+      title: Letzter Schritt
+      intro: Um fortzufahren, bestätige bitte, dass du Zugriff auf %{email} hast.
+      label: Gib den 6-stelligen Code ein, den wir dir gerade per E-Mail geschickt haben
+      button: Bestätigen
+      resend:
+        prefix: Keinen Code erhalten?
+        available: Du kannst in %{time} einen weiteren anfordern.
+        unavailable: Du kannst keine weiteren Codes anfordern. Wenn du ihn immer noch nicht erhältst, musst du es später noch einmal neu beginnen.
+        button: Schick mir einen neuen Code
+        success: Wir haben einen neuen Code gesendet.
+        failure: Wir konnten keinen neuen Code senden.
+      error:
+        expired: Dieser Code ist abgelaufen.
+        wrong: Dieser Code war nicht korrekt.

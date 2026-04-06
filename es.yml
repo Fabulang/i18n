@@ -373,38 +373,40 @@ es:
         - Leer sin conexión, en cualquier dispositivo
         - Actualizaciones gratuitas para siempre
         - Apoya a Fabulang ❤
-  email:
-    dear: Queridos Fabulinguistas # made up word combining Fabu with linguist
+  email: # Registro al boletín por correo
     topics:
       stories:
-        because: Recibiste este correo electrónico porque te registraste en nuestro sitio web.
-        intro: ¡Hay nuevas historias para que leas!
-        ebook:
-          owners: ¿Ya tienes el ebook? Ahora incluye las nuevas historias mencionadas arriba.
-          again: Descárgalo de nuevo
-    survey: ¿Te enviamos correos electrónicos con demasiada frecuencia? ¿O no lo suficiente? Por favor, [dinos cómo podemos mejorar nuestros correos](https://forms.gle/Q3DDvqvnwAjjtoYK7).
-    unsubscribe: Cancelar suscripción
+        name: Nuevas historias
+        description: Nuevas historias y actualizaciones importantes del sitio
+        when: haya nuevas historias en los idiomas que estás aprendiendo
+        also: haya nuevas funciones importantes u otros anuncios importantes
+      ebook:
+        name: Actualizaciones del ebook
+        description: Hay disponible una nueva versión de nuestro ebook
+        when: ""
+        also: ""
     form:
       sections:
-        details: Tus datos # Title of section where user enters email, name, etc.
-        l1: Hablas # User selects their native language
-        l2: Estás aprendiendo # User selects languages they are learning
-        why: ¿Por qué estás aquí? # User selects their motivation for learning languages
+        details: Tus datos
+        l1: Hablas
+        l2: Estás aprendiendo
+        topics: ¿Sobre qué deberíamos enviarte correos?
+        why: ¿Por qué estás aquí?
       fields:
         email: Correo electrónico
-        first: Nombre # The user's name by which they wish to be addressed in a personal context
-        last: Apellido # Additional name of the user which together makes their full name
+        first: Nombre
+        last: Apellido
         why:
-          personal: Personal # personal reasons like travel or fun
-          school: Escuela # learning in an educational setting
-          work: Trabajo # learning to help with a job or business
-          teaching: Enseñanza # you're a language teacher
+          personal: Personal
+          school: Escuela
+          work: Trabajo
+          teaching: Enseñanza
       info:
         intro: Por favor, completa este formulario para finalizar tu suscripción.
         update: Puedes actualizar tus datos a continuación.
         name: "**Tu nombre real** ayuda a garantizar que nuestros correos no vayan a la carpeta de spam."
-        when: "Te enviaremos un correo cuando haya nuevas historias en los idiomas que estás **aprendiendo**."
-        also: También te informaremos ocasionalmente sobre nuevas funciones importantes u otros anuncios importantes.
+        when: "Te enviaremos un correo cuando"
+        also: "También te enviaremos un correo cuando"
       messages:
         subscribed: ¡Gracias! Ahora estás suscrito.
         updated: ¡Gracias! Hemos actualizado tus datos y el estado de tu suscripción.
@@ -416,11 +418,13 @@ es:
     error:
       error: Lo sentimos, algo salió mal.
       unknown: Algo salió mal.
-      retry: Por favor, inténtalo de nuevo más tarde.
+      retry: Por favor, inténtalo de nuevo.
+      retry-short: Espera un momento antes de intentarlo de nuevo.
+      retry-long: Vuelve más tarde e inténtalo de nuevo.
       invalid: Por favor, asegúrate de haber completado el formulario correctamente y vuelve a intentarlo.
       connection: Lo sentimos, estamos teniendo problemas de conexión.
       robot: Nuestro sistema cree que podrías ser un robot.
-      cannot: Lo sentimos, no puedes usar este formulario.
+      cannot: No tienes permiso para usar este formulario.
       noscript: Para evitar el spam, requerimos JavaScript para usar este formulario.
     validation:
       required: Esta información es obligatoria.
@@ -428,3 +432,18 @@ es:
       name: Lo sentimos, no podemos usar este nombre. Por favor, ajusta cómo lo escribes.
       maxlength: No puede tener más de {0} caracteres.
       minlength: No puede tener menos de {0} caracteres.
+    verify:
+      title: Último paso
+      intro: Para completar esta acción, confirma que tienes acceso a %{email}.
+      label: Introduce el código de 6 dígitos que te acabamos de enviar por correo
+      button: Verificar
+      resend:
+        prefix: ¿No recibiste el código?
+        available: Podrás solicitar otro dentro de %{time}.
+        unavailable: Ya no puedes solicitar más códigos. Si todavía no lo recibes, tendrás que volver a empezar más tarde.
+        button: Envíame un código nuevo
+        success: Hemos enviado un código nuevo.
+        failure: No hemos podido enviar un código nuevo.
+      error:
+        expired: Ese código ha caducado.
+        wrong: Ese código no era correcto.

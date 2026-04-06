@@ -374,22 +374,24 @@ en:
       - Read offline, on any device
       - Free updates forever
       - Support Fabulang ❤
-  email:
-    dear: Dear Fabulinguists # made up word combining Fabu with linguist
+  email: # Email newsletter signup
     topics:
       stories:
-        because: You received this email because you signed up on our website.
-        intro: There are new stories for you to read!
-        ebook:
-          owners: Already own the ebook? It now includes the new stories above.
-          again: Download it again
-    survey: Are we emailing you too often? Not often enough? Please [let us know how we can improve our emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
-    unsubscribe: Unsubscribe
+        name: New Stories
+        description: New stories and important site updates
+        when: there are new stories in the languages you're learning
+        also: there are big new features, or other big announcements
+      ebook:
+        name: Ebook Updates
+        description: A new version of our ebook is available
+        when: ""
+        also: ""
     form:
       sections:
         details: Your details # Title of section where user enters email, name, etc.
         l1: You speak # User selects their native language
         l2: You're learning # User selects languages they are learning
+        topics: What should we email about? # User selects which email topics they want to hear about
         why: Why are you here? # User selects their motivation for learning languages
       fields:
         email: Email
@@ -404,8 +406,8 @@ en:
         intro: Please complete this form to finish subscribing.
         update: You can update your details below.
         name: "**Your real name** helps ensure our emails don't go to spam."
-        when: "We'll email when there are new stories in the languages you're **learning**."
-        also: We'll also let you know occasionally when there are big new features, or other big announcements.
+        when: "We'll email when"
+        also: "We'll also email when"
       messages:
         subscribed: Thanks! You're now subscribed.
         updated: Thanks! We've updated your details and subscription status.
@@ -417,11 +419,13 @@ en:
     error:
       error: Sorry, that didn't work.
       unknown: Something went wrong.
-      retry: Please try again later.
+      retry: Please try again. # We want the user to try again immediately.
+      retry-short: Please wait a moment before trying again. # We want the user to wait a few seconds to two minutes before trying again.
+      retry-long: Please come back later and try again. # We want the user to wait more than two minutes before trying again.
       invalid: Please ensure you've filled in the form correctly, then try again.
       connection: Sorry, we're having trouble connecting.
       robot: Our system thinks you might be a robot.
-      cannot: Sorry, you can't use this form.
+      cannot: You aren't permitted to use this form.
       noscript: To prevent spam, we require JavaScript to use this form.
     validation:
       required: This information is required.
@@ -429,3 +433,18 @@ en:
       name: Sorry, we can't use this name. Please adjust how you write it.
       maxlength: Can't be more than {0} characters.
       minlength: Can't be less than {0} characters.
+    verify:
+      title: Final step
+      intro: To complete this action, please verify that you own %{email}.
+      label: Enter the 6-digit code we just emailed to you
+      button: Verify
+      resend:
+        prefix: Didn't receive the code?
+        available: You can request another in %{time}.
+        unavailable: You can't request any more codes. If you still don't receive it, you'll have to start again later.
+        button: Email me a new code
+        success: We've sent another code.
+        failure: We couldn't send another code.
+      error:
+        expired: That code has expired.
+        wrong: That code wasn't correct.

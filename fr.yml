@@ -345,22 +345,24 @@ fr:
       - Lisez hors ligne, sur n'importe quel appareil
       - Mises à jour gratuites à vie
       - Soutenez Fabulang ❤
-  email:
-    dear: Chers Fabulinguistes
+  email: # Inscription à la newsletter
     topics:
       stories:
-        because: Vous avez reçu cet email car vous vous êtes inscrit(e) sur notre site web.
-        intro: Il y a de nouvelles histoires à lire pour vous !
-        ebook:
-          owners: Vous possédez déjà l'ebook ? Il inclut maintenant les nouvelles histoires ci-dessus.
-          again: Téléchargez-le à nouveau
-    survey: Vous envoyons-nous des emails trop souvent ? Pas assez souvent ? Merci de [nous faire savoir comment nous pouvons améliorer nos emails](https://forms.gle/Q3DDvqvnwAjjtoYK7).
-    unsubscribe: Se désabonner
+        name: Nouvelles histoires
+        description: Nouvelles histoires et mises à jour importantes du site
+        when: il y aura de nouvelles histoires dans les langues que vous apprenez
+        also: il y aura de nouvelles fonctionnalités importantes ou d'autres annonces majeures
+      ebook:
+        name: Mises à jour de l'ebook
+        description: Une nouvelle version de notre ebook est disponible
+        when: ""
+        also: ""
     form:
       sections:
         details: Vos informations
         l1: Vous parlez
         l2: Vous apprenez
+        topics: Sur quoi devons-nous vous envoyer des emails ?
         why: Pourquoi êtes-vous ici ?
       fields:
         email: Email
@@ -375,8 +377,8 @@ fr:
         intro: Veuillez remplir ce formulaire pour terminer votre abonnement.
         update: Vous pouvez mettre à jour vos informations ci-dessous.
         name: "**Votre vrai nom** aide à éviter que nos emails ne soient considérés comme du spam."
-        when: "Nous vous enverrons un email lorsqu'il y aura de nouvelles histoires dans les langues que vous **apprenez**."
-        also: Nous vous informerons également occasionnellement des nouvelles fonctionnalités importantes ou d'autres annonces majeures.
+        when: "Nous vous enverrons un email quand"
+        also: "Nous vous enverrons également un email quand"
       messages:
         subscribed: Merci ! Vous êtes maintenant abonné(e).
         updated: Merci ! Nous avons mis à jour vos informations et votre abonnement.
@@ -388,11 +390,13 @@ fr:
     error:
       error: Désolé, cela n'a pas fonctionné.
       unknown: Quelque chose s'est mal passé.
-      retry: Veuillez réessayer plus tard.
+      retry: Veuillez réessayer.
+      retry-short: Veuillez patienter un instant avant de réessayer.
+      retry-long: Veuillez revenir plus tard et réessayer.
       invalid: Veuillez vous assurer que vous avez bien rempli le formulaire, puis réessayez.
       connection: Désolé, nous rencontrons des problèmes de connexion.
       robot: Notre système pense que vous pourriez être un robot.
-      cannot: Désolé, vous ne pouvez pas utiliser ce formulaire.
+      cannot: Vous n'avez pas l'autorisation d'utiliser ce formulaire.
       noscript: Pour éviter le spam, nous exigeons JavaScript pour utiliser ce formulaire.
     validation:
       required: Ces informations sont obligatoires.
@@ -400,3 +404,18 @@ fr:
       name: Désolé, nous ne pouvons pas utiliser ce nom. Veuillez modifier la façon dont vous l'écrivez.
       maxlength: Ne peut pas dépasser {0} caractères.
       minlength: Ne peut pas être inférieur à {0} caractères.
+    verify:
+      title: Dernière étape
+      intro: Pour terminer, veuillez confirmer que vous avez bien accès à %{email}.
+      label: Saisissez le code à 6 chiffres que nous venons de vous envoyer
+      button: Vérifier
+      resend:
+        prefix: Vous n'avez pas reçu le code ?
+        available: Vous pourrez en demander un autre dans %{time}.
+        unavailable: Vous ne pouvez plus demander d'autre code. Si vous ne le recevez toujours pas, il faudra recommencer plus tard.
+        button: M'envoyer un nouveau code
+        success: Nous avons envoyé un nouveau code.
+        failure: Nous n'avons pas pu envoyer un nouveau code.
+      error:
+        expired: Ce code a expiré.
+        wrong: Ce code n'est pas correct.
