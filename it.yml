@@ -382,6 +382,7 @@ it:
       messages:
         subscribed: Grazie! Ora sei iscritto.
         updated: Grazie! Abbiamo aggiornato i tuoi dati e lo stato dell'iscrizione.
+        unsubscribed: La tua iscrizione a tutte le email è stata annullata.
   form:
     info:
       captcha: Verifica che tu non sia un robot...

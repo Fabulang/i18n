@@ -411,6 +411,7 @@ pt-BR:
       messages:
         subscribed: Obrigado! Você agora está inscrito.
         updated: Obrigado! Atualizamos seus dados e status de inscrição.
+        unsubscribed: Sua inscrição em todos os e-mails foi cancelada.
   form:
     info:
       captcha: Verificando se você não é um robô...

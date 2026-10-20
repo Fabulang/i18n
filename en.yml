@@ -411,6 +411,7 @@ en:
       messages:
         subscribed: Thanks! You're now subscribed.
         updated: Thanks! We've updated your details and subscription status.
+        unsubscribed: You have been unsubscribed from all emails.
   form:
     info:
       captcha: Checking you're not a robot...

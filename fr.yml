@@ -382,6 +382,7 @@ fr:
       messages:
         subscribed: Merci ! Vous êtes maintenant abonné(e).
         updated: Merci ! Nous avons mis à jour vos informations et votre abonnement.
+        unsubscribed: Vous ne recevrez plus aucun e-mail.
   form:
     info:
       captcha: Vérification que vous n'êtes pas un robot...

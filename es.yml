@@ -410,6 +410,7 @@ es:
       messages:
         subscribed: ¡Gracias! Ahora estás suscrito.
         updated: ¡Gracias! Hemos actualizado tus datos y el estado de tu suscripción.
+        unsubscribed: Se ha cancelado tu suscripción a todos los correos electrónicos.
   form:
     info:
       captcha: Verificando que no eres un robot...

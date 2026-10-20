@@ -411,6 +411,7 @@ de:
       messages:
         subscribed: Vielen Dank! Du bist nun angemeldet.
         updated: Vielen Dank! Deine Angaben und dein Abonnement wurden aktualisiert.
+        unsubscribed: Du wurdest von allen E-Mails abgemeldet.
   form:
     info:
       captcha: Überprüfung, ob du kein Roboter bist...
