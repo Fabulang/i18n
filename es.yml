@@ -411,6 +411,11 @@ es:
         subscribed: ¡Gracias! Ahora estás suscrito.
         updated: ¡Gracias! Hemos actualizado tus datos y el estado de tu suscripción.
         unsubscribed: Se ha cancelado tu suscripción a todos los correos electrónicos.
+        error:
+          undeliverable: Hemos tenido problemas para enviar un correo a esta dirección.
+          spam: El destinatario marcó nuestro correo como spam.
+          change: Si escribiste mal la dirección, haz clic en %{cancel} para corregirla.
+          cooldown: No enviaremos más correos a esta dirección durante %{time}.
   form:
     info:
       captcha: Verificando que no eres un robot...

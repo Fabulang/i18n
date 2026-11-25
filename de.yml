@@ -412,6 +412,11 @@ de:
         subscribed: Vielen Dank! Du bist nun angemeldet.
         updated: Vielen Dank! Deine Angaben und dein Abonnement wurden aktualisiert.
         unsubscribed: Du wurdest von allen E-Mails abgemeldet.
+        error:
+          undeliverable: Wir hatten Schwierigkeiten, eine E-Mail an diese Adresse zu senden.
+          spam: Der Empfänger hat unsere E-Mail als Spam gemeldet.
+          change: Wenn du dich bei der Adresse vertippt hast, klicke auf %{cancel} und korrigiere sie.
+          cooldown: Wir schicken für %{time} keine weiteren E-Mails an diese Adresse.
   form:
     info:
       captcha: Überprüfung, ob du kein Roboter bist...

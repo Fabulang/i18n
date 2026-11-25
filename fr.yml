@@ -383,6 +383,11 @@ fr:
         subscribed: Merci ! Vous êtes maintenant abonné(e).
         updated: Merci ! Nous avons mis à jour vos informations et votre abonnement.
         unsubscribed: Vous ne recevrez plus aucun e-mail.
+        error:
+          undeliverable: Nous avons eu du mal à envoyer un email à cette adresse.
+          spam: Ce destinataire a signalé notre email comme spam.
+          change: Si vous avez mal saisi l'adresse, cliquez sur %{cancel} pour la corriger.
+          cooldown: Nous n'enverrons plus d'email à cette adresse pendant %{time}.
   form:
     info:
       captcha: Vérification que vous n'êtes pas un robot...

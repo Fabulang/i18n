@@ -412,6 +412,11 @@ pt-BR:
         subscribed: Obrigado! Você agora está inscrito.
         updated: Obrigado! Atualizamos seus dados e status de inscrição.
         unsubscribed: Sua inscrição em todos os e-mails foi cancelada.
+        error:
+          undeliverable: Tivemos dificuldade para enviar um email a este endereço.
+          spam: O destinatário marcou nosso email como spam.
+          change: Se você digitou o endereço errado, clique em %{cancel} para corrigi-lo.
+          cooldown: Não enviaremos outros emails para este endereço durante %{time}.
   form:
     info:
       captcha: Verificando se você não é um robô...
