@@ -447,7 +447,7 @@ de:
       button: Bestätigen
       resend:
         prefix: Keinen Code erhalten?
-        available: Du kannst in %{time} einen weiteren anfordern.
+        available: "Wartezeit bis zum nächsten Code: %{time}."
         unavailable: Du kannst keine weiteren Codes anfordern. Wenn du ihn immer noch nicht erhältst, musst du es später noch einmal neu beginnen.
         button: Schick mir einen neuen Code
         success: Wir haben einen neuen Code gesendet.
