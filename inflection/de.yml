@@ -1,0 +1,17 @@
+- pattern: eine
+  inflections:
+    - replacement: einer
+      case: dative
+
+- pattern: ein
+  inflections:
+    - replacement: einem
+      case: dative
+    - replacement: einen
+      case: accusative
+      gender: masculine
+
+- pattern: Tage
+  inflections:
+    - replacement: Tagen
+      case: dative

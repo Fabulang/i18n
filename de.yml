@@ -417,7 +417,7 @@ de:
           undeliverable: Wir hatten Schwierigkeiten, eine E-Mail an diese Adresse zu senden.
           spam: Der Empfänger hat unsere E-Mail als Spam gemeldet.
           change: Wenn du dich bei der Adresse vertippt hast, klicke auf %{cancel} und korrigiere sie.
-          cooldown: "Wir schicken vorübergehend keine E-Mails an diese Adresse. Verbleibende Wartezeit: %{time}."
+          cooldown: Wir schicken für %{time} keine weiteren E-Mails an diese Adresse.
   form:
     info:
       captcha: Überprüfung, ob du kein Roboter bist...
@@ -447,7 +447,7 @@ de:
       button: Bestätigen
       resend:
         prefix: Keinen Code erhalten?
-        available: "Wartezeit bis zum nächsten Code: %{time}."
+        available: Du kannst in %{time} einen weiteren anfordern.
         unavailable: Du kannst keine weiteren Codes anfordern. Wenn du ihn immer noch nicht erhältst, musst du es später noch einmal neu beginnen.
         button: Schick mir einen neuen Code
         success: Wir haben einen neuen Code gesendet.
