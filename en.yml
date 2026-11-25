@@ -406,6 +406,7 @@ en:
         intro: Please complete this form to finish subscribing.
         update: You can update your details below.
         name: "**Your real name** helps ensure our emails don't go to spam."
+        name-written: "My name should be written \"%{name}\""
         when: "We'll email when"
         also: "We'll also email when"
       messages:

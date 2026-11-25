@@ -405,6 +405,7 @@ es:
         intro: Por favor, completa este formulario para finalizar tu suscripción.
         update: Puedes actualizar tus datos a continuación.
         name: "**Tu nombre real** ayuda a garantizar que nuestros correos no vayan a la carpeta de spam."
+        name-written: "Mi nombre se escribe «%{name}»"
         when: "Te enviaremos un correo cuando"
         also: "También te enviaremos un correo cuando"
       messages:

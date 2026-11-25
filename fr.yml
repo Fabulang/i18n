@@ -377,6 +377,7 @@ fr:
         intro: Veuillez remplir ce formulaire pour terminer votre abonnement.
         update: Vous pouvez mettre à jour vos informations ci-dessous.
         name: "**Votre vrai nom** aide à éviter que nos emails ne soient considérés comme du spam."
+        name-written: "Mon nom s'écrit « %{name} »"
         when: "Nous vous enverrons un email quand"
         also: "Nous vous enverrons également un email quand"
       messages:

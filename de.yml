@@ -406,6 +406,7 @@ de:
         intro: Bitte fülle dieses Formular aus, um dein Abonnement abzuschließen.
         update: Du kannst deine Angaben unten aktualisieren.
         name: "**Dein richtiger Name** hilft dabei, dass unsere E-Mails nicht im Spam-Ordner landen."
+        name-written: "Mein Name wird „%{name}“ geschrieben"
         when: "Wir schicken dir eine E-Mail, wenn"
         also: "Wir schicken dir auch eine E-Mail, wenn"
       messages:

@@ -377,6 +377,7 @@ it:
         intro: Compila questo modulo per completare l'iscrizione.
         update: Puoi aggiornare i tuoi dati qui sotto.
         name: "**Il tuo vero nome** aiuta a garantire che le nostre email non finiscano nello spam."
+        name-written: "Il mio nome si scrive «%{name}»"
         when: "Ti invieremo un'email quando"
         also: "Ti invieremo anche un'email quando"
       messages:
