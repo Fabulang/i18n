@@ -40,6 +40,8 @@ pt-BR:
     allow: Permitir
     cancel: Cancelar
     save: Salvar
+    looks-good: Está bom assim
+    undo: Desfazer
     whats-this: O que é isso? # User can find out more about something
     learn-more: Saiba mais
     more-info: Mais informações
@@ -406,7 +408,7 @@ pt-BR:
         intro: Preencha este formulário para concluir sua inscrição.
         update: Você pode atualizar seus dados abaixo.
         name: "**Seu nome verdadeiro** ajuda a garantir que nossos emails não sejam enviados para o spam."
-        name-written: "Meu nome se escreve \"%{name}\""
+        name-adjusted: Ajustamos as letras maiúsculas do seu nome.
         when: "Enviaremos um email quando"
         also: "Também enviaremos um email quando"
       messages:

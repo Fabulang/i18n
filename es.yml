@@ -40,6 +40,8 @@ es:
     allow: Permitir
     cancel: Cancelar
     save: Guardar
+    looks-good: Está bien así
+    undo: Deshacer
     whats-this: ¿Qué es esto? # User can find out more about something
     learn-more: Saber más
     more-info: Más información
@@ -405,7 +407,7 @@ es:
         intro: Por favor, completa este formulario para finalizar tu suscripción.
         update: Puedes actualizar tus datos a continuación.
         name: "**Tu nombre real** ayuda a garantizar que nuestros correos no vayan a la carpeta de spam."
-        name-written: "Mi nombre se escribe «%{name}»"
+        name-adjusted: Hemos ajustado las mayúsculas de tu nombre.
         when: "Te enviaremos un correo cuando"
         also: "También te enviaremos un correo cuando"
       messages:

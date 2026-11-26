@@ -35,6 +35,8 @@ it:
     allow: Consenti
     cancel: Annulla
     save: Salva
+    looks-good: Va bene così
+    undo: Annulla
     whats-this: Che cos'è?
     learn-more: Scopri di più
     more-info: Più informazioni
@@ -377,7 +379,7 @@ it:
         intro: Compila questo modulo per completare l'iscrizione.
         update: Puoi aggiornare i tuoi dati qui sotto.
         name: "**Il tuo vero nome** aiuta a garantire che le nostre email non finiscano nello spam."
-        name-written: "Il mio nome si scrive «%{name}»"
+        name-adjusted: Abbiamo sistemato le maiuscole nel tuo nome.
         when: "Ti invieremo un'email quando"
         also: "Ti invieremo anche un'email quando"
       messages:

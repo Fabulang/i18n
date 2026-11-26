@@ -35,6 +35,8 @@ fr:
     allow: Autoriser
     cancel: Annuler
     save: Enregistrer
+    looks-good: C’est bon
+    undo: Annuler
     whats-this: "Qu'est-ce que c'est ?"
     learn-more: En savoir plus
     more-info: Plus d'infos
@@ -377,7 +379,7 @@ fr:
         intro: Veuillez remplir ce formulaire pour terminer votre abonnement.
         update: Vous pouvez mettre à jour vos informations ci-dessous.
         name: "**Votre vrai nom** aide à éviter que nos emails ne soient considérés comme du spam."
-        name-written: "Mon nom s'écrit « %{name} »"
+        name-adjusted: Nous avons ajusté les majuscules dans votre nom.
         when: "Nous vous enverrons un email quand"
         also: "Nous vous enverrons également un email quand"
       messages:
